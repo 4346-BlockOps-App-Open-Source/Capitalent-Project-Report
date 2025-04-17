@@ -1,3 +1,36 @@
+<div align="center">
+  
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# Carrera de Ingienería de Software - 2510
+## Open Source - 1ASI0729
+![Image](https://github.com/user-attachments/assets/ad49f3f8-ce77-48f3-a032-38e6311d31b2)
+# Informe de Trabajo Final
+### Profesor: Rafael Oswaldo Castro Veramendi
+### Startup: BlockOps
+### Producto: Capitalent
+
+### Sección: 4346
+
+|           Estudiante           |     Código      |
+|--------------------------------|-----------------|
+|                                |                 |
+| Elescano Leon, Piero Hugo      |   u202313354    |
+| Gutarra Velapatiño, Sebastian  |   u20241A314    |
+| Llerena Delgado, Renzo Miguel  |   u202312399    |
+| Villafuerte Tapia, Renzo Alonso|   u202310670    |
+
+### **Abril, 2025**
+</div>
+
+# **Registro de Versiones Del Informe**
+
+# Project Report Collaboration Insights 
+
+  - **Link de la organización:** 
+
+  - **Link del repositorio:** 
+
+---
 # Capitalent-Project-Report
 # Contenido
 
