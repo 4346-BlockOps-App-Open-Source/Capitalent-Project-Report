@@ -11,13 +11,13 @@
 
 ### Sección: 4346
 
-|           Estudiante           |     Código      |
-|--------------------------------|-----------------|
-|                                |                 |
-| Elescano Leon, Piero Hugo      |   u202313354    |
-| Gutarra Velapatiño, Sebastian  |   u20241A314    |
-| Llerena Delgado, Renzo Miguel  |   u202312399    |
-| Villafuerte Tapia, Renzo Alonso|   u202310670    |
+|           Estudiante             |     Código      |
+|----------------------------------|-----------------|
+| Elescano Leon, Piero Hugo        |   u202313354    |
+| Gutarra Velapatiño, Sebastian    |   u20241A314    |
+| Llerena Delgado, Renzo Miguel    |   u202312399    |
+| Mechan Chumpitaz, Rodrigo Nicolás|   u202114649    |
+| Villafuerte Tapia, Renzo Alonso  |   u202310670    |
 
 ### **Abril, 2025**
 </div>
