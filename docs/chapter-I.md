@@ -1,3 +1,4 @@
+---
 # Capítulo I: Introducción
 
 En esta sección describimos el perfil de nuestra Startup.
@@ -72,62 +73,114 @@ En esta sección describimos el perfil de nuestra Startup.
 
 - **¿Cuántos problemas se dan en un día? ¿En una semana? ¿En un mes? ¿Cuánto dinero están implicando?**
 
-### 1.2.2 Lean UX Process.
+## 1.2.2 Lean UX Process.
 
 En esta sección, iniciamos el proceso de Lean UX, que nos permitirá definir y refinar la visión del modelo de negocio que será soportado por nuestro producto de software. La metodología Lean UX nos ayuda a enfocar el diseño de nuestra solución en torno a la resolución de problemas y la creación de valor real para nuestros usuarios.
 
 
 #### 1.2.2.1. Lean UX Problem Statements.
-
-A continuación, utilizamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para enfocar nuestro equipo en la creación de una solución que responda eficazmente a las necesidades de los clientes, sin limitaciones que puedan afectar la creatividad y agilidad del desarrollo.
-
-- La plantilla de Business Opportunity Statement:
-
-- ReStyle Lean UX Problem Statements:
-
+Los inversionistas novatos y no técnicos que participan en los mercados financieros (acciones, criptomonedas, commodities, etc.) no cuentan con herramientas accesibles ni conocimientos suficientes para analizar el comportamiento del mercado, lo que los lleva a tomar decisiones impulsivas o desinformadas, resultando en pérdidas financieras y frustración. Necesitan una solución que les brinde orientación clara, en tiempo real y basada en datos confiables, para que puedan invertir con mayor confianza, reducir riesgos y mejorar su rendimiento sin necesidad de ser expertos en análisis técnico.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+## User Insights & Lean UX Canvas
 
-- **Users:**
+---
 
+### ¿Quiénes son nuestros usuarios?
 
-- **User Outcomes:**
+Tenemos dos segmentos clave:
 
+- **Inversionistas individuales no expertos:** traders minoristas, jóvenes interesados en criptomonedas, nuevos usuarios de plataformas de inversión.
+- **Inversionistas con conocimientos técnicos básicos:** que desean optimizar sus decisiones sin dedicar horas al análisis técnico.
 
-- **Suposiciones de negocio:**
+---
 
-- **Suposiciones de usuario:**
+### ¿Dónde encaja nuestro servicio en su vida o trabajo?
 
-    - **¿Quién utiliza nuestra plataforma?**
+**Capitalent** se integra en la rutina diaria de inversión, ofreciendo orientación rápida y confiable a usuarios que siguen el mercado activamente pero carecen de tiempo, experiencia o herramientas especializadas.
 
-    - **¿Cómo se integra nuestro producto en la rutina laboral o cotidiana?**
+Se convierte en una segunda opinión técnica automatizada que reduce el estrés y la incertidumbre de invertir por cuenta propia.
 
-    - **¿Cuáles son los desafíos que aborda nuestro producto?**
+---
 
-    - **¿Cuál es la imagen que deseamos proyectar con nuestro producto?**
+### ¿Qué problemas puede tener nuestro producto?
 
-    - **¿Cuál es el propósito fundamental de nuestra aplicación?**
+- Las señales pueden percibirse como poco confiables si no se explican claramente.
+- Posible sobrecarga de alertas o recomendaciones, generando confusión o desconfianza.
+- Problemas técnicos en la recolección de datos de mercado en tiempo real.
+- Retos en la personalización de señales según el perfil de riesgo del usuario.
+- Barreras de entrada si la interfaz no es lo suficientemente intuitiva para usuarios sin conocimientos financieros.
 
-    - **¿Qué funcionalidades destacan en nuestra aplicación?**
+---
 
+### ¿Cómo y cuándo es usado nuestro producto?
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+- Usado principalmente durante horarios activos del mercado (lunes a viernes, especialmente por la mañana).
+- Consultado varias veces al día para monitorear señales, revisar oportunidades y tomar decisiones.
+- Accedido principalmente desde móviles o laptops por practicidad.
 
+---
 
+### ¿Qué características son importantes?
 
-- **Hipótesis 1:**
+- Algoritmos confiables que brinden señales de compra y venta basadas en análisis técnico real.
+- Explicaciones claras y visuales que muestren por qué se genera una señal.
+- Interfaz simple, amigable y con foco en usabilidad.
+- Alertas personalizadas y configurables según preferencias del usuario.
+- Seguridad y privacidad de los datos personales y preferencias de inversión.
 
-- **Hipótesis 2:**
+---
 
-- **Hipótesis 3:**
- 
-- **Hipótesis 4:**
+### ¿Cómo debe verse y comportarse nuestro producto?
 
-- **Hipótesis 5:**
+- Debe proyectar **confiabilidad**, **claridad** y **tecnología avanzada**.
+- Visualmente limpio, con dashboards intuitivos y gráficos fáciles de entender.
+- Ágil, responsivo, explicativo y sin fricciones, generando confianza incluso en usuarios novatos.
 
+---
 
-#### 1.2.2.4. Lean UX Canvas.
+## Business Outcomes
+
+- Posicionar a **Block Ops** como líder emergente en inteligencia financiera automatizada para inversionistas minoristas.
+- Escalar **Capitalent** a más mercados y clases de activos (acciones, criptos, forex).
+- Alcanzar rentabilidad mediante modelos freemium, suscripciones y alianzas con plataformas de trading.
+- Construir una comunidad de usuarios leales que recomienden el producto.
+
+---
+
+## User Outcomes
+
+- Mayor confianza y seguridad al invertir, incluso sin conocimientos técnicos.
+- Reducción del tiempo y esfuerzo necesarios para monitorear el mercado.
+- Mejora en el rendimiento de sus decisiones de inversión.
+- Satisfacción al contar con una herramienta confiable, clara y útil en su día a día.
+
+---
+
+## Lean UX Hypothesis Statements
+
+### Business Hypothesis
+
+Creemos que al ofrecer una plataforma de inteligencia financiera que brinde señales de compra y venta confiables, claras y en tiempo real, ayudaremos a los inversionistas minoristas a tomar decisiones más informadas, lo que aumentará la adopción y retención del producto.  
+Sabremos que hemos logrado la visión cuando **Capitalent** sea reconocida como una herramienta esencial dentro del ecosistema de inversión personal, evidenciado por una base de usuarios activos creciente, una baja tasa de cancelación y un aumento sostenido en las suscripciones premium.
+
+### User Hypothesis
+
+Creemos que si brindamos a los usuarios una experiencia intuitiva, con análisis técnico automatizado y recomendaciones claras, aumentaremos su confianza al invertir y reduciremos su dependencia de fuentes no confiables o especulativas.  
+Sabremos que estamos mejorando su experiencia cuando los usuarios **reporten una mayor comprensión del mercado**, **una mejora en sus resultados de inversión**, y **recomienden Capitalent a otros inversionistas**.
+
+---
+
+## Lean UX Canvas
+
+Después de completar los pasos del proceso Lean UX, hemos elaborado el Lean UX Canvas, el cual permite visualizar y comprender en su totalidad el problema que enfrentan los usuarios.  
+A través de este enfoque, **identificamos las necesidades clave de nuestros segmentos**, permitiéndonos enfocar los esfuerzos en desarrollar una solución que **no solo resuelva desafíos actuales, sino que mejore activamente la experiencia del usuario** en cada interacción con el sistema.
+
+<td>
+     <img src="/assest/img/chapter-I/LeanUX-Capitalent-OS.png" height="" alt=""><br>
+</td>
+
 
 
 
