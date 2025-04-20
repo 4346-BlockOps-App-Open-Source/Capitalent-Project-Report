@@ -21,13 +21,12 @@ En este apartado el equipo realizará un análisis competitivo de nuestras 3 pri
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-| **Análisis SWOT**                                                                                 
-|-----------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|**Fortalezas**                                     | Precisión de señales, enfoque en IA, automatización completa.                 | Herramientas de análisis profundo y visualización.                          | Alta capacidad predictiva.                                                  | Facilidad de uso y curva de aprendizaje baja.                              |
-|**Debilidades**                                   | No cuenta aún con app móvil nativa.                                           | Alto costo para pequeños inversores.                                       | Falta de personalización de estrategias.                                    | Señales poco detalladas.                                                   |
-| **Oportunidades**                                  | Expansión a LATAM y desarrollo de app móvil.                                  | Integración con brokers nuevos.                                             | Incorporación de redes neuronales avanzadas.                                | Ampliar funcionalidades y agregar dashboards.                              |
-| **Amenazas**                                       | Competencia creciente en IA financiera.                                       | Cambios regulatorios en datos financieros.                                 | Saturación del mercado de trading automático.                               | Baja retención de usuarios experimentados.                                 |
-
+| **Análisis SWOT**      | **Aspecto 1**                                                   | **Aspecto 2**                                                    | **Aspecto 3**                                                      | **Aspecto 4**                                                      |
+|------------------------|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Fortalezas**         | Precisión de señales, enfoque en IA, automatización completa.   | Herramientas de análisis profundo y visualización.               | Alta capacidad predictiva.                                         | Facilidad de uso y curva de aprendizaje baja.                      |
+| **Debilidades**        | No cuenta aún con app móvil nativa.                             | Alto costo para pequeños inversores.                             | Falta de personalización de estrategias.                           | Señales poco detalladas.                                           |
+| **Oportunidades**      | Expansión a LATAM y desarrollo de app móvil.                    | Integración con brokers nuevos.                                  | Incorporación de redes neuronales avanzadas.                       | Ampliar funcionalidades y agregar dashboards.                      |
+| **Amenazas**           | Competencia creciente en IA financiera.                         | Cambios regulatorios en datos financieros.                        | Saturación del mercado de trading automático.                      | Baja retención de usuarios experimentados.                         |
 
 ## 2.2. Entrevistas
 
