@@ -12,6 +12,8 @@ This section presents an impact map to align deliverables with business goals an
 ## 3.4. Product Backlog
 This section lists the prioritized product backlog items, including features, enhancements, and technical tasks.
 
+| **#orden**  | **User Story Id** | **Titulo**                                      | **Descripcion**                                                                 | **Story Points** |
+|-------------|-------------------|--------------------------------------------------|----------------------------------------------------------------------------------|------------------|
 | 1           | US-01             | Visualización clara del valor de la plataforma  | Como usuario nuevo quiero ver desde el landing los beneficios clave de Capitalent para motivarme a registrarme | 3                |
 | 2           | US-02             | Llamado a la acción visible                     | Como usuario quiero ver un botón destacado de registro desde la página principal para empezar rápido | 2                |
 | 3           | US-03             | Recepción de señales de compra y venta          | Como usuario quiero recibir notificaciones cuando se detecten oportunidades para comprar o vender | 5                |
@@ -57,3 +59,4 @@ This section lists the prioritized product backlog items, including features, en
 | 43          | US-43             | Recomendaciones por perfil de riesgo            | Como usuario quiero que las señales se adapten a mi perfil de riesgo registrado | 3                |
 | 44          | US-44             | Dashboard de aprendizaje                        | Como usuario quiero ver una sección con todo mi progreso educativo y sugerencias futuras | 3                |
 | 45          | US-45             | Guardado automático de preferencias             | Como usuario quiero que se guarden automáticamente mis ajustes sin necesidad de confirmación | 1                |
+
