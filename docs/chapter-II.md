@@ -52,7 +52,7 @@ En esta sección se presentan dos User Personas que representan los segmentos cl
 ![Segmento 2 – Mariana Torres](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Mariana%20Torres.png)
 
 
-- **Edad:** 36 años  
+- **Edad:** 26 años  
 - **Ocupación:** Ingeniera de Datos en una fintech  
 - **Ubicación:** Madrid, España  
 - **Conocimiento en inversión:** Avanzado  
