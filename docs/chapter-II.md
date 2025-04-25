@@ -52,7 +52,7 @@ En esta sección se presentan dos User Personas que representan los segmentos cl
 ![Segmento 2 – Mariana Torres](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Mariana%20Torres.png)
 
 
-- **Edad:** 26 años  
+- **Edad:** 36 años  
 - **Ocupación:** Ingeniera de Datos en una fintech  
 - **Ubicación:** Madrid, España  
 - **Conocimiento en inversión:** Avanzado  
@@ -69,13 +69,37 @@ En esta sección se presentan dos User Personas que representan los segmentos cl
 
 
 ### 2.3.2. User Task Matrix
-Matriz de tareas de usuario para identificar necesidades clave.
+
+
+| Tarea                                                       | Javier Ramírez (Gratuito) | Mariana Torres (Premium) |
+|-------------------------------------------------------------|:-------------------------:|:------------------------:|
+| Registrarse en la plataforma                                | ✓                         | ✓                        |
+| Activar plan gratuito/premium                               | ✓ (gratuito)              | ✓ (premium)              |
+| Explorar dashboard simplificado de activos                  | ✓                         |                          |
+| Configurar alertas básicas de compra/venta                  | ✓                         | ✓                        |
+| Ajustar nivel de stop-loss automático                       | ✓                         | ✓                        |
+| Revisar trazabilidad y código open-source                   | ✓                         | ✓                        |
+| Visualizar notificaciones de oportunidad en móvil/web       | ✓                         | ✓                        |
+| Consultar detalle de métricas de precisión y drawdown       |                           | ✓                        |
+| Personalizar parámetros del motor de IA                     |                           | ✓                        |
+| Ejecutar backtests sobre señales                            |                           | ✓                        |
+| Integrar señales vía API en sus scripts de Python/R         |                           | ✓                        |
+| Exportar reportes de rendimiento y confiabilidad de señales |                           | ✓                        |
+
 
 ### 2.3.3. User Journey Mapping
-Mapeo de la experiencia del usuario a través de diferentes etapas.
+
+
+![Segmento 1 – Javier Ramírez](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Javier%20Ramirez%20impact.png)
+![Segmento 2 – Mariana Torres](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Mariana%20Torres%20impact.png)
+
+
 
 ### 2.3.4. Empathy Mapping
 Mapeo de empatía para comprender mejor a los usuarios.
+
+![Segmento 1 – Javier Ramírez](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Javier%20Ramirez%20Empathy.png)
+![Segmento 2 – Mariana Torres](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Mariana%20Torres%20Empathy.png)
 
 ### 2.3.5. As-is Scenario Mapping
 Mapeo de escenarios actuales para identificar oportunidades de mejora.
