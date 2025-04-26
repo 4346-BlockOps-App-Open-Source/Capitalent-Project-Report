@@ -104,5 +104,8 @@ Mapeo de empatía para comprender mejor a los usuarios.
 ### 2.3.5. As-is Scenario Mapping
 Mapeo de escenarios actuales para identificar oportunidades de mejora.
 
+![Segmento 1 – Javier Ramírez](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Jorge%20Ramire%CC%81z%20as%20is.png)
+![Segmento 2 – Mariana Torres](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Mariana%20Torres%20as%20is.png)
+
 ## 2.4. Ubiquitous Language
 Definición de un lenguaje común para facilitar la comunicación entre equipos.
