@@ -7,7 +7,7 @@
 En este apartado el equipo realizará un análisis competitivo de nuestras 3 principales competidores identificados para posteriormente identificar y plantear estrategias que habrá que poner en marcha con respecto a nuestros competidores.
 ### **Competitive Analysis Landscape**
 
-| **Perfil**                       | **Capitalent** | **QuantSignals**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/images.png?raw=true" width="100"/> | **TradeAI**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/tradeai-logo.avif?raw=true" width="100"/> | **SignalPro**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/Logo-Transparency.png?raw=true" width="100"/> |
+| **Perfil**                       | **Capitalent**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/Capitalent.png" width="200"/> | **QuantSignals**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/images.png?raw=true" width="100"/> | **TradeAI**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/tradeai-logo.avif?raw=true" width="100"/> | **SignalPro**<br><img src="https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-competitors/assest/img/chapter-II/Logo-Transparency.png?raw=true" width="200"/> |
 |----------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Overview**                     | Plataforma de inteligencia financiera basada en IA y análisis técnico para generar señales de trading. | Herramienta de análisis cuantitativo con dashboards en tiempo real. | Plataforma de trading automatizado con modelos predictivos basados en IA. | Generador de señales con base en análisis técnico clásico. |
 | **Ventaja competitiva**          | Señales de compra/venta en tiempo real con respaldo de machine learning. | Integración con múltiples exchanges y visualización avanzada. | Enfoque predictivo y gestión de riesgo incorporada. | Simplicidad de uso para traders principiantes. |
@@ -16,17 +16,16 @@ En este apartado el equipo realizará un análisis competitivo de nuestras 3 pri
 | **Producto & servicios**         | Plataforma web con alertas en tiempo real y análisis automatizado. | Aplicación de escritorio y web con visualización dinámica. | API de trading automático y señales integradas. | App móvil con alertas simples y recomendaciones. |
 | **Precio y costos**              | Plan freemium + suscripción mensual premium. | Solo modelo de suscripción anual. | Prueba gratuita + plan mensual y anual. | Costo bajo con opciones gratuitas. |
 | **Canales de distribución**      | Web (optimizada para móvil, próximamente app). | Web y escritorio. | Web y app móvil. | App móvil principalmente. |
-
-
-
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-| **Análisis SWOT**      | **Aspecto 1**                                                   | **Aspecto 2**                                                    | **Aspecto 3**                                                      | **Aspecto 4**                                                      |
-|------------------------|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Análisis SWOT**      | **Aspecto 1**                                                   | **Aspecto 2**                                                    | **Aspecto 3**                                                      | **Aspecto 4**                                              
 | **Fortalezas**         | Precisión de señales, enfoque en IA, automatización completa.   | Herramientas de análisis profundo y visualización.               | Alta capacidad predictiva.                                         | Facilidad de uso y curva de aprendizaje baja.                      |
 | **Debilidades**        | No cuenta aún con app móvil nativa.                             | Alto costo para pequeños inversores.                             | Falta de personalización de estrategias.                           | Señales poco detalladas.                                           |
 | **Oportunidades**      | Expansión a LATAM y desarrollo de app móvil.                    | Integración con brokers nuevos.                                  | Incorporación de redes neuronales avanzadas.                       | Ampliar funcionalidades y agregar dashboards.                      |
 | **Amenazas**           | Competencia creciente en IA financiera.                         | Cambios regulatorios en datos financieros.                        | Saturación del mercado de trading automático.                      | Baja retención de usuarios experimentados.                         |
+
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+
 
 ## 2.2. Entrevistas
 
