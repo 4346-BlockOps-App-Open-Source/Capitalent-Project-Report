@@ -58,11 +58,11 @@ Diagrama de contexto de la arquitectura de Capitalent.
 
 ### 4.6.2. Software Architecture Container Diagrams
 Diagramas de contenedores de la arquitectura de Capitalent.
-![DiagramaContenedor](assest/img/chapter-IV/structurizr-101598-Contenedor.png)
+![DiagramaContenedor](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Contenedor.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Diagramas de componentes de la arquitectura de Capitalent.
-![DiagramaComponente](assest/img/chapter-IV/structurizr-101598-Aircrafts BC Component Diagram.png)
+![DiagramaComponente](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Contexto.png)
 
 ## 4.7. Software Object-Oriented Design
 
