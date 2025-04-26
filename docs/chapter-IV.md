@@ -84,17 +84,26 @@ En esta seccion se presenta el diseño de la landing page de la aplicaion web Ca
 Link de la landing page en Figma: 
 ### 4.3.1. Landing Page Wireframe
 El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
+
 -**Main**
+
+![Wireframe](/assest/img/chapter-IV/main-wireframe.png)
 
 -**About**
 
+![Wireframe](/assest/img/chapter-IV/about-wireframe.png)
+
 -**How it works**
+
+![Wireframe](/assest/img/chapter-IV/how-works-wireframe.png)
 
 -**Pricing**
 
+![Wireframe](/assest/img/chapter-IV/pricing-wireframe.png)
+
 -**Contact**
 
--**Fotter**
+![Wireframe](/assest/img/chapter-IV/contact-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
 El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
