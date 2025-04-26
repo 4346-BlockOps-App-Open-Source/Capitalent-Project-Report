@@ -138,35 +138,31 @@ Presentamos los web application wireframes dividido en secciones:
 
 -**Log in**
 
-
+![Web Wireframe](/assest/img/chapter-IV/log-in-wireframe.png)
 
 -**Sign in**
 
-
+![Web Wireframe](/assest/img/chapter-IV/sign-in-wireframe.png)
 
 -**Select plan**
 
-
-
--**Pricing**
-
-
+![Web Wireframe](/assest/img/chapter-IV/select-plan-wireframe.png)
 
 -**Home**
 
-
+![Web Wireframe](/assest/img/chapter-IV/home-wireframe.png)
 
 -**Signals**
 
-
+![Web Wireframe](/assest/img/chapter-IV/signal-wireframe.png)
 
 -**Assets**
 
-
+![Web Wireframe](/assest/img/chapter-IV/assets-wireframe.png)
 
 -**Settings**
 
-
+![Web Wireframe](/assest/img/chapter-IV/settings-wireframe.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Diagramas de flujo de interacción para aplicaciones web.
