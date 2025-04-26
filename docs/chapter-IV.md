@@ -67,11 +67,19 @@ Diagramas de componentes de la arquitectura de Capitalent.
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-Diagramas de clases para el diseño orientado a objetos.
+
 ![DiagramaDeClases](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/Diagrama%20en%20blanco.png)
 
 ### 4.7.2. Class Dictionary
-Diccionario de clases para el diseño orientado a objetos.
+
+| Clase | Atributos | Descripción |
+|:------|:----------|:------------|
+| Usuario  | id, nombres, apellidos, edad, fecha de registro, teléfono | Representa el usuario de Capitalent. |
+| Portafolio | id, id del usuario, valor total actual, rendimiento histórico | Entidad que registra todos los activos adquiridos por el usuario y calcula el valor actual |
+| Billetera | id, id del usuario, saldo, tipo de moneda, transacciones | Guarda un determinado monto de cierta moneda |
+| Activo  | id, nombre, tipo, cantidad, valor actual, valor de compra | Una determinada adquisición, que el usuario puede poseer, comprar o vender, puede ser criptomonedas, acciones o bonos. |
+| Transacción | id, billetera de origen, de destino, tipo de moneda, monto, fecha | Movimiento de un monto entre dos billeteras virtuales |
+| Criptomoneda | id, nombre, volatilidad, cambio de precio en 24 hrs | Activo digital cuyo valor varía en el mercado. |
 
 ## 4.8. Database Design
 
