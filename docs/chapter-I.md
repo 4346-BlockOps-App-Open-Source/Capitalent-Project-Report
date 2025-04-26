@@ -36,7 +36,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 1 -->
             <td>
-                <img src="assets/images/RenzoLlerena.jpeg" height="120" alt="RenzoLlerena"><br>
+                <img src="assets/images/chapter-I/RenzoLlerna.png" height="120" alt="RenzoLlerena"><br>
                 <strong>Renzo Miguel Llerena Delagado</strong><br>
                 U202312399
             </td>
@@ -50,7 +50,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 2 -->
             <td>
-                <img src="assets/images/RenzoVillafuerte.png" height="120" alt="RenzoVillafuerte"><br>
+                <img src="assets/images/chapter-I/RenzoVillafuerte.png" height="120" alt="RenzoVillafuerte"><br>
                 <strong>Renzo Alonso Villafuerte Tapia</strong><br>
                 U202310670
             </td>
@@ -64,7 +64,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 3 -->
             <td>
-                <img src="assets/images/PieroElescano.jpeg" height="120" alt="PieroElescano"><br>
+                <img src="assets/images/chapter-I/PieroElescano.png" height="120" alt="PieroElescano"><br>
                 <strong>Piero Hugo Elescano Leon</strong><br>
                 U202313354
             </td>
@@ -78,7 +78,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 4 -->
             <td>
-                <img src="assets/images/RodrigoMechan.jpeg" height="120" alt="RodrigoMechan"><br>
+                <img src="assets/images/chapter-I/RodrigoMechan.png" height="120" alt="RodrigoMechan"><br>
                 <strong>Rodrigo Nicolas Mechan Chumpitaz</strong><br>
                 U202114649
             </td>
@@ -93,15 +93,14 @@ Domino fundamentos de programación, estructuras de datos, bases de datos, algor
         <tr>
             <!-- DATOS del integrante 5 -->
             <td>
-                <img src="assets/images/SebastianGutarra.jpeg" height="120" alt="SebastianGutarra"><br>
-                <strong>Matias Sebastian Diaz Quispe</strong><br>
-                U202311938
+                <img src="assets/images/chapter-I/SebastianGutarra.png" height="120" alt="SebastianGutarra"><br>
+                <strong>Sebastián Gutarra Velapatiño</strong><br>
+                U20241A314
             </td>
             <td>
-                Soy estudiante de la carrera de Ingeniería de Software en la UPC. Tengo pasión por la lectura, y me gusta experimentar diferentes campos. Trato siempre de poder mejorar y aprender cada día.
-            </td>
+                Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo</td>
             <td>
-                Tengo conocimientos en los lenguajes C++, Python básico, JavaScript, HTML y CSS, programación orientada a objetos, además de contar con manejo básico de frameworks como Angular y React. Soy adaptable y tengo una fuerte ética de trabajo.
+                Entre mis habilidades y conocimientos puedo manejar lenguajes de programación tales como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel.
             </td>
         </tr>
     </tbody>
