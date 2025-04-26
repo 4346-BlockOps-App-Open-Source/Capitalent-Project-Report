@@ -38,7 +38,7 @@ Se plantea un flujo paso a paso para guiar al usuario en el uso de la aplicacion
 ### 4.2.2. Labeling Systems
 Las etiquetas son claras y comprensibles para el usuario objetivo. Los botones y enlaces están nombrados según su función:
 
-- **Home:** Dirige a la sección principal.  
+- **Main:** Dirige a la sección principal.  
 - **About:** Redirige a la explicación de Capitalent.  
 - **How it works:** Explica el funcionamiento (*Track → Analyze → Signal*).  
 - **Pricing:** Muestra los tipos de planes y precios.  
@@ -80,12 +80,53 @@ La navegación es fluida, intuitiva y completamente responsive, permitiendo al u
   Permite la navegación entre funcionalidades dentro de la página.
 
 ## 4.3. Landing Page UI Design
-
+En esta seccion se presenta el diseño de la landing page de la aplicaion web Capitalent, esta landing tiene como objetivo captar la atencion de los usuarios y captar su atencion hacia nuestra aplicaion
+Link de la landing page en Figma: 
 ### 4.3.1. Landing Page Wireframe
-Esquema inicial de la página de aterrizaje.
+El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
+
+-**Main**
+
+![Wireframe](/assest/img/chapter-IV/main-wireframe.png)
+
+-**About**
+
+![Wireframe](/assest/img/chapter-IV/about-wireframe.png)
+
+-**How it works**
+
+![Wireframe](/assest/img/chapter-IV/how-works-wireframe.png)
+
+-**Pricing**
+
+![Wireframe](/assest/img/chapter-IV/pricing-wireframe.png)
+
+-**Contact**
+
+![Wireframe](/assest/img/chapter-IV/contact-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
-Prototipo visual de la página de aterrizaje.
+El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
+
+-**Main**
+
+![Mockup](/assest/img/chapter-IV/main-mockup.png)
+
+-**About**
+
+![Mockup](/assest/img/chapter-IV/about-mockup.png)
+
+-**How it works**
+
+![Mockup](/assest/img/chapter-IV/how-it-works-mockup.png)
+
+-**Pricing**
+
+![Mockup](/assest/img/chapter-IV/pricing-mockup.png)
+
+-**Contact**
+
+![Mockup](/assest/img/chapter-IV/contact-mockup.png)
 
 ## 4.4. Web Applications UX/UI Design
 
