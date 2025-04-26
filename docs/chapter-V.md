@@ -83,11 +83,9 @@ GitFlow es una metodología de trabajo que organiza el desarrollo a través de r
 
 #### Ramas de Apoyo:
 
-- Feature: Son ramas que nacen a partir de Develop, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develop y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico:
+## Feature: Son ramas que nacen a partir de Develop, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develop y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico:
 
-  feature/benefits
-  feature/profile
-  feature/memberships
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 Esta sección define los estándares y convenciones de codificación para asegurar consistencia y legibilidad en la base de código.
