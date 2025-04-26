@@ -129,6 +129,18 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 | **Tiempo que empieza**   | 0:00 minutos |
 | **Duración de la entrevista** | 3:35 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1ZmgstOzfHuBoSvNBbCExKsgmCycvFP5b/view?usp=sharing) |
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Oscar Javier Armas Sanchez |
+| **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
+| **Edad**                 | 24 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado mostró un marcado entusiasmo por nuestra startup, motivado por su trayectoria previa en el mundo de las criptomonedas y su perfil como inversor activo. Su experiencia le permite valorar el potencial de nuevas herramientas tecnológicas aplicadas a la inversión, por lo que ve en nuestra propuesta una oportunidad prometedora. Está dispuesto a involucrarse y experimentar con la plataforma, confiando en que podría optimizar aún más sus decisiones financieras.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 6:33 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/16RMx4tsN5meM484lww7Fap7gkTbYBFeo/view?usp=sharing) |
+
 ### 2.2.3. Análisis de entrevistas
 Análisis de los datos obtenidos durante las entrevistas.
 
