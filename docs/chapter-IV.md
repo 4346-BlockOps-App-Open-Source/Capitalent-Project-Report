@@ -53,13 +53,16 @@ Proceso de creación de prototipos para aplicaciones web.
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
-Diagrama de contexto de la arquitectura de software.
+Diagrama de contexto de la arquitectura de Capitalent.
+![image](Images/![DiagramaContexto](https://github.com/user-attachments/assest/img/chapter-IV/structurizr-101598-Contexto.png))
 
 ### 4.6.2. Software Architecture Container Diagrams
-Diagramas de contenedores de la arquitectura de software.
+Diagramas de contenedores de la arquitectura de Capitalent.
+![image](Images/![DiagramaContexto](https://github.com/user-attachments/assest/img/chapter-IV/structurizr-101598-Contenedor.png))
 
 ### 4.6.3. Software Architecture Components Diagrams
-Diagramas de componentes de la arquitectura de software.
+Diagramas de componentes de la arquitectura de Capitalent.
+![image](Images/![DiagramaContexto](https://github.com/user-attachments/assest/img/chapter-IV/structurizr-101598-Aircrafts BC Component Diagram.png))
 
 ## 4.7. Software Object-Oriented Design
 
