@@ -25,6 +25,14 @@ En este apartado el equipo realizará un análisis competitivo de nuestras 3 pri
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+## Análisis FODA Cruzado – Capitalent
+
+|                        | **Oportunidades**                                                                 | **Amenazas**                                                                 |
+|------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Fortalezas**         | **FO (Fortalezas + Oportunidades)**                                              | **FA (Fortalezas + Amenazas)**                                              |
+| - Precisión de señales respaldadas por IA <br> - Automatización completa                                   | - Expandir a LATAM con ventaja tecnológica<br> - Desarrollar app móvil con foco en precisión<br> - Ofrecer funciones premium a mercados emergentes | - Diferenciarse con tecnología avanzada frente a la saturación del mercado<br> - Anticipar cambios regulatorios mostrando confiabilidad del algoritmo |
+| **Debilidades**        | **DO (Debilidades + Oportunidades)**                                              | **DA (Debilidades + Amenazas)**                                             |
+| - Falta de app móvil<br> - Dependencia de entorno web                                                      | - Desarrollar app móvil para aumentar alcance en LATAM<br> - Asociarse con brokers nuevos que usen soluciones web | - Acelerar desarrollo móvil para no perder cuota frente a apps competidoras<br> - Mejorar retención adaptando interfaz a diferentes perfiles de usuario |
 
 
 ## 2.2. Entrevistas
