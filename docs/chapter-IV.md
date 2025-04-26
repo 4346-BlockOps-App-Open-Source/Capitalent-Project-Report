@@ -54,15 +54,15 @@ Proceso de creación de prototipos para aplicaciones web.
 
 ### 4.6.1. Software Architecture Context Diagram
 Diagrama de contexto de la arquitectura de Capitalent.
-![image](Images/![DiagramaContexto](https://github.com/user-attachments/assest/img/chapter-IV/structurizr-101598-Contexto.png))
+![DiagramaContexto](assest/img/chapter-IV/structurizr-101598-Contexto.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Diagramas de contenedores de la arquitectura de Capitalent.
-![image](Images/![DiagramaContenedor](https://github.com/user-attachments/assest/img/chapter-IV/structurizr-101598-Contenedor.png))
+![DiagramaContenedor](assest/img/chapter-IV/structurizr-101598-Contenedor.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Diagramas de componentes de la arquitectura de Capitalent.
-![image](Images/![DiagramaComponente](assest/img/chapter-IV/structurizr-101598-Aircrafts BC Component Diagram.png))
+![DiagramaComponente](assest/img/chapter-IV/structurizr-101598-Aircrafts BC Component Diagram.png)
 
 ## 4.7. Software Object-Oriented Design
 
