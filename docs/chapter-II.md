@@ -30,7 +30,7 @@ En esta sección se presentan dos User Personas que representan los segmentos cl
 **User Persona Segmento 1: Javier Ramírez — “El Inversionista Independiente”**
 ![Segmento 1 – Javier Ramírez](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap2-needfinding/assest/img/chapter-II/Javier%20Rami%CC%81rez.png)
 
-- **Edad:** 28 años  
+- **Edad:** 31 años  
 - **Ocupación:** Diseñador UX Freelance  
 - **Ubicación:** Medellín, Colombia  
 - **Conocimiento en inversión:** Intermedio  
