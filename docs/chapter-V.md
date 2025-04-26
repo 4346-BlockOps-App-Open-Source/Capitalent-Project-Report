@@ -85,7 +85,14 @@ GitFlow es una metodología de trabajo que organiza el desarrollo a través de r
 
 - Feature: Son ramas que nacen a partir de Develop, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develop y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico:
 
+```
+feature/benefits
+feature/profile
+feature/memberships
+```
+- Release: Son ramas que se crean a partir de Develop y se utilizan para preparar una nueva versión del proyecto lista para ser publicada. Es importante mencionar que, si es necesario añadir nuevas funcionalidades, deberá crearse una nueva rama Release, siguiendo las reglas de Semantic Versioning 2.0.0, que se detallarán más adelante.
 
+- Hotfix: Estas ramas se originan desde Main y se emplean para solucionar de manera rápida errores detectados en el código que ya está en producción (Main). Una vez corregido el problema, la rama Hotfix debe integrarse tanto en Main como en Develop.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 Esta sección define los estándares y convenciones de codificación para asegurar consistencia y legibilidad en la base de código.
