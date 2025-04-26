@@ -54,7 +54,7 @@ Proceso de creación de prototipos para aplicaciones web.
 
 ### 4.6.1. Software Architecture Context Diagram
 Diagrama de contexto de la arquitectura de Capitalent.
-![DiagramaContexto](assest/img/chapter-IV/structurizr-101598-Contexto.png)
+![DiagramaContexto]([assest/img/chapter-IV/structurizr-101598-Contexto.png](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Contexto.png))
 
 ### 4.6.2. Software Architecture Container Diagrams
 Diagramas de contenedores de la arquitectura de Capitalent.
