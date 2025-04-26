@@ -107,17 +107,27 @@ El landing page esta divido en siete secciones que se presentaran acontinuacion 
 
 ### 4.3.2. Landing Page Mock-up
 El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
+
 -**Main**
+
+![Mockup](/assest/img/chapter-IV/main-mockup.png)
 
 -**About**
 
+![Mockup](/assest/img/chapter-IV/about-mockup.png)
+
 -**How it works**
+
+![Mockup](/assest/img/chapter-IV/how-it-works-mockup.png)
 
 -**Pricing**
 
+![Mockup](/assest/img/chapter-IV/pricing-mockup.png)
+
 -**Contact**
 
--**Fotter**
+![Mockup](/assest/img/chapter-IV/contact-mockup.png)
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
