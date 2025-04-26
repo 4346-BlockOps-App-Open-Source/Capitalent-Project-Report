@@ -109,8 +109,6 @@ release-2.1.3
 release-2.2.1
 ```
 
----
-
 ## Conventional Commits
 
 Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo. La estructura básica es:
