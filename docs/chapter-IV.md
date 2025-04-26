@@ -172,7 +172,7 @@ Presentamos los web application wireframes dividido en secciones:
 
 -**Log in**
 
-![Web Mockup](/assest/img/chapter-IV/log-in-mockup.png)
+![Web Mockup](/assest/img/chapter-IV/log-in-screen.png)
 
 -**Sign in**
 
