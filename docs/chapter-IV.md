@@ -134,13 +134,31 @@ El landing page esta divido en siete secciones que se presentaran acontinuacion 
 Esquemas iniciales para aplicaciones web.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-Diagramas de flujo de interacción para aplicaciones web.
+
+![Wireflows](/assest/img/chapter-IV/user-flow-wireframe-log-in.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-wireframe.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-wireframe1.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-wireframe2.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-wireframe3.PNG)
 
 ### 4.4.3. Web Applications Mock-ups
 Prototipos visuales para aplicaciones web.
 
 ### 4.4.4. Web Applications User Flow Diagrams
-Diagramas de flujo de usuario para aplicaciones web.
+
+![Wireflows](/assest/img/chapter-IV/user-flow-mockup-log-in.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-mockup.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-mockup1.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-mockup2.PNG)
+
+![Wireflows](/assest/img/chapter-IV/user-flow-mockup3.PNG)
 
 ## 4.5. Web Applications Prototyping
 Proceso de creación de prototipos para aplicaciones web.
