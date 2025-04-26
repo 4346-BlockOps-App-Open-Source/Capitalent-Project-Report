@@ -107,7 +107,28 @@ Estrategias y tácticas diseñadas para superar a los competidores.
 
 ### 2.2.2. Registro de entrevistas
 Métodos y herramientas para registrar las entrevistas realizadas.
-
+# Segmento Objetivo 1: Traders Independientes
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jean Piero Landa Cáceres |
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 19 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado no cuenta con experiencia previa en inversiones de activos, pero muestra un fuerte interés en incursionar en este ámbito gracias a nuestra propuesta de startup. Destaca su voto de confianza en el proyecto debido al enfoque innovador en el uso de inteligencia artificial para guiar sus decisiones de inversión.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 7:05 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1cfb0od--DfEVPppM3Dk5LH4EnGMrjea8/view?usp=sharing) |
+# Segmento Objetivo 2: Inversionistas Retail
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Renato Guillermo Calvo Yalan|
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 21 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado demuestra un alto interés en la startup. Posee experiencia en el manejo de criptomonedas y se considera un inversor activo en la adquisición de activos con fines personales. Expresa su disposición a probar nuestra propuesta y confiar en su potencial.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 3:35 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1ZmgstOzfHuBoSvNBbCExKsgmCycvFP5b/view?usp=sharing) |
 ### 2.2.3. Análisis de entrevistas
 Análisis de los datos obtenidos durante las entrevistas.
 
