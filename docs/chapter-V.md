@@ -94,6 +94,48 @@ feature/memberships
 
 - Hotfix: Estas ramas se originan desde Main y se emplean para solucionar de manera rápida errores detectados en el código que ya está en producción (Main). Una vez corregido el problema, la rama Hotfix debe integrarse tanto en Main como en Develop.
 
+#### Semantic Versioning
+
+Es un conjunto de reglas que nos ayudan a administrar adecuadamente la numeración de versiones de nuestro proyecto. Lo aplicaremos en las ramas **Release**, utilizando el formato **X.Y.Z** (Mayor, Menor, Parche):
+
+- **Versión de Parche (Z):** Se incrementa cuando se corrigen errores que no afectan la compatibilidad con versiones anteriores.
+- **Versión Menor (Y):** Se incrementa al agregar nuevas funcionalidades que mantienen la compatibilidad con versiones previas.
+- **Versión Mayor (X):** Se incrementa si se introducen cambios que rompen la compatibilidad con versiones anteriores. Cuando esto sucede, los valores de Y y Z se reinician a 0.
+
+**Ejemplos de ramas Release:**
+```
+release-1.0.5
+release-2.1.3
+release-2.2.1
+```
+
+---
+
+## Conventional Commits
+
+Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo. La estructura básica es:
+
+```
+<type> [scope opcional]: <descripción>
+[cuerpo opcional]
+[footer opcional]
+```
+
+- **type:** Define el tipo de cambio realizado:
+  - `feat:` para nuevas funcionalidades.
+  - `docs:` para cambios en la documentación.
+  - `fix:` para correcciones de errores.
+  - `chore:` para tareas menores que no afectan el código fuente.
+  - `refactor:` para reestructuración interna sin alterar el comportamiento del proyecto.
+  - `build:` para cambios en el sistema de construcción o en dependencias externas.
+  - `perf:` para mejoras en el rendimiento.
+
+- **scope (opcional):** Especifica el área o módulo afectado por el cambio.
+- **description (obligatorio):** Breve explicación en minúsculas y en modo imperativo sobre lo que se modificó.
+- **body (opcional):** Detalla información adicional sobre el cambio.
+- **footer (opcional):** Se utiliza para indicar información relevante sobre cambios importantes o advertencias.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 Esta sección define los estándares y convenciones de codificación para asegurar consistencia y legibilidad en la base de código.
 
