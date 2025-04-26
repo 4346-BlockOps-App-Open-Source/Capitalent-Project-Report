@@ -168,7 +168,35 @@ Presentamos los web application wireframes dividido en secciones:
 Diagramas de flujo de interacción para aplicaciones web.
 
 ### 4.4.3. Web Applications Mock-ups
-Prototipos visuales para aplicaciones web.
+Presentamos los web application wireframes dividido en secciones:
+
+-**Log in**
+
+![Web Mockup](/assest/img/chapter-IV/log-in-mockup.png)
+
+-**Sign in**
+
+![Web Mockup](/assest/img/chapter-IV/sign-in-mockup.png)
+
+-**Select plan**
+
+![Web Mockup](/assest/img/chapter-IV/select-plan-mockup.png)
+
+-**Home**
+
+![Web Mockup](/assest/img/chapter-IV/home-mockup.png)
+
+-**Signals**
+
+![Web Mockup](/assest/img/chapter-IV/signal-mockup.png)
+
+-**Assets**
+
+![Web Mockup](/assest/img/chapter-IV/asstes-mockup.png)
+
+-**Settings**
+
+![Web Mockup](/assest/img/chapter-IV/settings-mockup.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Diagramas de flujo de usuario para aplicaciones web.
