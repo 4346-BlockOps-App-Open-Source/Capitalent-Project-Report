@@ -113,29 +113,40 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 | **Nombre**               | Jean Piero Landa Cáceres |
 | **Entrevistador**        | Renzo Miguel Llerena Delgado |
 | **Edad**                 | 19 años |
-| **Distrito**             | Chorrillos |
 | **Resumen**              | El entrevistado no cuenta con experiencia previa en inversiones de activos, pero muestra un fuerte interés en incursionar en este ámbito gracias a nuestra propuesta de startup. Destaca su voto de confianza en el proyecto debido al enfoque innovador en el uso de inteligencia artificial para guiar sus decisiones de inversión.|
 | **Tiempo que empieza**   | 0:00 minutos |
 | **Duración de la entrevista** | 7:05 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1cfb0od--DfEVPppM3Dk5LH4EnGMrjea8/view?usp=sharing) |
+
+---
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jessamy Dhaga del Castillo |
+| **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
+| **Edad**                 | 20 años |
+| **Resumen**              | La entrevistada tiene poca experiencia previa en inversiones de activos. Para determinar cuál es el más adecuado para invertir, recurre a YouTube y a X (antes Twitter), aunque le resulta complicado interpretar los gráficos. Prefiere confiar más en reseñas y testimonios sobre la efectividad de los activos. |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:33 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1XDdHHigL5VhuawxX3q6b0zoCbbhjE6NI/view?usp=sharing) |
+
 # Segmento Objetivo 2: Inversionistas Retail
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
 | **Nombre**               | Renato Guillermo Calvo Yalan|
 | **Entrevistador**        | Renzo Miguel Llerena Delgado |
 | **Edad**                 | 21 años |
-| **Distrito**             | Chorrillos |
 | **Resumen**              | El entrevistado demuestra un alto interés en la startup. Posee experiencia en el manejo de criptomonedas y se considera un inversor activo en la adquisición de activos con fines personales. Expresa su disposición a probar nuestra propuesta y confiar en su potencial.|
 | **Tiempo que empieza**   | 0:00 minutos |
 | **Duración de la entrevista** | 3:35 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1ZmgstOzfHuBoSvNBbCExKsgmCycvFP5b/view?usp=sharing) |
+
+---
 
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
 | **Nombre**               | Oscar Javier Armas Sanchez |
 | **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
 | **Edad**                 | 24 años |
-| **Distrito**             | Chorrillos |
 | **Resumen**              | El entrevistado mostró un marcado entusiasmo por nuestra startup, motivado por su trayectoria previa en el mundo de las criptomonedas y su perfil como inversor activo. Su experiencia le permite valorar el potencial de nuevas herramientas tecnológicas aplicadas a la inversión, por lo que ve en nuestra propuesta una oportunidad prometedora. Está dispuesto a involucrarse y experimentar con la plataforma, confiando en que podría optimizar aún más sus decisiones financieras.|
 | **Tiempo que empieza**   | 0:00 minutos |
 | **Duración de la entrevista** | 6:33 minutos |
