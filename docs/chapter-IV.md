@@ -220,7 +220,11 @@ Presentamos los web application wireframes dividido en secciones:
 ![Wireflows](/assest/img/chapter-IV/user-flow-mockup3.PNG)
 
 ## 4.5. Web Applications Prototyping
-Proceso de creación de prototipos para aplicaciones web.
+Los prototipos de la plataforma Capitalent son esenciales para validar y perfeccionar el diseño de interacción, garantizando una experiencia óptima para los inversores. Nuestro enfoque se basa en cuatro pilares clave: usabilidad (facilidad de uso), accesibilidad (inclusividad), consistencia (unificación de criterios) y eficiencia (rendimiento ágil). Estos prototipos permiten evaluar la interacción de los usuarios con las herramientas financieras, asegurando que cada funcionalidad sea intuitiva y responda a las necesidades reales del mercado.
+
+link: https://www.figma.com/design/OvUOH7TZTKmGwNUNRgIzsW/Web-Aplication?node-id=6-2&t=GX68CVW0OYCd5F4V-1
+
+![Prototype](/assest/img/chapter-IV/prototipos-web-app.png)
 
 ## 4.6. Domain-Driven Software Architecture
 
