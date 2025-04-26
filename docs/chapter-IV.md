@@ -82,6 +82,7 @@ La navegación es fluida, intuitiva y completamente responsive, permitiendo al u
 ## 4.3. Landing Page UI Design
 En esta seccion se presenta el diseño de la landing page de la aplicaion web Capitalent, esta landing tiene como objetivo captar la atencion de los usuarios y captar su atencion hacia nuestra aplicaion
 Link de la landing page en Figma: 
+https://www.figma.com/design/MJbmJuMkMYV0asoRbzektf/LandingPage?node-id=0-1&t=hYuGXzRJbU8K49Xy-1
 ### 4.3.1. Landing Page Wireframe
 El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
 
@@ -106,7 +107,7 @@ El landing page esta divido en siete secciones que se presentaran acontinuacion 
 ![Wireframe](/assest/img/chapter-IV/contact-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
-El landing page esta divido en siete secciones que se presentaran acontinuacion los wireframes:
+El landing page esta divido en siete secciones que se presentaran acontinuacion los mockups:
 
 -**Main**
 
@@ -129,15 +130,73 @@ El landing page esta divido en siete secciones que se presentaran acontinuacion 
 ![Mockup](/assest/img/chapter-IV/contact-mockup.png)
 
 ## 4.4. Web Applications UX/UI Design
-
+En esta seccion presentamos los wireframes y mockups de la aplicación web, proporcionando una visión clara de la estructura y disposición de las diferentes páginas y funcionalidades. 
+Link a los Wireframes y Mockups de la Web Application en Figma:
+https://www.figma.com/design/OvUOH7TZTKmGwNUNRgIzsW/Web-Aplication?node-id=522-824&t=MLWRXEjdwY7cx3xO-1
 ### 4.4.1. Web Applications Wireframes
-Esquemas iniciales para aplicaciones web.
+Presentamos los web application wireframes dividido en secciones:
+
+-**Log in**
+
+![Web Wireframe](/assest/img/chapter-IV/log-in-wireframe.png)
+
+-**Sign in**
+
+![Web Wireframe](/assest/img/chapter-IV/sign-in-wireframe.png)
+
+-**Select plan**
+
+![Web Wireframe](/assest/img/chapter-IV/select-plan-wireframe.png)
+
+-**Home**
+
+![Web Wireframe](/assest/img/chapter-IV/home-wireframe.png)
+
+-**Signals**
+
+![Web Wireframe](/assest/img/chapter-IV/signal-wireframe.png)
+
+-**Assets**
+
+![Web Wireframe](/assest/img/chapter-IV/assets-wireframe.png)
+
+-**Settings**
+
+![Web Wireframe](/assest/img/chapter-IV/settings-wireframe.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Diagramas de flujo de interacción para aplicaciones web.
 
 ### 4.4.3. Web Applications Mock-ups
-Prototipos visuales para aplicaciones web.
+Presentamos los web application wireframes dividido en secciones:
+
+-**Log in**
+
+![Web Mockup](/assest/img/chapter-IV/log-in-screen.png)
+
+-**Sign in**
+
+![Web Mockup](/assest/img/chapter-IV/sign-in-mockup.png)
+
+-**Select plan**
+
+![Web Mockup](/assest/img/chapter-IV/select-plan-mockup.png)
+
+-**Home**
+
+![Web Mockup](/assest/img/chapter-IV/home-mockup.png)
+
+-**Signals**
+
+![Web Mockup](/assest/img/chapter-IV/signal-mockup.png)
+
+-**Assets**
+
+![Web Mockup](/assest/img/chapter-IV/asstes-mockup.png)
+
+-**Settings**
+
+![Web Mockup](/assest/img/chapter-IV/settings-mockup.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Diagramas de flujo de usuario para aplicaciones web.
