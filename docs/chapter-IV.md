@@ -68,6 +68,7 @@ Diagramas de componentes de la arquitectura de Capitalent.
 
 ### 4.7.1. Class Diagrams
 Diagramas de clases para el diseño orientado a objetos.
+![DiagramaDeClases](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/Diagrama%20en%20blanco.png)
 
 ### 4.7.2. Class Dictionary
 Diccionario de clases para el diseño orientado a objetos.
