@@ -36,7 +36,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 1 -->
             <td>
-                <img src="/assets/img/chapter-I/RenzoLlerena.png" height="120" alt="RenzoLlerena"><br>
+                <img src="assets/images/RenzoLlerena.jpeg" height="120" alt="RenzoLlerena"><br>
                 <strong>Renzo Miguel Llerena Delagado</strong><br>
                 U202312399
             </td>
@@ -50,7 +50,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 2 -->
             <td>
-                <img src="/assets/img/chapter-I/RenzoVillafuerte.png" height="120" alt="RenzoVillafuerte"><br>
+                <img src="assets/images/RenzoVillafuerte.png" height="120" alt="RenzoVillafuerte"><br>
                 <strong>Renzo Alonso Villafuerte Tapia</strong><br>
                 U202310670
             </td>
@@ -64,7 +64,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 3 -->
             <td>
-                <img src="assets/img/chapter-I/PieroElescano.png" height="120" alt="PieroElescano"><br>
+                <img src="assets/images/PieroElescano.jpeg" height="120" alt="PieroElescano"><br>
                 <strong>Piero Hugo Elescano Leon</strong><br>
                 U202313354
             </td>
@@ -78,7 +78,7 @@ Ser la plataforma líder de inteligencia financiera en Latinoamérica, reconocid
         <tr>
             <!-- DATOS del integrante 4 -->
             <td>
-                <img src="/assets/img/chapter-I/RodrigoMechan.png" height="120" alt="RodrigoMechan"><br>
+                <img src="assets/images/RodrigoMechan.jpeg" height="120" alt="RodrigoMechan"><br>
                 <strong>Rodrigo Nicolas Mechan Chumpitaz</strong><br>
                 U202114649
             </td>
@@ -93,7 +93,7 @@ Domino fundamentos de programación, estructuras de datos, bases de datos, algor
         <tr>
             <!-- DATOS del integrante 5 -->
             <td>
-                <img src="/assets/img/chapter-I/SebastianGutarra" height="120" alt="SebastianGutarra"><br>
+                <img src="assets/images/SebastianGutarra.jpeg" height="120" alt="SebastianGutarra"><br>
                 <strong>Matias Sebastian Diaz Quispe</strong><br>
                 U202311938
             </td>
