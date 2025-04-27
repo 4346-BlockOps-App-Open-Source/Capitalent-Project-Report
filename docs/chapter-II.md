@@ -156,7 +156,7 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
 | **Nombre**               | Rodrigo Alfredo Reyes Valenzuela |
-| **Entrevistador**        | ROdrigo Nicolas Mechan Chumpitaz|
+| **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz|
 | **Edad**                 | 21 años |
 | **Resumen**              | Toma decisiones basándose en recomendaciones de YouTube, grupos de Facebook y su banco, aunque le resulta difícil entender gráficos y prefiere explicaciones simples. Ha recibido alertas automáticas de su banco, pero no siempre comprendió qué acciones tomar. Su mayor dificultad es saber cuándo invertir o esperar.|
 | **Tiempo que empieza**   | 0:00 minutos |
@@ -165,6 +165,8 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 
 
 ### 2.2.3. Análisis de entrevistas
+# Análisis de Datos Obtenidos Durante las Entrevistas
+
 # Análisis de Datos Obtenidos Durante las Entrevistas
 
 ## Segmento Objetivo 1: Traders Independientes
@@ -193,6 +195,11 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 - **Motivaciones y Apreciaciones**: Oscar valora la innovación tecnológica en las inversiones y tiene una perspectiva optimista sobre el potencial de la startup para mejorar su capacidad de tomar decisiones. Esta disposición hacia la experimentación resalta que está en busca de herramientas que le ayuden a afinar su toma de decisiones y, probablemente, a aumentar su rentabilidad.
 - **Análisis**: Al igual que Renato, Oscar podría ser un excelente usuario para la startup debido a su experiencia y actitud abierta hacia la innovación. Sin embargo, para aprovechar completamente su perfil, la startup deberá asegurarse de ofrecer funcionalidades que no solo lo atraigan, sino que también le permitan optimizar sus decisiones de inversión con un enfoque más detallado y basado en tecnología avanzada.
 
+### Rodrigo Alfredo Reyes Valenzuela (21 años)
+- **Perfil**: Rodrigo toma decisiones de inversión basándose en recomendaciones de YouTube, grupos de Facebook y su banco. Le resulta difícil entender gráficos y prefiere explicaciones más simples. Ha recibido alertas automáticas de su banco, pero no siempre ha sabido cómo reaccionar ante ellas. Su mayor desafío es saber cuándo invertir o esperar.
+- **Motivaciones y Apreciaciones**: Rodrigo muestra un perfil de inversionista que depende de fuentes externas de información, pero tiene dificultades con la interpretación de datos técnicos como los gráficos. Prefiere explicaciones simples y fáciles de entender, lo que indica que necesita mayor apoyo para tomar decisiones de forma autónoma.
+- **Análisis**: Rodrigo se encuentra en una etapa en la que está intentando navegar en el mundo de las inversiones, pero le falta confianza en la toma de decisiones, especialmente en lo que respecta al análisis técnico. Esto hace que sea un buen candidato para una plataforma que ofrezca información clara, explicaciones fáciles de entender y recomendaciones personalizadas que lo ayuden a superar la incertidumbre.
+
 ---
 
 ## Conclusiones Generales
@@ -206,8 +213,10 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 - **Preferencia por testimonios y confianza**: Este segmento confía mucho en las reseñas y testimonios de otros, lo que resalta la importancia de construir una reputación sólida, transparencia y confianza en el proyecto.
 
 ### Segmento Inversionistas Retail:
-- **Mayor experiencia, pero apertura a nuevas herramientas**: Los inversionistas retail, como Renato y Oscar, tienen un nivel de experiencia más alto, especialmente en criptomonedas. A pesar de ello, siguen buscando nuevas oportunidades y herramientas que les ayuden a mejorar su rendimiento financiero. La clave para este grupo será ofrecer funcionalidades avanzadas que les permitan personalizar su experiencia de inversión.
-- **Interés en la optimización de decisiones**: Ambos muestran una disposición a utilizar plataformas que les ayuden a optimizar sus decisiones financieras, lo que podría implicar el uso de inteligencia artificial, análisis avanzados o mejores herramientas de predicción.
+- **Mayor experiencia, pero apertura a nuevas herramientas**: Los inversionistas retail, como Renato, Oscar y Rodrigo, tienen un nivel de experiencia variado, pero siguen buscando nuevas oportunidades y herramientas que les ayuden a mejorar su rendimiento financiero. La clave para este grupo será ofrecer funcionalidades avanzadas que les permitan personalizar su experiencia de inversión.
+- **Interés en la optimización de decisiones**: Todos ellos muestran una disposición a utilizar plataformas que les ayuden a optimizar sus decisiones financieras, lo que podría implicar el uso de inteligencia artificial, análisis avanzados o mejores herramientas de predicción.
+
+---
 
 ## 2.3. Needfinding
 
