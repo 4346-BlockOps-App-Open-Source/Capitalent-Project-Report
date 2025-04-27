@@ -229,23 +229,37 @@ link: https://www.figma.com/design/OvUOH7TZTKmGwNUNRgIzsW/Web-Aplication?node-id
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
-Diagrama de contexto de la arquitectura de software.
+Diagrama de contexto de la arquitectura de Capitalent.
+![DiagramaContexto](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Contexto.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-Diagramas de contenedores de la arquitectura de software.
+Diagramas de contenedores de la arquitectura de Capitalent.
+![DiagramaContenedor](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Contenedor.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-Diagramas de componentes de la arquitectura de software.
+Diagramas de componentes de la arquitectura de Capitalent.
+![DiagramaComponente](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/structurizr-101598-Aircrafts%20BC%20Component%20Diagram.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-Diagramas de clases para el diseño orientado a objetos.
+
+![DiagramaDeClases]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/Diagrama%20en%20blanco%20(1).png )
 
 ### 4.7.2. Class Dictionary
-Diccionario de clases para el diseño orientado a objetos.
+
+| Clase | Atributos | Descripción |
+|:------|:----------|:------------|
+| Usuario  | id, nombres, apellidos, edad, fecha de registro, teléfono | Representa el usuario de Capitalent. |
+| Portafolio | id, id del usuario, valor total actual, rendimiento histórico | Entidad que registra todos los activos adquiridos por el usuario y calcula el valor actual |
+| Historial de señales | id, id del usuario | Registra el historial de las señales |
+| Activo  | id, nombre, tipo, cantidad, valor actual, valor de compra | Una determinada adquisición, que el usuario puede poseer, comprar o vender, puede ser criptomonedas, acciones o bonos. |
+| Señal | id, nombre, estrategia, timeframe, RSI, notificación | Representa una señal y su estrategia |
+| Criptomoneda | id, nombre, volatilidad, cambio de precio en 24 hrs | Activo digital cuyo valor varía en el mercado. |
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-Diagrama de la base de datos.
+Diagrama de la base de datos que cuenta con las relaciones entre las tablas, sus llaves primarias y llaves foráneas que referencian otras tablas.
+
+![Databasediagram]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/Diagrama%20en%20blanco.png )
