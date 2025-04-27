@@ -246,9 +246,9 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 | Capitalent/landing-page      | main                 | d0fc541   | first commit                     | 25/04/2025   | Piero Elescano              |
 | Capitalent/landing-page      | feature/home         | 1a794a4   | implementación de sección Home    | 26/04/2025      | Piero Elescano              |
 | Capitalent/landing-page      | feature/about        | a55c8a5 | implementación de sección About   | 26/04/2025     | Renzo Llerena               |
-| Capitalent/landing-page      | feature/how-it-works | (commit id) | implementación de sección How It Works | (fecha)  | Renzo Villafuerte           |
-| Capitalent/landing-page      | feature/pricing      | (commit id) | implementación de sección Pricing | (fecha)      | Sebastián Gutarra           |
-| Capitalent/landing-page      | feature/contact      | (commit id) | implementación de sección Contact | (fecha)      | Rodrigo Mechan              |
+| Capitalent/landing-page      | feature/how-it-works | ee99afa | implementación de sección How It Works | 27/04/2025  | Renzo Villafuerte           |
+| Capitalent/landing-page      | feature/pricing      | 4ebddc0 | implementación de sección Pricing | 27/04/2025      | Sebastián Gutarra           |
+| Capitalent/landing-page      | feature/contact      | ac6e7eb | implementación de sección Contact | 27/04/2025      | Rodrigo Mechan              |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
@@ -282,3 +282,5 @@ Link de la landing page: https://4346-blockops-app-open-source.github.io/Landing
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación de la landing page, utilizando HTML, CSS y JavaScript, así como los commits correspondientes.
+
+![Image](https://github.com/user-attachments/assets/8ce3d44d-34ae-429c-b0a0-07e94be2fd6e)
