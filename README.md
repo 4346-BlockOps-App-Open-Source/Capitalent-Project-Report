@@ -24,6 +24,20 @@
 
 # **Registro de Versiones Del Informe**
 
+| Version | Date       | Team Member (Last Name, First Name) | Changes/Updates                                         |
+|---------|------------|-------------------------------------|--------------------------------------------------------|
+| 1.0     | 13/04/2025 | Villafuerte Tapia, Renzo Alonso     | Creación del informe - Capítulo 1 (Introducción)       |
+| 1.1     | 14/04/2025 | Llerena Delgado, Renzo Miguel     | Redacción del Capítulo 2 (Análisis de Competencia)     |
+| 1.2     | 15/04/2025 | Chumpitaz, Rodrigo Nicolás         | Desarrollo del Capítulo 3 (Metodología)                |
+| 1.3     | 17/04/2025 | Gutarra Velapatiño, Sebastian      | Elaboración del Capítulo 4 (Desarrollo del Proyecto)   |
+| 1.4     | 18/04/2025 | Elescano Leon, Piero Hugo          | Redacción del Capítulo 5 (Conclusiones y Anexos)       |
+| 1.5     | 20/04/2025 | Villafuerte Tapia, Renzo Alonso     | Revisión final del informe, ajuste de formato y bibliografía |
+| 1.6     | 23/04/2025 | Llerena Delgado, Renzo Miguel      | Incorporación de métricas y detalles del desarrollo de la landing page |
+| 1.7     | 25/04/2025 | Chumpitaz, Rodrigo Nicolás         | Revisión del Capítulo 3 con datos adicionales sobre la metodología |
+| 1.8     | 26/04/2025 | Gutarra Velapatiño, Sebastian      | Actualización del Capítulo 4 con detalles adicionales del desarrollo |
+| 1.9     | 27/04/2025 | Elescano Leon, Piero Hugo          | Revisión final de todos los capítulos, anexos y bibliografía |
+
+
 # Project Report Collaboration Insights 
 
   - **Link de la organización: https://github.com/4346-BlockOps-App-Open-Source** 
