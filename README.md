@@ -4,7 +4,7 @@
 # Carrera de Ingienería de Software - 2510
 ## Open Source - 1ASI0729
 ![Image](https://github.com/user-attachments/assets/ad49f3f8-ce77-48f3-a032-38e6311d31b2)
-# Informe de Trabajo Final
+# Informe de TB1
 ### Profesor: Rafael Oswaldo Castro Veramendi
 ### Startup: BlockOps
 ### Producto: Capitalent
@@ -26,9 +26,9 @@
 
 # Project Report Collaboration Insights 
 
-  - **Link de la organización:** 
+  - **Link de la organización: https://github.com/4346-BlockOps-App-Open-Source** 
 
-  - **Link del repositorio:** 
+  - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git** 
 
 ---
 ## Student Outcome
