@@ -241,6 +241,14 @@ Esta sección ofrece una visión general del primer sprint, incluyendo planifica
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| Capitalent/landing-page      | main                 | d0fc541   | first commit                     | 25/04/2025   | Piero Elescano              |
+| Capitalent/landing-page      | feature/home         | 1a794a4   | implementación de sección Home    | 26/04/2025      | Piero Elescano              |
+| Capitalent/landing-page      | feature/about        | a55c8a5 | implementación de sección About   | 26/04/2025     | Renzo Llerena               |
+| Capitalent/landing-page      | feature/how-it-works | (commit id) | implementación de sección How It Works | (fecha)  | Renzo Villafuerte           |
+| Capitalent/landing-page      | feature/pricing      | (commit id) | implementación de sección Pricing | (fecha)      | Sebastián Gutarra           |
+| Capitalent/landing-page      | feature/contact      | (commit id) | implementación de sección Contact | (fecha)      | Rodrigo Mechan              |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
