@@ -252,35 +252,6 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 
 ---
 
-## Análisis de Entrevistas Nuevas
-
-### **Segmento Objetivo 1: Traders Independientes**
-
-#### **Jean Piero Landa Cáceres**
-- **Resumen del análisis**: Jean Piero, con 19 años, es un principiante en el mundo de las inversiones, pero tiene un fuerte interés por el uso de tecnologías innovadoras, especialmente la inteligencia artificial. Esto sugiere que la propuesta de la startup, que incluye el uso de IA, es muy atractiva para usuarios sin experiencia previa, pero con interés en herramientas que optimicen su toma de decisiones.
-- **Recomendaciones**: Proveer tutoriales introductorios sobre cómo usar la plataforma, centrándose en cómo la IA puede asistir en la toma de decisiones. Fomentar una curva de aprendizaje gradual que lo ayude a ganar confianza.
-
-#### **Jessamy Dhaga del Castillo**
-- **Resumen del análisis**: Jessamy, de 20 años, se informa sobre inversiones a través de plataformas como YouTube y X. Aunque tiene dificultades para interpretar gráficos, se siente más cómoda confiando en reseñas y testimonios de otros usuarios. Esto revela una falta de confianza en su capacidad para interpretar datos complejos por sí misma.
-- **Recomendaciones**: Desarrollar recursos educativos que simplifiquen la interpretación de gráficos y presenten las recomendaciones en un formato más accesible. Incluir testimonios y casos de éxito dentro de la plataforma.
-
----
-
-### **Segmento Objetivo 2: Inversionistas Retail**
-
-#### **Renato Guillermo Calvo Yalan**
-- **Resumen del análisis**: Renato, con 21 años, tiene experiencia en criptomonedas y está dispuesto a explorar nuevas tecnologías para optimizar sus inversiones. Esta apertura hacia las herramientas innovadoras hace que sea un buen candidato para una plataforma que ofrezca funciones avanzadas.
-- **Recomendaciones**: Integrar funciones avanzadas de análisis y personalización de portafolios para inversores activos como Renato. Ofrecer una plataforma que permita conectar diferentes tipos de activos, como criptomonedas, para facilitar la gestión de su portafolio.
-
-#### **Oscar Javier Armas Sanchez**
-- **Resumen del análisis**: Oscar, de 24 años, tiene experiencia en criptomonedas y busca nuevas oportunidades para mejorar sus decisiones financieras. Está interesado en cómo la tecnología puede optimizar sus inversiones, lo que refleja una mentalidad proactiva.
-- **Recomendaciones**: Ofrecer herramientas que permitan la personalización de alertas y análisis de mercado en tiempo real. Además, proporcionar acceso a nuevas tecnologías que optimicen las decisiones financieras, como la predicción de tendencias de mercado.
-
-#### **Rodrigo Alfredo Reyes Valenzuela**
-- **Resumen del análisis**: Rodrigo, de 21 años, tiene dificultades para interpretar datos complejos y depende de fuentes externas como YouTube y su banco para tomar decisiones. Su falta de confianza en los gráficos lo convierte en un perfil ideal para una plataforma que simplifique el proceso de inversión.
-- **Recomendaciones**: Desarrollar interfaces visuales que sean fáciles de entender y de interpretar, con explicaciones claras y sugerencias sobre cuándo invertir o esperar. Incluir una función de notificaciones personalizadas que guíen sus decisiones de manera sencilla.
-
----
 
 ## Conclusiones Generales
 
