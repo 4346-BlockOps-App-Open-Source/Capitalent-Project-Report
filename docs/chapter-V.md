@@ -137,7 +137,7 @@ Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, 
 ### 5.1.3. Source Code Style Guide & Conventions
 
 
-## Nomenclatura General
+#### Nomenclatura General
 
 En nuestro proyecto, los nombres de variables, objetos, elementos y funciones estarán en **minúsculas**. Esto sigue la recomendación de W3Schools, que señala que mezclar mayúsculas y minúsculas puede dificultar la legibilidad.
 
@@ -149,7 +149,7 @@ En nuestro proyecto, los nombres de variables, objetos, elementos y funciones es
 ```
 
 
-## Sangría
+#### Sangría
 
 En archivos HTML, CSS y JavaScript utilizaremos **2 espacios** para la sangría en bloques de código. El uso de la tecla "Tabulación" está desaconsejado.
 
@@ -185,7 +185,7 @@ function toCelsius(fahrenheit) {
 ```
 
 
-## HTML: 
+#### HTML: 
 
 - **Declaración del Doctype:** Siempre inicia el documento con `<!DOCTYPE html>`.
 - **Líneas en blanco:** Agrega líneas en blanco entre secciones grandes para mejorar la legibilidad.
@@ -224,7 +224,7 @@ function toCelsius(fahrenheit) {
 ```
 
 
-## CSS: 
+#### CSS: 
 
 - **Uso de Shorthand:** Escribe propiedades combinadas en una sola línea para mayor eficiencia.
 ```css
@@ -250,7 +250,7 @@ html {
 
 
 
-## JavaScript: 
+#### JavaScript: 
 
 - **Espacios alrededor de operadores y comas:**
 ```javascript
@@ -281,7 +281,7 @@ const person = {
 ```
 
 
-## Gherkin: Buenas prácticas
+#### Gherkin: Buenas prácticas
 
 Gherkin es el lenguaje que usaremos para definir nuestros escenarios de prueba de forma clara y estructurada.
 
