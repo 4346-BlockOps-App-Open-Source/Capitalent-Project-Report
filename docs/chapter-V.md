@@ -14,6 +14,21 @@ Esta sección define los estándares y convenciones de codificación para asegur
 ### 5.1.4. Software Deployment Configuration
 Esta sección detalla la configuración y los procesos requeridos para desplegar el software en entornos de producción o pruebas.
 
+*Landing Page*
+Para el despliegue de la landing page se utilizara github 
+
+Paso 1: Para desplegar el LandingPage hay que dirigirse al repositorio del landingPage y luego entrar a la opción de settings
+
+![Image](https://github.com/user-attachments/assets/47d11712-73e1-4715-b153-f589bf3dc052)
+
+Paso 2: Ahora entraremos a la opción de Pages donde seleccionaremos la rama del proyecto que queremos desplegar
+
+![Image](https://github.com/user-attachments/assets/6fa7f37d-c148-4215-86e4-a5d46f2f9d78)
+
+Paso 3: Luego se podra visualizar el enlace de la landing page desplegada
+
+![Image](https://github.com/user-attachments/assets/ecf92104-9d78-4680-939d-0c88425cea40)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
@@ -226,6 +241,7 @@ Esta sección ofrece una visión general del primer sprint, incluyendo planifica
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
+El equipo de desarrollo ha finalizado con éxito el sprint 1, que consistió en la implementación y el despliegue de la landing page de Capitalent. A continuación, se presentarán las evidencias correspondientes.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Esta subsección resalta la evidencia de ejecución, incluyendo tareas completadas y hitos alcanzados durante el Sprint 1.
