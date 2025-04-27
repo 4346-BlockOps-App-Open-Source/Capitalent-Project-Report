@@ -84,4 +84,6 @@ Diagramas de componentes de la arquitectura de Capitalent.
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-Diagrama de la base de datos.
+Diagrama de la base de datos que cuenta con las relaciones entre las tablas, sus llaves primarias y llaves foráneas que referencian otras tablas.
+
+![Databasediagram](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/DATABASE%20DIAGRAM.png)
