@@ -148,7 +148,6 @@ En nuestro proyecto, los nombres de variables, objetos, elementos y funciones es
 .login {}
 ```
 
----
 
 ## Sangría
 
@@ -186,7 +185,7 @@ function toCelsius(fahrenheit) {
 ```
 
 
-## HTML: Buenas prácticas
+## HTML: 
 
 - **Declaración del Doctype:** Siempre inicia el documento con `<!DOCTYPE html>`.
 - **Líneas en blanco:** Agrega líneas en blanco entre secciones grandes para mejorar la legibilidad.
@@ -226,7 +225,7 @@ function toCelsius(fahrenheit) {
 
 ---
 
-## CSS: Buenas prácticas
+## CSS: 
 
 - **Uso de Shorthand:** Escribe propiedades combinadas en una sola línea para mayor eficiencia.
 ```css
@@ -250,9 +249,9 @@ html {
 }
 ```
 
----
 
-## JavaScript: Buenas prácticas
+
+## JavaScript: 
 
 - **Espacios alrededor de operadores y comas:**
 ```javascript
@@ -282,7 +281,6 @@ const person = {
 };
 ```
 
----
 
 ## Gherkin: Buenas prácticas
 
