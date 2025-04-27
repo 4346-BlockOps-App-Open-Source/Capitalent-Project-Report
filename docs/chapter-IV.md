@@ -68,7 +68,7 @@ Diagramas de componentes de la arquitectura de Capitalent.
 
 ### 4.7.1. Class Diagrams
 
-![DiagramaDeClases](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/Diagrama%20en%20blanco.png)
+![DiagramaDeClases]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/Diagrama%20en%20blanco%20(1).png )
 
 ### 4.7.2. Class Dictionary
 
@@ -76,9 +76,9 @@ Diagramas de componentes de la arquitectura de Capitalent.
 |:------|:----------|:------------|
 | Usuario  | id, nombres, apellidos, edad, fecha de registro, teléfono | Representa el usuario de Capitalent. |
 | Portafolio | id, id del usuario, valor total actual, rendimiento histórico | Entidad que registra todos los activos adquiridos por el usuario y calcula el valor actual |
-| Billetera | id, id del usuario, saldo, tipo de moneda, transacciones | Guarda un determinado monto de cierta moneda |
+| Historial de señales | id, id del usuario | Registra el historial de las señales |
 | Activo  | id, nombre, tipo, cantidad, valor actual, valor de compra | Una determinada adquisición, que el usuario puede poseer, comprar o vender, puede ser criptomonedas, acciones o bonos. |
-| Transacción | id, billetera de origen, de destino, tipo de moneda, monto, fecha | Movimiento de un monto entre dos billeteras virtuales |
+| Señal | id, nombre, estrategia, timeframe, RSI, notificación | Representa una señal y su estrategia |
 | Criptomoneda | id, nombre, volatilidad, cambio de precio en 24 hrs | Activo digital cuyo valor varía en el mercado. |
 
 ## 4.8. Database Design
@@ -86,4 +86,4 @@ Diagramas de componentes de la arquitectura de Capitalent.
 ### 4.8.1. Database Diagram
 Diagrama de la base de datos que cuenta con las relaciones entre las tablas, sus llaves primarias y llaves foráneas que referencian otras tablas.
 
-![Databasediagram](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/DATABASE%20DIAGRAM.png)
+![Databasediagram]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap4/assest/img/chapter-IV/Diagrama%20en%20blanco.png )
