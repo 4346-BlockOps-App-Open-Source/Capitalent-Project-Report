@@ -135,7 +135,196 @@ Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
-Esta sección define los estándares y convenciones de codificación para asegurar consistencia y legibilidad en la base de código.
+
+
+## Nomenclatura General
+
+En nuestro proyecto, los nombres de variables, objetos, elementos y funciones estarán en **minúsculas**. Esto sigue la recomendación de W3Schools, que señala que mezclar mayúsculas y minúsculas puede dificultar la legibilidad.
+
+**Ejemplos:**
+```css
+.gallery {}
+.video {}
+.login {}
+```
+
+---
+
+## Sangría
+
+En archivos HTML, CSS y JavaScript utilizaremos **2 espacios** para la sangría en bloques de código. El uso de la tecla "Tabulación" está desaconsejado.
+
+**Ejemplos:**
+
+HTML:
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título</title>
+  </head>
+  <body>
+    <h1>Encabezado</h1>
+    <p>Párrafo.</p>
+  </body>
+</html>
+```
+
+CSS:
+```css
+html {
+  background: #fff; /* Fondo blanco */
+  color: #404;       /* Color gris */
+}
+```
+
+JavaScript:
+```javascript
+function toCelsius(fahrenheit) {
+  return (5 / 9) * (fahrenheit - 32);
+}
+```
+
+---
+
+## HTML: Buenas prácticas
+
+- **Declaración del Doctype:** Siempre inicia el documento con `<!DOCTYPE html>`.
+- **Líneas en blanco:** Agrega líneas en blanco entre secciones grandes para mejorar la legibilidad.
+
+**Ejemplo:**
+```html
+<body>
+
+<h1>Famous Cities</h1>
+
+<h2>Tokyo</h2>
+<p>Tokyo is the capital of Japan...</p>
+
+<h2>London</h2>
+<p>London is the capital city of England...</p>
+
+</body>
+```
+
+- **Atributos entre comillas dobles:** Aunque no es obligatorio, mejora la legibilidad.
+```html
+<table class="striped">
+```
+
+- **No omitir `<title>`:** Siempre agrega un `<title>` en la cabecera del documento para mejorar el SEO y la accesibilidad.
+```html
+<title>HTML Style Guide and Coding Conventions</title>
+```
+
+- **Saltos de línea en HTML:** Evita líneas de código excesivamente largas, indenta con 4 espacios en subelementos.
+```html
+<button mat-icon-button color="primary" class="menu-button"
+(click)="openMenu()">
+  <mat-icon>menu</mat-icon>
+</button>
+```
+
+---
+
+## CSS: Buenas prácticas
+
+- **Uso de Shorthand:** Escribe propiedades combinadas en una sola línea para mayor eficiencia.
+```css
+padding: 0 1em 2em;
+border-top: 0;
+font: 100%/1.6 palatino, georgia, serif;
+```
+
+- **Formato de declaración:** Deja un espacio entre el selector y la llave, y entre la propiedad y su valor.
+```css
+html {
+  background: #fff;
+  color: #404;
+}
+```
+
+- **Uso de comillas:** Utilizar **comillas simples** en CSS.
+```css
+html {
+  font-family: 'open sans', arial, sans-serif;
+}
+```
+
+---
+
+## JavaScript: Buenas prácticas
+
+- **Espacios alrededor de operadores y comas:**
+```javascript
+let x = y + z;
+const myArray = ['Volvo', 'Saab', 'Fiat'];
+```
+
+- **Finalizar con punto y coma las declaraciones:**
+```javascript
+const cars = ['Volvo', 'Saab', 'Fiat'];
+```
+
+- **Llaves en funciones:** La apertura de llaves va al final de la línea de definición de la función.
+```javascript
+function toCelsius(fahrenheit) {
+  return (5 / 9) * (fahrenheit - 32);
+}
+```
+
+- **Objetos:** Abrir y cerrar con llaves correctamente y usar comillas dobles en strings.
+```javascript
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 50,
+  eyeColor: "blue"
+};
+```
+
+---
+
+## Gherkin: Buenas prácticas
+
+Gherkin es el lenguaje que usaremos para definir nuestros escenarios de prueba de forma clara y estructurada.
+
+- **Bloques Given-When-Then indentados:** Indenta correctamente los pasos del escenario. Usa indentación adicional para `And`.
+```gherkin
+Scenario: Administrador accede al catálogo de menús diarios
+  Given que el administrador está autenticado
+  When el administrador navega a "Catálogo de Menús"
+    Then el sistema muestra una lista de menús diarios
+      And permite filtrar y buscar menús
+```
+
+- **Uso de tablas:** Para datos estructurados dentro de un escenario.
+```gherkin
+Then se mostrará el mensaje:
+  | Mensaje |
+  | Se completaron los requisitos adecuadamente |
+```
+
+- **Reducir ruido:** Usar valores estándar entre comillas simples para simplificar escenarios.
+```gherkin
+When escribo claramente los requisitos 'dominio en C'
+```
+
+- **Separadores entre escenarios:** Agrega un salto de línea y un comentario.
+```gherkin
+Scenario: Administrador recibe notificación
+Given que el administrador está autenticado
+When el pedido cambia de estado
+  Then el sistema envía una notificación
+    And muestra detalles relevantes
+
+# --------------------------
+
+Scenario: Otro escenario
+Given otro contexto
+When otra acción ocurre
+  Then otro resultado se muestra
+```
 
 ### 5.1.4. Software Deployment Configuration
 Esta sección detalla la configuración y los procesos requeridos para desplegar el software en entornos de producción o pruebas.
