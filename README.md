@@ -31,6 +31,53 @@
   - **Link del repositorio:** 
 
 ---
+## Student Outcome
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el grupo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
+
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: Expuso de manera clara las propuestas de solución durante las reuniones del equipo, asegurándose de que todos los integrantes comprendieran sus aportes y fortaleciendo la toma de decisiones colectivas.</td>
+    <td rowspan="5">La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo del proyecto, adaptándose al nivel de conocimiento de cada miembro.</td>
+  </tr>
+  <tr>
+    <td>Gutarra Velapatiño, Sebastian: <br>TB1: Participó activamente en las presentaciones internas, explicando aspectos técnicos del proyecto de manera accesible para todo el equipo y ajustando su lenguaje según el público.</td>
+  </tr>
+  <tr>
+    <td>Llerena Delgado, Renzo Miguel: <br>TB1: Lideró sesiones de retroalimentación donde presentó informes de avance, utilizando un lenguaje claro y estructurado para asegurar que el mensaje fuera comprendido por todos los miembros.</td>
+  </tr>
+  <tr>
+    <td>Mechan Chumpitaz, Rodrigo Nicolás: <br>TB1: Realizó presentaciones breves para proponer mejoras en el flujo de trabajo, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión del objetivo de las mejoras.</td>
+  </tr>
+  <tr>
+    <td>Villafuerte Tapia, Renzo Alonso: <br>TB1: Moderó discusiones de equipo, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro para todos los integrantes.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: Redactó reportes de avance claros y concisos, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del proyecto.</td>
+    <td rowspan="5">La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo del proyecto, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.</td>
+  </tr>
+  <tr>
+    <td>Gutarra Velapatiño, Sebastian: <br>TB1: Elaboró documentos técnicos que describían las decisiones tomadas y las justificaciones de diseño, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.</td>
+  </tr>
+  <tr>
+    <td>Llerena Delgado, Renzo Miguel: <br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.</td>
+  </tr>
+  <tr>
+    <td>Mechan Chumpitaz, Rodrigo Nicolás: <br>TB1: Colaboró en la elaboración de manuales de usuario y documentación técnica, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores.</td>
+  </tr>
+  <tr>
+    <td>Villafuerte Tapia, Renzo Alonso: <br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.</td>
+  </tr>
+</table>
+
+
 # Capitalent-Project-Report
 # Contenido
 
