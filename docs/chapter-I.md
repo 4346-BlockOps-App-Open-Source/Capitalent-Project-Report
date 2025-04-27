@@ -140,7 +140,7 @@ En esta sección se detallan los segmentos objetivo considerados para la propues
 Los traders individuales serían los principales usuarios activos de Capitalent, aprovechando el análisis en tiempo real para ejecutar operaciones más precisas en distintos mercados.
 
 **Datos demográficos**
-- **Edad:** 20 a 45 años  
+- **Edad:** 18 a 45 años  
 - **Ocupación:** Profesionales independientes, estudiantes de finanzas, apasionados del trading  
 - **País de residencia:** Perú, y potencialmente otros países de Latinoamérica
 
@@ -155,40 +155,10 @@ Los traders individuales serían los principales usuarios activos de Capitalent,
 Usuarios con capital propio que invierten como actividad secundaria o para generar ingresos pasivos.
 
 **Datos demográficos**
-- **Edad:** 25 a 60 años  
+- **Edad:** 18 a 60 años  
 - **Ocupación:** Profesionales de diversas áreas con interés en finanzas personales  
 - **País de residencia:** Perú, y potencialmente otros países de Latinoamérica
 
 **Datos conductuales**
 - **Dominio:** Conocimientos básicos o intermedios en inversión  
 - **Beneficios buscados:** Simplificación del análisis, mejor interpretación de tendencias del mercado, alertas útiles para actuar a tiempo
-
----
-
-### Analistas Financieros y Gestores de Portafolio
-
-Capitalent sería una herramienta de apoyo para tomar decisiones basadas en datos concretos y patrones emergentes.
-
-**Datos demográficos**
-- **Edad:** 30 a 55 años  
-- **Ocupación:** Economistas, analistas financieros, gestores de fondos, consultores  
-- **País de residencia:** Perú, y potencialmente otros países de Latinoamérica
-
-**Datos conductuales**
-- **Dominio:** Conocimientos avanzados en finanzas, interpretación de gráficos y modelos predictivos  
-- **Beneficios buscados:** Optimización de tiempo en el análisis, precisión en diagnósticos de mercado, ventaja competitiva
-
----
-
-### Startups Fintech y Plataformas de Inversión
-
-Empresas tecnológicas que buscan incorporar soluciones avanzadas en su oferta financiera.
-
-**Datos demográficos**
-- **Edad:** Emprendedores de 25 a 45 años, equipos de desarrollo fintech  
-- **Ocupación:** Fundadores, CTOs, product managers  
-- **País de residencia:** Perú y mercados emergentes en LATAM
-
-**Datos conductuales**
-- **Dominio:** Alto conocimiento en tecnología, IA y modelos de negocio financieros  
-- **Beneficios buscados:** Integración vía API, diferenciación del producto, escalabilidad.
