@@ -152,6 +152,18 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 | **Duración de la entrevista** | 6:33 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/16RMx4tsN5meM484lww7Fap7gkTbYBFeo/view?usp=sharing) |
 
+---
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Rodrigo Alfredo Reyes Valenzuela |
+| **Entrevistador**        | ROdrigo Nicolas Mechan Chumoitaz|
+| **Edad**                 | 21 años |
+| **Resumen**              | Toma decisiones basándose en recomendaciones de YouTube, grupos de Facebook y su banco, aunque le resulta difícil entender gráficos y prefiere explicaciones simples. Ha recibido alertas automáticas de su banco, pero no siempre comprendió qué acciones tomar. Su mayor dificultad es saber cuándo invertir o esperar.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 3:33 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1pQIM6pK7oJ5YIFnAl0UfSlDN9nhz6tzn/view?usp=sharing) |
+
+
 ### 2.2.3. Análisis de entrevistas
 # Análisis de Datos Obtenidos Durante las Entrevistas
 
