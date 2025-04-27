@@ -59,4 +59,9 @@ This section lists the prioritized product backlog items, including features, en
 | 43          | US-43             | Recomendaciones por perfil de riesgo            | Como usuario quiero que las señales se adapten a mi perfil de riesgo registrado | 3                |
 | 44          | US-44             | Dashboard de aprendizaje                        | Como usuario quiero ver una sección con todo mi progreso educativo y sugerencias futuras | 3                |
 | 45          | US-45             | Guardado automático de preferencias             | Como usuario quiero que se guarden automáticamente mis ajustes sin necesidad de confirmación | 1                |
+| 46 | US-46 | Diseño atractivo y moderno | Como usuario, quiero que la landing page tenga un diseño visualmente atractivo y moderno para dar una buena impresión y facilitar la navegación. | 5 |
+| 47 | US-47 | Información clara y concisa sobre características | Como usuario, quiero ver de forma clara y concisa las principales características y beneficios de Capitalent en la página de inicio para poder tomar una decisión informada. | 4 |
+| 48 | US-48 | Información sobre precios y suscripción | Como usuario, quiero ver claramente la estructura de precios de la plataforma en la landing page para entender las opciones de suscripción disponibles. | 4 |
+| 49 | US-49 | Botón de registro visible y accesible | Como usuario, quiero que el botón de registro esté claramente visible en la página de inicio para registrarme rápidamente y empezar a usar la plataforma. | 2 |
+| 50 | US-50 | Optimización para dispositivos móviles | Como usuario de móvil, quiero que la landing page se vea bien y sea fácil de navegar desde mi teléfono para poder acceder a la información desde cualquier lugar. | 3 |
 
