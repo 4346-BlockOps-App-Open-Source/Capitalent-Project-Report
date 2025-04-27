@@ -322,15 +322,3 @@ Capitalent sería una herramienta de apoyo para tomar decisiones basadas en dato
 
 ---
 
-### Startups Fintech y Plataformas de Inversión
-
-Empresas tecnológicas que buscan incorporar soluciones avanzadas en su oferta financiera.
-
-**Datos demográficos**
-- **Edad:** Emprendedores de 25 a 45 años, equipos de desarrollo fintech  
-- **Ocupación:** Fundadores, CTOs, product managers  
-- **País de residencia:** Perú y mercados emergentes en LATAM
-
-**Datos conductuales**
-- **Dominio:** Alto conocimiento en tecnología, IA y modelos de negocio financieros  
-- **Beneficios buscados:** Integración vía API, diferenciación del producto, escalabilidad.
