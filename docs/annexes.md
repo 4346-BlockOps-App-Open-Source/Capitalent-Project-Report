@@ -1,0 +1,7 @@
+# Anexos
+
+1. [Video explicativo del Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/ETbBhqQ-0UpJldmUkryjOb0ByrWl2xOGoQXjR7ZgUNKktQ?e=gr1VrK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+2. [Video de los Mockups](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EbIn8yw0aM5Jr9aeQoU_AjsBbGNry1TEMjB-96gn3APBtQ?e=yusqKj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+3. [Presentación completa de Capitalent](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EWbiUCGxSqFBmeMCcce8yw0B_rdt7wiYssh5Z2qlUGCjiQ?e=yI2eSy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
