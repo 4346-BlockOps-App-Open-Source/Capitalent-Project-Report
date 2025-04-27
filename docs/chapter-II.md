@@ -156,7 +156,7 @@ Métodos y herramientas para registrar las entrevistas realizadas.
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
 | **Nombre**               | Rodrigo Alfredo Reyes Valenzuela |
-| **Entrevistador**        | ROdrigo Nicolas Mechan Chumoitaz|
+| **Entrevistador**        | ROdrigo Nicolas Mechan Chumpitaz|
 | **Edad**                 | 21 años |
 | **Resumen**              | Toma decisiones basándose en recomendaciones de YouTube, grupos de Facebook y su banco, aunque le resulta difícil entender gráficos y prefiere explicaciones simples. Ha recibido alertas automáticas de su banco, pero no siempre comprendió qué acciones tomar. Su mayor dificultad es saber cuándo invertir o esperar.|
 | **Tiempo que empieza**   | 0:00 minutos |
