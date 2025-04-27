@@ -69,8 +69,8 @@ En esta sección se explica qué métodos se emplearon para registrar los cambio
 
 Primero, es importante señalar que utilizaremos GitHub como plataforma principal para el control de versiones del informe, la landing page, el servicio web y el frontend del proyecto. Para ello, se han creado los repositorios correspondientes.
 
-- Url de la organización: 
-- Repositorio Landing page: 
+- Url del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git
+- Repositorio Landing page: https://github.com/4346-BlockOps-App-Open-Source/Landing-Page-Capitalent.git
 
 #### GitFlow
 GitFlow es una metodología de trabajo que organiza el desarrollo a través de ramas principales y ramas auxiliares. Optamos por emplear este modelo porque facilita mantener el código limpio y estructurado, permitiéndonos trabajar en equipo de forma más eficiente. Su fortaleza radica en la variedad de tipos de ramas que ofrece, cada una con un propósito específico:
