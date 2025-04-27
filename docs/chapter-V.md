@@ -185,7 +185,6 @@ function toCelsius(fahrenheit) {
 }
 ```
 
----
 
 ## HTML: Buenas prácticas
 
