@@ -241,16 +241,36 @@ Esta sección ofrece una visión general del primer sprint, incluyendo planifica
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
-El equipo de desarrollo ha finalizado con éxito el sprint 1, que consistió en la implementación y el despliegue de la landing page de Capitalent. A continuación, se presentarán las evidencias correspondientes.
+
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Esta subsección resalta la evidencia de ejecución, incluyendo tareas completadas y hitos alcanzados durante el Sprint 1.
+El equipo de desarrollo ha finalizado con éxito el sprint 1, que consistió en la implementación y el despliegue de la landing page de Capitalent. A continuación, se presentarán las evidencias correspondientes.
+
+![Landing page](/assest/img/chapter-V/landing-home.png)
+
+![Landing page](/assest/img/chapter-V/landing-about.png)
+
+![Landing page](/assest/img/chapter-V/landing-how.png)
+
+![Landing page](/assest/img/chapter-V/landing-price.png)
+
+![Landing page](/assest/img/chapter-V/landing-contact.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-Esta subsección proporciona evidencia documental relacionada con los servicios implementados durante el Sprint 1.
+No se dispone de pruebas de documentación, ya que el enfoque principal del primer sprint estuvo centrado en la creación de la landing page.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Esta subsección incluye evidencia del despliegue exitoso del software durante el Sprint 1.
+Para el despliegue de la Landing Page, el equipo utilizó GitHub Pages. Se trabajaron en un repositorio de GitHub y organizaron el trabajo en diversas ramas. En la sección de configuración y Pages, para luego poder hacer el despliegue de la web.
+
+![Image](https://github.com/user-attachments/assets/6fa7f37d-c148-4215-86e4-a5d46f2f9d78)
+
+
+Link de la landing page: https://4346-blockops-app-open-source.github.io/Landing-Page-Capitalent/ 
+
+
+![Landing page](/assest/img/chapter-V/landing-home.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Esta subsección reflexiona sobre la colaboración del equipo, los desafíos y las lecciones aprendidas durante el Sprint 1.
+En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación de la landing page, utilizando HTML, CSS y JavaScript, así como los commits correspondientes.
