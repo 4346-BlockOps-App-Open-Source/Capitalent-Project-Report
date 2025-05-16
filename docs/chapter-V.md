@@ -737,7 +737,7 @@ El codigo funciona cuando presionas el boton educacion financiera
   alt="features"/>
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
-La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Intellij Webstorm
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Github Pages
 
 
 Primero se creo un repositorio para alojar el proyecto Angular con el diseño del landing page
