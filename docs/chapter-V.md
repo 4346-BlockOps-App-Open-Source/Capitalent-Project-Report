@@ -597,9 +597,9 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
 ![Image](https://github.com/user-attachments/assets/8ce3d44d-34ae-429c-b0a0-07e94be2fd6e)
 
 
-### 5.3.1 Sprint 2 
+### 5.2.2 Sprint 2 
 
-#### 5.3.1.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
 A continuación, se detalla, en la tabla siguiente, información sobre el planeameanto del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para los usuarios del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Capitalent.
 
@@ -618,7 +618,7 @@ A continuación, se detalla, en la tabla siguiente, información sobre el planea
 | Sprint 2 Velocity      | 100                                                                                           |
 | Sum of Story Points    | 99                                                                                            |
 
-### 5.3.1.2. Aspect Leaders and Collaborators ###
+### 5.2.2.2. Aspect Leaders and Collaborators ###
 
 En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: Inventarios y Zonas, Productos, Cuenta de Usuario, Reportes (Guía de cuidados y Reprote de pérdidas) y Alertas.
 
@@ -630,7 +630,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | Sebastian Ernesto Gutarra Velapatiño | SebastianGutarra  |                   | L         |                   |                                                   |      
 
 
-### 5.2.1.3. Sprint Backlog 2 ###
+### 5.2.2.3. Sprint Backlog 2 ###
 
 Como se mencionó previamente en el planeamiento del sprint número 2, el objetivo del mismo es (OBJETIVO).
 
@@ -667,7 +667,7 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 | US-022       | Interfaz adaptativa             | 13 | Como usuario quiero que la interfaz se adapte a mi pantalla para facilitar la navegación | 1 | Sebastián Gutarra | To Review |
 | US-023       | Modo oscuro para visualización  | 14 | Como usuario quiero activar un modo oscuro para reducir la fatiga visual | 3 | Sebastián Gutarra | To Review |
 
-### 5.2.1.4. Development Evidence for Sprint Review ###
+### 5.2.2.4. Development Evidence for Sprint Review ###
 
 En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
 
@@ -736,7 +736,7 @@ El codigo funciona cuando presionas el boton educacion financiera
   <img src="../assest/img/chapter-V/evidenciafinanciera.png" 
   alt="features"/>
 
-### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
+### 5.2.2.6. Software Deployment Evidence for Sprint Review ###
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Github Pages
 
 
@@ -747,7 +747,7 @@ Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
     <img src="../assest/img/chapter-V/branches.png" 
   alt="branches"/>
 
-### 5.2.1.7. Team Collaboration Insights durint Sprint ###
+### 5.2.2.7. Team Collaboration Insights durint Sprint ###
 
 Comits de los integrantes en el frontend:
 
