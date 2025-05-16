@@ -725,6 +725,16 @@ Las codigo funciona para que los usuarios tengan visible las señales financiera
 <img src="../assest/img/chapter-V/evidenciadash.png" 
   alt="features"/>
 
+  ## Educacion financiera 
+  
+<img src="../assest/img/chapter-V/educacionf.png" 
+  alt="features"/>
+
+El codigo funciona cuando presionas el boton educacion financiera 
+
+  <img src="../assest/img/chapter-V/evidenciafinanciera.png" 
+  alt="features"/>
+
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Intellij Webstorm
 
