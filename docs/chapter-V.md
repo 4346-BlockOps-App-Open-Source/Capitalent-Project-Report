@@ -738,12 +738,11 @@ El codigo funciona cuando presionas el boton educacion financiera
 
   ## Notificaciones
 
-  ![notificaciones](../assest/img/chapter-V/notifs.png)
+  ![notificaciones](/assest/img/chapter-V/notifs.png)
 
 El código funciona pese a no ser implementado hacia la landing page por diversos errores.
 
- <img src="../assest/img/chapter-V/codigonotifs.png" 
-  alt="features"/> 
+ ![codigo notifs](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/codigonotifs.png)
   
 
 ### 5.2.2.6. Software Deployment Evidence for Sprint Review ###
