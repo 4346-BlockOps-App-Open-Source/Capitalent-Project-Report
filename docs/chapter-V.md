@@ -675,12 +675,12 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 
 | Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
 |----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
-| BlockOps/Capitalent-Front-End-App       |     main                             |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App       |     develop                             |           |                                                                  |    
-| BlockOps/Capitalent-Front-End-App       |       feature/Configuración-notificaciones                           |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App          |   feature/Dashboard-señales                               |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                              |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding                               |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App       |     main                             |       23c2d4fea1823bea66b66a0661c82c4a96e48f93    |       Add files via upload                                                                    |      14/05/2025        |
+| BlockOps/Capitalent-Front-End-App       |     develop                          |   214febadefd45089a796e1255dcd705352d1473f        |         Add files via upload                                                         |    14/05/2025 |
+| BlockOps/Capitalent-Front-End-App       |       feature/Configuración-notificaciones         |   23c2d4fea1823bea66b66a0661c82c4a96e48f93        |       Add files via upload           |    14/05/2025          |
+| BlockOps/Capitalent-Front-End-App          |   feature/Dashboard-señales                     |           |                                                                  |    14/05/2025          |
+| BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                  | 7dedbdec76aad06191a9285ac6a7fe971c258b5c          |      Add DEPENDENCIES.md to version control         |    14/05/2025         |
+| BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding         |  7e3b3820dc7e3a3277f8f7c63058c55e45d3214c       |   Login, prefenreces, risk profile     |    14/05/2025         |
         
 ### 5.2.1.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
