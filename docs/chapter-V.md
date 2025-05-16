@@ -606,8 +606,8 @@ A continuación, se detalla, en la tabla siguiente, información sobre el planea
 | Sprint #               | Sprint 2                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------|
 | Sprint Planning Background | --                                                                                            |
-| Date                   | 2025/04/29                                                                                     |
-| Time                   | 11:15 AM                                                                                       |
+| Date                   | 2025/05/01                                                                                  |
+| Time                   | 11:15 PM                                                                                       |
 | Location               | Reunión virtual en google meet                                 |
 | Prepared By            | Llerena Delgado, Renzo Miguel                                                            
 | Attendees              | Llerena Delgado, Renzo Miguel / Villafuerte Tapia, Renzo Alonso / Mechan Chumpitaz, Rodrigo Nicolás / Sebastian Ernesto Gutarra Velapatiño |
