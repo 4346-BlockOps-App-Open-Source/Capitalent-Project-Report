@@ -646,3 +646,22 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
   alt="Sprint Backlog 2 en desarrollo"/>
 
 
+### 5.2.1.4. Development Evidence for Sprint Review ###
+
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+
+| Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
+|----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
+| BlockOps/Capitalent-Front-End-App       |                                  |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App          |                                  |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App         |                                  |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App         |                                  |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App       |                                  |           |                                                                  |             |
+
+### 5.2.1.5. Execution Evidence for Sprint Review ###
+
+### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
+
+### 5.2.1.7. Team Collaboration Insights durint Sprint ###
