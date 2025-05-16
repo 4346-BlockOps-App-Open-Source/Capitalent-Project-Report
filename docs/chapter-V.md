@@ -738,7 +738,7 @@ El codigo funciona cuando presionas el boton educacion financiera
 
   ## Notificaciones
 
-  ![notificaciones](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/notifs.png)
+![notificacion](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/notifs.png)
 
 El código funciona pese a no ser implementado hacia la landing page por diversos errores.
 
