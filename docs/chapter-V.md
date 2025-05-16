@@ -688,5 +688,9 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
 
 ### 5.2.1.7. Team Collaboration Insights durint Sprint ###
 En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación del frontend de la aplicación, utilizando typescript, CSS y html, así como los commits correspondientes.
+    <img src="../assest/img/chapter-V/pull&merge.png" 
+  alt="Pulls & Merges"/>
 
+  <img src="../assest/img/chapter-V/pullmerge.png" 
+  alt="Pulls y Merges"/>
 
