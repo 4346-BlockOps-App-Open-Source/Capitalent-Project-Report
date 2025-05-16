@@ -736,6 +736,15 @@ El codigo funciona cuando presionas el boton educacion financiera
   <img src="../assest/img/chapter-V/evidenciafinanciera.png" 
   alt="features"/>
 
+  ## Notificaciones
+
+  ![notificaciones](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/notifs.png)
+
+El código funciona pese a no ser implementado hacia la landing page por diversos errores.
+
+ ![codigo notifs](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/codigonotifs.png)
+  
+
 ### 5.2.2.6. Software Deployment Evidence for Sprint Review ###
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Github Pages
 
