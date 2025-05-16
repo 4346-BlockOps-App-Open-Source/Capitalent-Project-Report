@@ -686,3 +686,4 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
 
 ### 5.2.1.7. Team Collaboration Insights durint Sprint ###
+En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación del frontend de la aplicación, utilizando typescript, CSS y html, así como los commits correspondientes.
