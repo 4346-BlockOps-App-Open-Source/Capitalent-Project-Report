@@ -682,7 +682,7 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 | BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                  | 7dedbdec76aad06191a9285ac6a7fe971c258b5c          |      Add DEPENDENCIES.md to version control         |    14/05/2025         |
 | BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding         |  7e3b3820dc7e3a3277f8f7c63058c55e45d3214c       |   Login, prefenreces, risk profile     |    14/05/2025         |
         
-### 5.2.1.5. Execution Evidence for Sprint Review ###
+### 5.2.2.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
 <p align="center">
     <img src="../assest/img/chapter-V/header.png" 
