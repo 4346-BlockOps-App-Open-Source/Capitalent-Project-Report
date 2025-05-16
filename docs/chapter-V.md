@@ -726,9 +726,10 @@ Las codigo funciona para que los usuarios tengan visible las señales financiera
   alt="features"/>
 
   ## Educacion financiera 
-  
-<img src="../assest/img/chapter-V/educacionf.png" 
+
+  <img src="../assest/img/chapter-V/educacionf.png" 
   alt="features"/>
+  
 
 El codigo funciona cuando presionas el boton educacion financiera 
 
