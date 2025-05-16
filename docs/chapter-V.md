@@ -736,6 +736,17 @@ El codigo funciona cuando presionas el boton educacion financiera
   <img src="../assest/img/chapter-V/evidenciafinanciera.png" 
   alt="features"/>
 
+  ## Notificaciones
+
+  <img src="../assest/img/chapter-V/notifs.png" 
+  alt="features"/>
+
+El código funciona pese a no ser implementado hacia la alnding page por diversos errores.
+
+ <img src="../assest/img/chapter-V/codigonotifs.png" 
+  alt="features"/> 
+  
+
 ### 5.2.2.6. Software Deployment Evidence for Sprint Review ###
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Github Pages
 
