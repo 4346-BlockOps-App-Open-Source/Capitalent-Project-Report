@@ -709,11 +709,11 @@ El código funciona para que el header le aparezca un boton de regitro
   alt="features"/>
 
 <p align="center">
-    <img src="../assest/img/chapter-V/perfilriesgo.png" height="800"
+    <img src="../assest/img/chapter-V/perfilriesgo.png" height="400"
   alt="features"/>
 
 <p align="center">
-    <img src="../assest/img/chapter-V/preferencias.png" height="800"
+    <img src="../assest/img/chapter-V/preferencias.png" height="400"
   alt="features"/>
   
 ## Dashboard y señales 
