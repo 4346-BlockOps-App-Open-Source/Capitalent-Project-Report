@@ -682,7 +682,7 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 | BlockOps/Capitalent-Front-End-App       |                                  |           |                                                                  |             |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review ###
-
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
 
 ### 5.2.1.7. Team Collaboration Insights durint Sprint ###
