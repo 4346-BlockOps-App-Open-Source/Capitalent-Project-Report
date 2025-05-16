@@ -646,8 +646,8 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
   alt="Sprint Backlog 2 en desarrollo"/>
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 
-## Sprint 1 - Sprint Backlog
 
+| Sprint2 | Sprint Backlog 1              | 
 | User Stories |               | Work Item/Task |             |                   |             |          |
 |--------------|---------------|----------------|-------------|-------------------|-------------|----------|
 | Id           | Title         | Id             | Description | Estimation (Hours)| Assigned to | Status   |
