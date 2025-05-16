@@ -706,10 +706,12 @@ El código funciona para que el header le aparezca un boton de regitro
   
 ## Dashboard y señales 
 
-
+<img src="../assest/img/chapter-V/dash.png" 
+  alt="features"/>
 
 Las codigo funciona para que los usuarios tengan visible las señales financieras.
-
+<img src="../assest/img/chapter-V/evidenciadash.png" 
+  alt="features"/>
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Intellij Webstorm
