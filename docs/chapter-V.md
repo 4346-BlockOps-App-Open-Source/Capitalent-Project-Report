@@ -707,6 +707,14 @@ El código funciona para que el header le aparezca un boton de regitro
 <p align="center">
     <img src="../assest/img/chapter-V/registro.png" 
   alt="features"/>
+
+<p align="center">
+    <img src="../assest/img/chapter-V/perfilriesgo.png" 
+  alt="features"/>
+
+<p align="center">
+    <img src="../assest/img/chapter-V/preferencias.png" 
+  alt="features"/>
   
 ## Dashboard y señales 
 
