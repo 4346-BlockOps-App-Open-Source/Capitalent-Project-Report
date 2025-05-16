@@ -652,16 +652,16 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 | User Stories |               | Work Item/Task |             |                   |             |          |
 |--------------|---------------|----------------|-------------|-------------------|-------------|----------|
 | Id           | Title         | Id             | Description | Estimation (Hours)| Assigned to | Status   |
-| US-007       | Registro inicial de usuario     | 1  | Como usuario nuevo quiero registrarme fácilmente para comenzar a usar la plataforma | 3 | Renzo Llerena | To Review |
-| US-008       | Selección de perfil de riesgo   | 2  | Como usuario quiero definir mi perfil de riesgo al registrarme para recibir señales adecuadas | 3 | Renzo Llerena | To Review |
-| US-005       | Personalización de señales      | 3  | Como usuario quiero personalizar qué tipo de señales recibo para que se ajusten a mis intereses | 3 | Renzo Llerena | To Review |
+| US-007       | Registro inicial de usuario     | 1  | Como usuario nuevo quiero registrarme fácilmente para comenzar a usar la plataforma | 3 | Renzo Llerena | Done |
+| US-008       | Selección de perfil de riesgo   | 2  | Como usuario quiero definir mi perfil de riesgo al registrarme para recibir señales adecuadas | 3 | Renzo Llerena | Done |
+| US-005       | Personalización de señales      | 3  | Como usuario quiero personalizar qué tipo de señales recibo para que se ajusten a mis intereses | 3 | Renzo Llerena | Done |
 | US-006       | Dashboard con resumen diario    | 4  | Como usuario quiero ver un resumen diario de los movimientos clave del mercado al abrir la plataforma | 3 | Rodrigo Mechan | To Review |
 | US-003       | Recepción de señales de compra y venta | 5  | Como usuario quiero recibir notificaciones cuando se detecten oportunidades para comprar o vender | 5 | Rodrigo Mechan | To Review |
 | US-004       | Explicación visual de las señales | 6  | Como usuario quiero ver por qué se generó una señal para entender mejor la recomendación | 5 | Rodrigo Mechan | To Review |
-| US-032       | Quiz al final de cada lección   | 7  | Como usuario quiero hacer un pequeño test tras cada lección para evaluar lo aprendido | 3 |Renzo Villafuerte Tapia | To Review |
-| US-031       | Microlecciones de análisis técnico | 8  | Como usuario quiero acceder a lecciones cortas sobre análisis técnico para entender las señales | 3 | Renzo Villafuerte Tapia | To Review |
-| US-014       | Biblioteca de recursos financieros | 9  | Como usuario quiero tener acceso a una biblioteca de contenido educativo para profundizar en temas clave | 5 | Renzo Villafuerte Tapia | To Review |
-| US-013       | Acceso a contenido educativo desde el dashboard | 10 | Como usuario quiero ver consejos o guías rápidas al entrar a la plataforma para aprender de forma continua | 5 | Renzo Villafuerte Tapia | To Review |
+| US-032       | Quiz al final de cada lección   | 7  | Como usuario quiero hacer un pequeño test tras cada lección para evaluar lo aprendido | 3 |Renzo Villafuerte Tapia | Done |
+| US-031       | Microlecciones de análisis técnico | 8  | Como usuario quiero acceder a lecciones cortas sobre análisis técnico para entender las señales | 3 | Renzo Villafuerte Tapia | Done |
+| US-014       | Biblioteca de recursos financieros | 9  | Como usuario quiero tener acceso a una biblioteca de contenido educativo para profundizar en temas clave | 5 | Renzo Villafuerte Tapia | Done |
+| US-013       | Acceso a contenido educativo desde el dashboard | 10 | Como usuario quiero ver consejos o guías rápidas al entrar a la plataforma para aprender de forma continua | 5 | Renzo Villafuerte Tapia | Done |
 | US-030       | Centro de notificaciones dentro del dashboard | 11 | Como usuario quiero ver todas mis notificaciones en un solo lugar dentro de la app | 5 | Sebastián Gutarra | To Review |
 | US-027       | Configuración de notificaciones | 12 | Como usuario quiero elegir qué tipo de notificaciones recibir para no saturarme | 3 | Sebastián Gutarra | To Review |
 | US-022       | Interfaz adaptativa             | 13 | Como usuario quiero que la interfaz se adapte a mi pantalla para facilitar la navegación | 1 | Sebastián Gutarra | To Review |
