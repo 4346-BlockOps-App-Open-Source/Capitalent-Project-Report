@@ -684,18 +684,32 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
         
 ### 5.2.1.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
+
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del landing page se utilizo Intellij Webstorm
+
+Primero se creo un repositorio para alojar el proyecto Angular con el diseño del landing page
+Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
+
+<p align="center">
+    <img src="../assest/img/chapter-V/branches.png" 
+  alt="branches"/>
 
 ### 5.2.1.7. Team Collaboration Insights durint Sprint ###
 
 Comits de los integrantes en el frontend:
+
+<p align="center">
     <img src="../assest/img/chapter-V/pulse.png" 
   alt="Pulse"/>
 
 En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación del frontend de la aplicación, utilizando typescript, CSS y html, así como los commits correspondientes.
+    
+<p align="center">
     <img src="../assest/img/chapter-V/pull&merge.png" 
   alt="Pulls & Merges"/>
 
+<p align="center">
   <img src="../assest/img/chapter-V/pullmerge.png" 
   alt="Pulls y Merges"/>
 
