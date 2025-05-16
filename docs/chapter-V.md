@@ -738,10 +738,9 @@ El codigo funciona cuando presionas el boton educacion financiera
 
   ## Notificaciones
 
-  <img src="../assest/img/chapter-V/notifs.png" 
-  alt="features"/>
+  ![notificaciones](../assest/img/chapter-V/notifs.png)
 
-El código funciona pese a no ser implementado hacia la alnding page por diversos errores.
+El código funciona pese a no ser implementado hacia la landing page por diversos errores.
 
  <img src="../assest/img/chapter-V/codigonotifs.png" 
   alt="features"/> 
