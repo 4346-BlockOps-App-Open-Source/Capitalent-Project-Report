@@ -638,7 +638,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
 [Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/b/g7YDMzPp/capitalent-sprint-backlog](https://trello.com/invite/b/681e8523bc9042c29ee05c9c/ATTI82f76ca66f0250bc4674e30272543efbCEA8A6CD/capitalent-sprint-backlog)
 
 <p align="center">
-  <img src="../assest/img/chapter-V/sprint-backlog-2_1.png" 
+  <img src="../assest/img/chapter-V/sprint-backlog-2_1.png"  height="150"
   alt="Sprint goal y Stories del Sprint #2"/>
 
   <p align="center">
@@ -709,11 +709,11 @@ El código funciona para que el header le aparezca un boton de regitro
   alt="features"/>
 
 <p align="center">
-    <img src="../assest/img/chapter-V/perfilriesgo.png" 
+    <img src="../assest/img/chapter-V/perfilriesgo.png" height="150"
   alt="features"/>
 
 <p align="center">
-    <img src="../assest/img/chapter-V/preferencias.png" 
+    <img src="../assest/img/chapter-V/preferencias.png" height="150"
   alt="features"/>
   
 ## Dashboard y señales 
