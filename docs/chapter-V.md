@@ -684,9 +684,18 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
         
 ### 5.2.1.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
+<p align="center">
+    <img src="../assest/img/chapter-V/header.png" 
+  alt="header"/>
+  El landing page fue adaptado en un componente llamdo landing.component dentro de la carpeta services
+  <p align="center">
+    <img src="../assest/img/chapter-V/landingcomponent.png" 
+  alt="landing"/>
+  
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
-La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del landing page se utilizo Intellij Webstorm
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Intellij Webstorm
+
 
 Primero se creo un repositorio para alojar el proyecto Angular con el diseño del landing page
 Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
