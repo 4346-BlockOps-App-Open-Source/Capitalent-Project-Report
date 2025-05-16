@@ -45,6 +45,9 @@
   - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git** 
 
 ---
+A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+![Image](https://github.com/user-attachments/assets/37ed36e4-3f49-44f8-a486-d907122a817c)
+
 ## Student Outcome
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el grupo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
