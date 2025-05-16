@@ -671,16 +671,17 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 
 En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
 
-A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el segundo sprint.
 
 | Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
 |----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
-| BlockOps/Capitalent-Front-End-App       |                                  |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App          |                                  |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App         |                                  |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App         |                                  |           |                                                                  |             |
-| BlockOps/Capitalent-Front-End-App       |                                  |           |                                                                  |             |
-
+| BlockOps/Capitalent-Front-End-App       |     main                             |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App       |     develop                             |           |                                                                  |    
+| BlockOps/Capitalent-Front-End-App       |       feature/Configuración-notificaciones                           |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App          |   feature/Dashboard-señales                               |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                              |           |                                                                  |             |
+| BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding                               |           |                                                                  |             |
+        
 ### 5.2.1.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review ###
