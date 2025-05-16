@@ -642,7 +642,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
   alt="Sprint goal y Stories del Sprint #2"/>
 
   <p align="center">
-  <img src="../img/Chapter V/sprint-2/sprint-backlog-2_2.png" 
+  <img src="../assest/img/chapter-V/sprint-backlog-2_2.png" 
   alt="Sprint Backlog 2 en desarrollo"/>
 
 
