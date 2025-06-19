@@ -597,3 +597,180 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
 ![Image](https://github.com/user-attachments/assets/8ce3d44d-34ae-429c-b0a0-07e94be2fd6e)
 
 
+### 5.2.2 Sprint 2 
+
+#### 5.2.2.1. Sprint Planning 2
+
+A continuación, se detalla, en la tabla siguiente, información sobre el planeameanto del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para los usuarios del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Capitalent.
+
+| Sprint #               | Sprint 2                                                                                      |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Sprint Planning Background | --                                                                                            |
+| Date                   | 2025/05/01                                                                                  |
+| Time                   | 11:15 PM                                                                                       |
+| Location               | Reunión virtual en google meet                                 |
+| Prepared By            | Llerena Delgado, Renzo Miguel                                                            
+| Attendees              | Llerena Delgado, Renzo Miguel / Villafuerte Tapia, Renzo Alonso / Mechan Chumpitaz, Rodrigo Nicolás / Sebastian Ernesto Gutarra Velapatiño |
+| Sprint 1 Review Summary | In the previous sprint, the team completed a first view of the Landing Page implementing the basic sections and styles it will need like Benefits, Plans, Information about the Startup. |
+| Sprint 1 Retrospective Summary | The principal area the team has to improve is having more communication between the members to let each others know how the progress is going for each member. Now, the plan for next sprint is to work more organized so each member knows what to do. |
+| Sprint Goal & User Stories | --                                                                                          |
+| Sprint 2 Goals         | - Offer a more detailed visualization and greater adaptability of the StockSip Landing Page.<br>- Implement and deploy the first functional version of the Front-End with key features (warehouses, dashboard, product registration, warnings, care guides, navigation).<br>- Confirm goals by user access and interaction with the features across devices and languages. |
+| Sprint 2 Velocity      | 100                                                                                           |
+| Sum of Story Points    | 99                                                                                            |
+
+### 5.2.2.2. Aspect Leaders and Collaborators ###
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: Inventarios y Zonas, Productos, Cuenta de Usuario, Reportes (Guía de cuidados y Reprote de pérdidas) y Alertas.
+
+| Team Member                        | GitHub Username | Configuración y Notificaciones | DashBoard y señales | Registro-Onboarding | Educación Financiera 
+|------------------------------------|-----------------|---------------------|-----------|-------------------|---------------------------------------------------
+| Llerena Delgado, Renzo Miguel      | Renxoll      |                     |           | L                 |                                                   |
+| Villafuerte Tapia, Renzo Alonso    | RenzoVi21   |                     |           |                   | L                                                   | 
+| Mechan Chumpitaz, Rodrigo Nicolás | Rodrigo270304       | L                   |           |                   |                                                   |    
+| Sebastian Ernesto Gutarra Velapatiño | SebastianGutarra  |                   | L         |                   |                                                   |      
+
+
+### 5.2.2.3. Sprint Backlog 2 ###
+
+Como se mencionó previamente en el planeamiento del sprint número 2, el objetivo del mismo es (OBJETIVO).
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. Para ello, se utilizó la aplicación _Trello_ que nos ayuda a gestionar el progreso del sprint. 
+[Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/b/g7YDMzPp/capitalent-sprint-backlog](https://trello.com/invite/b/681e8523bc9042c29ee05c9c/ATTI82f76ca66f0250bc4674e30272543efbCEA8A6CD/capitalent-sprint-backlog)
+
+<p align="center">
+  <img src="../assest/img/chapter-V/sprint-backlog-2_1.png"  height="800"
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+  <p align="center">
+  <img src="../assest/img/chapter-V/sprint-backlog-2_2.png" 
+  alt="Sprint Backlog 2 en desarrollo"/>
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+
+
+
+| User Stories |               | Work Item/Task |             |                   |             |          |
+|--------------|---------------|----------------|-------------|-------------------|-------------|----------|
+| Id           | Title         | Id             | Description | Estimation (Hours)| Assigned to | Status   |
+| US-007       | Registro inicial de usuario     | 1  | Como usuario nuevo quiero registrarme fácilmente para comenzar a usar la plataforma | 3 | Renzo Llerena | Done |
+| US-008       | Selección de perfil de riesgo   | 2  | Como usuario quiero definir mi perfil de riesgo al registrarme para recibir señales adecuadas | 3 | Renzo Llerena | Done |
+| US-005       | Personalización de señales      | 3  | Como usuario quiero personalizar qué tipo de señales recibo para que se ajusten a mis intereses | 3 | Renzo Llerena | Done |
+| US-006       | Dashboard con resumen diario    | 4  | Como usuario quiero ver un resumen diario de los movimientos clave del mercado al abrir la plataforma | 3 | Rodrigo Mechan | To Review |
+| US-003       | Recepción de señales de compra y venta | 5  | Como usuario quiero recibir notificaciones cuando se detecten oportunidades para comprar o vender | 5 | Rodrigo Mechan | To Review |
+| US-004       | Explicación visual de las señales | 6  | Como usuario quiero ver por qué se generó una señal para entender mejor la recomendación | 5 | Rodrigo Mechan | To Review |
+| US-032       | Quiz al final de cada lección   | 7  | Como usuario quiero hacer un pequeño test tras cada lección para evaluar lo aprendido | 3 |Renzo Villafuerte Tapia | Done |
+| US-031       | Microlecciones de análisis técnico | 8  | Como usuario quiero acceder a lecciones cortas sobre análisis técnico para entender las señales | 3 | Renzo Villafuerte Tapia | Done |
+| US-014       | Biblioteca de recursos financieros | 9  | Como usuario quiero tener acceso a una biblioteca de contenido educativo para profundizar en temas clave | 5 | Renzo Villafuerte Tapia | Done |
+| US-013       | Acceso a contenido educativo desde el dashboard | 10 | Como usuario quiero ver consejos o guías rápidas al entrar a la plataforma para aprender de forma continua | 5 | Renzo Villafuerte Tapia | Done |
+| US-030       | Centro de notificaciones dentro del dashboard | 11 | Como usuario quiero ver todas mis notificaciones en un solo lugar dentro de la app | 5 | Sebastián Gutarra | To Review |
+| US-027       | Configuración de notificaciones | 12 | Como usuario quiero elegir qué tipo de notificaciones recibir para no saturarme | 3 | Sebastián Gutarra | To Review |
+| US-022       | Interfaz adaptativa             | 13 | Como usuario quiero que la interfaz se adapte a mi pantalla para facilitar la navegación | 1 | Sebastián Gutarra | To Review |
+| US-023       | Modo oscuro para visualización  | 14 | Como usuario quiero activar un modo oscuro para reducir la fatiga visual | 3 | Sebastián Gutarra | To Review |
+
+### 5.2.2.4. Development Evidence for Sprint Review ###
+
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el segundo sprint.
+
+| Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
+|----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
+| BlockOps/Capitalent-Front-End-App       |     main                             |       23c2d4fea1823bea66b66a0661c82c4a96e48f93    |       Add files via upload                      |      14/05/2025        |
+| BlockOps/Capitalent-Front-End-App       |     develop                          |   214febadefd45089a796e1255dcd705352d1473f        |         Add files via upload                           |    14/05/2025 |
+| BlockOps/Capitalent-Front-End-App       |       feature/Configuración-notificaciones         |  675d3c40331dd0a6f709b048329e50fa8b2d0df6       |       Add files via upload           |    14/05/2025          |
+| BlockOps/Capitalent-Front-End-App          |   feature/Dashboard-señales                     |     23c2d4fea1823bea66b66a0661c82c4a96e48f93        |       Add files via upload           |    14/05/2025          |
+| BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                  | 7dedbdec76aad06191a9285ac6a7fe971c258b5c          |      Add DEPENDENCIES.md to version control         |    14/05/2025         |
+| BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding         |  7e3b3820dc7e3a3277f8f7c63058c55e45d3214c       |   Login, prefenreces, risk profile     |    14/05/2025         |
+        
+### 5.2.1.5. Execution Evidence for Sprint Review ###
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
+<p align="center">
+    <img src="../assest/img/chapter-V/header.png" 
+  alt="header"/>
+  El landing page fue adaptado en un componente llamdo landing.component dentro de la carpeta feature
+  <p align="center">
+    <img src="../assest/img/chapter-V/landingcomponent.png" 
+  alt="landing"/>
+    
+## Registro-Onboarding:
+Dentro de la misma carpeta features, esta la carpeta contenedora de los componentes de Registro, Preferences y Risk-Profile que conforman lo que es el Registro-OnBoarding
+<p align="center">
+    <img src="../assest/img/chapter-V/Features.png" 
+  alt="features"/>
+
+El código funciona para que el header le aparezca un boton de regitro
+
+<p align="center">
+    <img src="../assest/img/chapter-V/registrar.png" 
+  alt="features"/>
+
+<p align="center">
+    <img src="../assest/img/chapter-V/registro.png" 
+  alt="features"/>
+
+<p align="center">
+    <img src="../assest/img/chapter-V/perfilriesgo.png" height="400"
+  alt="features"/>
+
+<p align="center">
+    <img src="../assest/img/chapter-V/preferencias.png" height="400"
+  alt="features"/>
+  
+## Dashboard y señales 
+
+<img src="../assest/img/chapter-V/dash.png" 
+  alt="features"/>
+
+Las codigo funciona para que los usuarios tengan visible las señales financieras.
+<img src="../assest/img/chapter-V/evidenciadash.png" 
+  alt="features"/>
+
+  ## Educacion financiera 
+
+  <img src="../assest/img/chapter-V/educacionf.png" 
+  alt="features"/>
+  
+
+El codigo funciona cuando presionas el boton educacion financiera 
+
+  <img src="../assest/img/chapter-V/evidenciafinanciera.png" 
+  alt="features"/>
+
+  ## Notificaciones
+
+  ![notificaciones](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/notifs.png)
+
+El código funciona pese a no ser implementado hacia la landing page por diversos errores.
+
+ ![codigo notifs](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/codigonotifs.png)
+  
+
+### 5.2.2.6. Software Deployment Evidence for Sprint Review ###
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del frontend se utilizo Github Pages
+
+
+Primero se creo un repositorio para alojar el proyecto Angular con el diseño del landing page
+Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
+
+<p align="center">
+    <img src="../assest/img/chapter-V/branches.png" 
+  alt="branches"/>
+
+### 5.2.2.7. Team Collaboration Insights durint Sprint ###
+
+Comits de los integrantes en el frontend:
+
+<p align="center">
+    <img src="../assest/img/chapter-V/pulse.png" 
+  alt="Pulse"/>
+
+En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa para completar la entrega del sprint. Se incluyen las métricas relacionadas con la creación del frontend de la aplicación, utilizando typescript, CSS y html, así como los commits correspondientes.
+    
+<p align="center">
+    <img src="../assest/img/chapter-V/pull&merge.png" 
+  alt="Pulls & Merges"/>
+
+<p align="center">
+  <img src="../assest/img/chapter-V/pullmerge.png" 
+  alt="Pulls y Merges"/>
+
