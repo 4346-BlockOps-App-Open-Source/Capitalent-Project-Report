@@ -871,6 +871,28 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 - ¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?
 
 ### 5.3.2. Registro de Entrevistas.
+### Segmento Objetivo 1: Traders Independientes
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jean Piero Landa Cáceres |
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 19 años |
+| **Resumen**              | |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | : minutos |
+| **URL de la entrevista** | [Ver entrevista]() |
+
+### Segmento Objetivo 2: Inversionistas Retail
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Renato Guillermo Calvo Yalan|
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 21 años |
+| **Resumen**              | |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** |  minutos |
+| **URL de la entrevista** | [Ver entrevista]() |
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
