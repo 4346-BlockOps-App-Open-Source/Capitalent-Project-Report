@@ -7,4 +7,11 @@
 - La elección de GitHub Pages como plataforma de despliegue resultó efectiva para publicar la landing page de manera ágil, asegurando accesibilidad inmediata para revisiones y validaciones.
 
 
+### Anexos
+-Repositorio del Frontend: https://github.com/4346-BlockOps-App-Open-Source/blockops-front-end-aplication.git
 
+-Repositorio de la Landing Page: https://github.com/4346-BlockOps-App-Open-Source/Landing-Page-Capitalent.git
+
+-Repositorio del Informe: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git
+
+-Frontend Desplegado Capitalent: https://4346-blockops-app-open-source.github.io/blockops-front-end-aplication/
