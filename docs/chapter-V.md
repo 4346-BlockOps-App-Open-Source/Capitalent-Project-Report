@@ -778,7 +778,34 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
 
 ### 5.2.3.1. Sprint Planning 3.
 
+A continuación, se detalla, en la tabla siguiente, información sobre el planeameanto del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para los usuarios del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Capitalent.
+
+| Sprint #               | Sprint 2                                                                                      |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Sprint Planning Background | --                                                                                            |
+| Date                   | 2025/06/14                                                                                  |
+| Time                   | 17:45 PM                                                                                       |
+| Location               | Reunión virtual en google meet                                 |
+| Prepared By            | Llerena Delgado, Renzo Miguel                                                            
+| Attendees              | Llerena Delgado, Renzo Miguel / Villafuerte Tapia, Renzo Alonso / Mechan Chumpitaz, Rodrigo Nicolás / Sebastian Ernesto Gutarra Velapatiño |
+| Sprint 2 Review Summary | In the previous sprint, the team completed a first view of the front-end implementing the basic sections and styles it will need like the login and signup, the profiles, the notifications and the signals. |
+| Sprint 2 Retrospective Summary | The principal area the team has to improve is having more communication between the members to let each others know how the progress is going for each member. Now, the plan for next sprint is to work more organized so each member knows what to do. |
+| Sprint Goal & User Stories | --                                                                                          |
+| Sprint 3 Goals         | - Offer a more detailed visualization and greater adaptability of the Capitalent Landing Page.<br>- Offer a more detailed visualization and greater adaptability of the Capitalent Front-End with all the key features, and Set the first version of the Capitalent backend application  |
+| Sprint 3 Velocity      | 100                                                                                           |
+| Sum of Story Points    | 99                                                                                            |
+
 ### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este tercer sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Back-End Web Application. Para esto, hemos definido las siguientes secciones: Configuracion y notificaciones, Dashboard y señales, Registro-onboarding, Educacion financiera y Comunidad-Foro.
+
+| Team Member                             | GitHub Username      | Configuración y Notificaciones | DashBoard y Señales | Registro-Onboarding | Educación Financiera | Comunidad-Foro |
+|----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
+| Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      | L              |
+| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    | L              |
+| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |                |
+| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
+
 
 ### 5.2.3.3. Sprint Backlog 3.
 
