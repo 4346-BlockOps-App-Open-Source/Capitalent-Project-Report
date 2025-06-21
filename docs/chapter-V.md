@@ -827,7 +827,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 
 | Entity | EndPoint URL | Swagger | Otro Campo |
 |--------|--------------|---------|-------------|
-|        |              |         |             |
+|        |              |  ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png)       |             |
 |        |              |         |             |
 |        |              |         |             |
 
