@@ -803,14 +803,23 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 |----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
 | Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      | L              |
 | Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    | L              |
-| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |                |
-| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
+| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |  L              |
+| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |    L            |
 
 
 ### 5.2.3.3. Sprint Backlog 3.
-
+<img src="../assest/img/chapter-V/SprintBacklog3.png" 
+  alt="features"/>
 ### 5.2.3.4. Development Evidence for Sprint Review.
-
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| Capitalent/back-end-application      | main                 | d0fc541   | first commit                     | 25/04/2025   | Renzo Llerena             |
+| Capitalent/back-end-application     | feature/registro-onboarding        | a55c8a5 | implementación del backend registro-onboarding   | 16/06/2025     | Renzo Llerena               |
+| Capitalent/back-end-application      | feature/dashboard-señales | ee99afa | implementación del backend dashboard-señales | 16/06/2025  | Sebastian Gutarra           |  Rodrigo Mechan
+| Capitalent/back-end-application      | feature/configuracion-notificaciones      | 4ebddc0 | implementación del backend configuracion-notificaciones | 16/06/2025      | Sebastián Gutarra           |
+| Capitalent/back-end-application      | feature/eduacacion-financiera      | ac6e7eb | implementación del backend educacion-financiera | 16/06/2025      | Renzo Villafuerte              |
+| Capitalent/back-end-application      | feature/comunidad-foro      | ac6e7eb | implementación del backend comunidad-foro | 16/06/2025      |              |
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
