@@ -825,11 +825,11 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application/tree/main Se adjunta el enlace del back end desplegado:
 
-| Entity | EndPoint URL | Swagger | Otro Campo |
-|--------|--------------|---------|-------------|
-|        |              |  ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png)       |             |
-|        |              |         |             |
-|        |              |         |             |
+| Entity | EndPoint URL | Swagger | 
+|--------|--------------|---------|
+| Registro-onboarding       |     	/api/v1/Registro Onboarding         |  ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png)       |       
+|        |              |         |             
+|        |              |         |             
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
