@@ -839,6 +839,37 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 
 ### 5.3.1. Diseño de Entrevistas.
 
+# Guía de Evaluación de Landing Page
+
+## Primera Impresión
+
+- ¿Cuál es tu primera impresión al ver esta landing page?
+- ¿Qué sientes que es el propósito de esta página/aplicación?
+- ¿Hay algo en la página que te llame especialmente la atención o te parezca fuera de lugar?
+
+## Preguntas sobre Navegación y User Flow
+*(Cuando el usuario intenta realizar una acción específica)*
+
+- ¿Cómo fue tu experiencia al realizar esa tarea?
+- ¿Fue fácil o hubo algo que te complicó?
+- ¿Hubo algún momento en el que te sintieras perdido o no supieras qué hacer?
+
+## Preguntas sobre Claridad y Comprensión
+
+- ¿La información en la página te parece clara y fácil de entender?
+- ¿Hay algo que no entendiste o que consideras que debería explicarse mejor?
+
+## Interacción y Experiencia de Usuario
+*(Cuando el usuario intenta realizar una acción específica con algún elemento de la página)*
+
+- Cuando interactuaste con este elemento, ¿la respuesta de la aplicación fue la que esperabas?
+
+## Evaluación General
+
+- Del 1 al 10, ¿cómo calificarías tu experiencia usando la landing page y la aplicación?
+- ¿Qué es lo que más te gustó y lo que menos te gustó de la aplicación?
+- ¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?
+
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
