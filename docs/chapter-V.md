@@ -900,7 +900,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Entity                | EndPoint URL                  | Swagger |
 |-----------------------|-------------------------------|---------|
 | Registro-onboarding   | /api/v1/Registro Onboarding   | <img src="../assest/img/chapter-V/Registro-onboarding-endpoint.png" alt="features"/>  |
-| Signals               | /api/signals                  | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png) |
+| Signals               | /api/signals                  | <img src="../assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png" alt="features"/> |
 | Educacion Financiera  | /api/v1/educacionfinanciera   | ![Image1](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-1.png)<br>![Image2](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-2.png) |
 | Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/backendnotifs.png" alt="features"/> |
 
