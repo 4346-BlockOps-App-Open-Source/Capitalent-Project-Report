@@ -1007,11 +1007,7 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 **Auditor:** Corebyte  
 **Cliente:** Corebyte  
 
----
 
-### 🧩 Sitio o App Evaluada: Capitalent
-
-Capitalent es una plataforma de señales cripto en tiempo real, diseñada para inversionistas minoristas interesados en tomar decisiones más informadas. Esta evaluación se ha realizado con base en principios heurísticos de usabilidad e inclusión digital.
 
 ---
 
