@@ -802,7 +802,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | Team Member                             | GitHub Username      | Configuración y Notificaciones | DashBoard y Señales | Registro-Onboarding | Educación Financiera | Comunidad-Foro |
 |----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
 | Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      |             |
-| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    | L              |
+| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    |               |
 | Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |               |
 | Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
 
