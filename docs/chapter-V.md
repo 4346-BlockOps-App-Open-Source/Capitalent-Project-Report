@@ -756,7 +756,10 @@ Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
     <img src="../assest/img/chapter-V/branches.png" 
   alt="branches"/>
 
-### 5.2.2.7. Team Collaboration Insights durint Sprint ###
+### 5.2.2.7. Team Collaboration Insights durint Sprint 3
+<p align="center">
+    <img src="../assest/img/chapter-V/rendimiento.png" height="400"
+  alt="features"/>
 
 Comits de los integrantes en el frontend:
 
