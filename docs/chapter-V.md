@@ -860,6 +860,9 @@ En esta sección se presentan los cambios de mejora para el frontend implementan
 <img src="../assest/img/chapter-V/foro.png" 
   alt="features"/>
 
+#### Notificaciones
+  ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/frontendnotifs.png)
+
 En esta sección se presentan las partes del backend ejecutandose durante el sprint y se adjuntan capturas de Intellij Idea Ultimate. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente:
 
 ### Backend
@@ -878,8 +881,10 @@ En esta sección se presentan las partes del backend ejecutandose durante el spr
 <img src="../assest/img/chapter-V/educacionfinancieraexecution.png" 
   alt="features"/>
 
-  #### Notificaciones
-  ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/frontendnotifs.png)
+#### Notification
+ ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/backendnotifs.png) 
+
+ 
   
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application/tree/main Se adjunta el enlace del back end desplegado:
