@@ -822,7 +822,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | US-0       |    | 1  |  | 3 | Renzo Llerena | Done |
 | US-0       |   | 2  || 3 | Renzo Llerena | Done |
 | US-0       |      | 3  |  | 3 | Renzo Llerena | Done |
-| US-018        |  Notificaciones push  | 4  | Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas | 3 | Rodrigo Mechan | Done |
+|        |    |   |  | 3 | Rodrigo Mechan | Done |
 | US-019      |Métricas de efectividad de señales  | 5  | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
 | US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
 | US-0       | | 8  | | 3 | Renzo Villafuerte Tapia | Done |
