@@ -877,6 +877,9 @@ En esta sección se presentan las partes del backend ejecutandose durante el spr
 
 <img src="../assest/img/chapter-V/educacionfinancieraexecution.png" 
   alt="features"/>
+
+  #### Notificaciones
+  ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/frontendnotifs.png)
   
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application/tree/main Se adjunta el enlace del back end desplegado:
@@ -886,6 +889,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Registro-onboarding   | /api/v1/Registro Onboarding   | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png) |
 | Signals               | /api/signals                  | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png) |
 | Educacion Financiera  | /api/v1/educacionfinanciera   | ![Image1](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-1.png)<br>![Image2](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-2.png) |
+| Notificaciones        | /api/notificaciones           | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/backendnotifs.png) |
 
 
 
