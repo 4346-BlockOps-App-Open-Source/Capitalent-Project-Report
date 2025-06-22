@@ -997,38 +997,46 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
-UX Heuristics & Principles Evaluation
-Usability – Inclusive Design – Information Architecture
+## 🧪 Evaluaciones según heurísticas (UX Heuristics & Principles Evaluation)
 
-CARRERA: Ingeniería de Software
+**Usability – Inclusive Design – Information Architecture**  
+**Curso:** Desarrollo de Aplicaciones Open Source  
+**Carrera:** Ingeniería de Software  
+**Sección:** 4346  
+**Profesor:** Rafael Oswaldo Castro Veramendi  
+**Auditor:** Corebyte  
+**Cliente:** Corebyte  
 
-CURSO: Desarrollo de Aplicaciones Open Source
+---
 
-SECCIÓN: 4346
+### 🧩 Sitio o App Evaluada: Capitalent
 
-PROFESOR: Rafael Oswaldo Castro Veramendi
+Capitalent es una plataforma de señales cripto en tiempo real, diseñada para inversionistas minoristas interesados en tomar decisiones más informadas. Esta evaluación se ha realizado con base en principios heurísticos de usabilidad e inclusión digital.
 
-AUDITOR: Corebyte
+---
 
-CLIENTE: Corebyte
+### 📝 Tareas Evaluadas
 
-SITE o APP A EVALUAR: Capitalent
-TAREAS A EVALUAR:
-Landing Page: Capitalent
-Evaluación de la propuesta de valor e información general presentada en la landing page.
+#### 🔵 Landing Page: Capitalent
 
-Visualización y comprensión de los planes de precios del servicio.
+1. Evaluación de la propuesta de valor e información general presentada en la landing page.
+2. Visualización y comprensión de los planes de precios del servicio.
+3. Fluidez y conexión de la landing con las funcionalidades clave de la plataforma (registro, foro, alertas).
+4. Evaluación del uso de íconos, botones y mensajes para facilitar la interacción.
 
-Fluidez y conexión de la landing con las funcionalidades clave de la plataforma (registro, foro, alertas).
+#### 🟣 Web Application: Capitalent
 
-Evaluación del uso de íconos, botones y mensajes para facilitar la interacción.
+1. Acceso y comprensión de las señales cripto en tiempo real.
+2. Implementación y usabilidad del componente de notificaciones y alertas.
+3. Evaluación de los elementos interactivos (como botones "Comenzar ahora", cambio de idioma EN/ES, etc.).
+4. Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
 
-Web Application: Capitalent
-Acceso y comprensión de las señales cripto en tiempo real.
+---
 
-Implementación y usabilidad del componente de notificaciones y alertas.
+### ✅ Objetivo
 
-Evaluación de los elementos interactivos (como botones "Comenzar ahora", cambio de idioma EN/ES, etc).
+La evaluación busca identificar oportunidades de mejora en accesibilidad, arquitectura de información y experiencia del usuario, con base en principios de diseño inclusivo aplicados en entornos open source.
+
 
 Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
 ## 5.4. Video About-the-Product.
