@@ -822,9 +822,8 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | US-0       |    | 1  |  | 3 | Renzo Llerena | Done |
 | US-0       |   | 2  || 3 | Renzo Llerena | Done |
 | US-0       |      | 3  |  | 3 | Renzo Llerena | Done |
-| US-0        |    | 4  | | 3 | Rodrigo Mechan | To Review |
-| US-0       |  | 5  |  | 5 | Rodrigo Mechan | To Review |
-| US-0       |  | 6  |  | 5 | Rodrigo Mechan | To Review |
+| US-018        |  Notificaciones push  | 4  | | 3 | Rodrigo Mechan | Done |
+| US-019      |Métricas de efectividad de señales  | 5  |  | 5 | Rodrigo Mechan | Done |
 | US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
 | US-0       | | 8  | | 3 | Renzo Villafuerte Tapia | Done |
 | US-0      | | 9  |  | 5 | Renzo Villafuerte Tapia | Done |
