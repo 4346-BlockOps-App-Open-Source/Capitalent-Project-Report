@@ -874,10 +874,11 @@ En esta sección se presentan las partes del backend ejecutandose durante el spr
 
  ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/imagen_2025-06-22_031225168.png)    
 
- #### Crypto Signals
+ #### Educacion Financiera
 
- ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/educacionfinancieraexecution.png)     
-
+<img src="../assest/img/chapter-V/educacionfinancieraexecution.png" 
+  alt="features"/>
+  
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application/tree/main Se adjunta el enlace del back end desplegado:
 
