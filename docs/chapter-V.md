@@ -846,9 +846,6 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 | Capitalent/back-end-application      | feature/comunidad-foro      | ac6e7eb | implementación del backend comunidad-foro | 16/06/2025      |              |
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 En esta sección se presentan los cambios de mejora para el frontend implementando la comunidad-foro, la educacion financiera más interactiva y el inicio de sesion funcional
-
-En esta sección se presentan las partes del backend ejecutandose durante el sprint y se adjuntan capturas de Intellij Idea Ultimate. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente:
-
 ### Frontend
 #### Inicio de sesión:
 <img src="../assest/img/chapter-V/iniciodesesion.png" 
@@ -863,6 +860,9 @@ En esta sección se presentan las partes del backend ejecutandose durante el spr
 #### Foro
 <img src="../assest/img/chapter-V/foro.png" 
   alt="features"/>
+
+En esta sección se presentan las partes del backend ejecutandose durante el sprint y se adjuntan capturas de Intellij Idea Ultimate. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente:
+
 ### Backend
 
 #### Registro-Onboarding
