@@ -826,7 +826,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | US-0       |  | 5  |  | 5 | Rodrigo Mechan | To Review |
 | US-0       |  | 6  |  | 5 | Rodrigo Mechan | To Review |
 | US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
-| US-0       |  8  | | 3 | Renzo Villafuerte Tapia | Done |
+| US-0       | | 8  | | 3 | Renzo Villafuerte Tapia | Done |
 | US-0      | | 9  |  | 5 | Renzo Villafuerte Tapia | Done |
 | US-0       |  | 10 |  | 5 | Renzo Villafuerte Tapia | Done |
 | US-0      |  | 11 |  | 5 | Sebastián Gutarra | To Review |
