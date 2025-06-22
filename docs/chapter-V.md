@@ -877,10 +877,10 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | **Nombre**               | Jean Piero Landa Cáceres |
 | **Entrevistador**        | Renzo Miguel Llerena Delgado |
 | **Edad**                 | 19 años |
-| **Resumen**              | |
+| **Resumen**              | El entrevistado se encontró impresionado sobre cómo se esta llevando a cabo el desarrollo de la aplicación y que considera que sería elemental para su introducción en el trading, le fascino la parte de educación financiera la cual le aporta recursos para autoeducarse |
 | **Tiempo que empieza**   | 0:00 minutos |
-| **Duración de la entrevista** | : minutos |
-| **URL de la entrevista** | [Ver entrevista]() |
+| **Duración de la entrevista** | 11:00 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1Xs13k4QOnAjo1WB3Qm1vDmMZtXiXqbrd/view?usp=sharing) |
 
 ### Segmento Objetivo 2: Inversionistas Retail
 
@@ -889,10 +889,10 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | **Nombre**               | Renato Guillermo Calvo Yalan|
 | **Entrevistador**        | Renzo Miguel Llerena Delgado |
 | **Edad**                 | 21 años |
-| **Resumen**              | |
+| **Resumen**              | El entrevistado se encontró satisfecho con su primera vista hacia nuestra app, recalcando que en la parte del landing page se muestren el nombre de las criptomonedas mostradas al inicio|
 | **Tiempo que empieza**   | 0:00 minutos |
-| **Duración de la entrevista** |  minutos |
-| **URL de la entrevista** | [Ver entrevista]() |
+| **Duración de la entrevista** | 5:51 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1H509TM0zwbekNc6q78kqgHZZowysTUwk/view?usp=sharing) |
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
