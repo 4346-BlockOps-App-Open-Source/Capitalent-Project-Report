@@ -979,3 +979,4 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
+- En esta sección presentamos el video sobre nuestro producto, Capitalent. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
