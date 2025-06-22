@@ -883,6 +883,17 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | **Duración de la entrevista** | 11:00 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1Xs13k4QOnAjo1WB3Qm1vDmMZtXiXqbrd/view?usp=sharing) |
 
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Rodrigo Reyes Valenzuela|
+| **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz |
+| **Edad**                 | 21 años |
+| **Resumen**              | El entrevistado quedó satisfecho con la experiencia general de la plataforma. Destacó el enfoque profesional y la utilidad para operar con decisiones informadas. Sugirió incluir ejemplos de señales visibles desde el landing page, además de agregar más profundidad técnica para usuarios avanzados. Valoró el enfoque educativo, pero recomendó mayor transparencia sobre el funcionamiento del algoritmo. Calificó la experiencia con un 8.5/10. |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:00 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1JSBzOk62VnOVqIe4zxS3mE1IKpTE-Xxf/view?usp=sharing) |
+
 ### Segmento Objetivo 2: Inversionistas Retail
 
 | **Campo**                | **Detalle** |
@@ -894,6 +905,17 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | **Tiempo que empieza**   | 0:00 minutos |
 | **Duración de la entrevista** | 5:51 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1H509TM0zwbekNc6q78kqgHZZowysTUwk/view?usp=sharing) |
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jorge Jose Valenzuela Chavez|
+| **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz |
+| **Edad**                 | 24 años |
+| **Resumen**              | El entrevistado valoró altamente la claridad, simplicidad y enfoque educativo de la landing page. Percibió confianza en la propuesta y dijo que sería ideal para iniciarse en el mundo cripto. Recomendó incluir una sección específica para principiantes, un tour introductorio o tutorial corto, y testimonios que generen más confianza. Calificó la experiencia con un 9/10.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 4:23 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1DnnLIyZT5ZuYHUyT9u6ZP-otFAEycVdu/view?usp=drive_link) |
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
