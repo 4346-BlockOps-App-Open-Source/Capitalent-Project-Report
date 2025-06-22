@@ -822,20 +822,26 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 
 
-| User Stories |               | Work Item/Task |             |                   |             |          |
-|--------------|---------------|----------------|-------------|-------------------|-------------|----------|
-| Id           | Title         | Id             | Description | Estimation (Hours)| Assigned to | Status   |
-| US-0       |    | 1  |  | 3 | Renzo Llerena | Done |
-| US-0       |   | 2  || 3 | Renzo Llerena | Done |
-| US-0       |      | 3  |  | 3 | Renzo Llerena | Done |
-|  TS-002      |  Implementar alertas de señales en tiempo real  |  4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
-| US-019      |Métricas de efectividad de señales  | 5  | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
-| US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
-| US-0       | | 8  | | 3 | Renzo Villafuerte Tapia | Done |
-| US-0      | | 9  |  | 5 | Renzo Villafuerte Tapia | Done |
-| US-0       |  | 10 |  | 5 | Renzo Villafuerte Tapia | Done |
-| US-018      | Notificaciones push | 11 | Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas | 5 | Sebastián Gutarra | Done |
-| TS-010     | Generar informa semanal automático | 12 | Crear tarea que compile datos y envíe un resumen semanal vía correo o notificación. | 2 | Sebastián Gutarra | To Review |
+
+| User Stories | Title | Work Item/Task | Description | Estimation (Hours) | Assigned to | Status |
+|--------------|-------|----------------|-------------|---------------------|-------------|--------|
+| US-0         |       | 1              |             | 3                   | Renzo Llerena | Done |
+| US-0         |       | 2              |             | 3                   | Renzo Llerena | Done |
+| US-0         |       | 3              |             | 3                   | Renzo Llerena | Done |
+| TS-002       | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
+| US-019       | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
+| US-0         |       | 7              |             | 3                   | Renzo Villafuerte Tapia | Done |
+| US-0         |       | 8              |             | 3                   | Renzo Villafuerte Tapia | Done |
+| US-0         |       | 9              |             | 5                   | Renzo Villafuerte Tapia | Done |
+| US-0         |       | 10             |             | 5                   | Renzo Villafuerte Tapia | Done |
+| US-0         |       | 11             |             | 5                   | Sebastián Gutarra | To Review |
+| US-0         |       | 12             |             | 3                   | Sebastián Gutarra | To Review |
+| US-0         |       | 13             |             | 1                   | Sebastián Gutarra | To Review |
+| US-0         |       | 14             |             | 3                   | Sebastián Gutarra | To Review |
+| TS-006       | Crear módulo de microlecciones | 15 | Implementar sistema de contenido educativo con video y texto, y control de progreso del usuario. | 8 | Renzo Villafuerte Tapia | Done |
+| TS-007       | Sistema de quizzes con retroalimentación | 16 | Crear quizzes al final de cada microlección, evaluar respuestas y mostrar retroalimentación. | 6 | Renzo Villafuerte Tapia | Done |
+| US-025       | Sistema de reputación entre usuarios | 17 | Mostrar puntos y niveles visibles en perfiles de usuarios más activos o confiables. | 5 | Renzo Villafuerte Tapia | In Progress |
+| US-016       | Foro de usuarios o comunidad | 18 | Crear foro para que los usuarios compartan ideas y estrategias de forma anónima con moderación. | 8 | Renzo Villafuerte Tapia | In Progress |
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
