@@ -775,13 +775,7 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
   alt="Pulls y Merges"/>
 
 ## 5.2.3. Sprint 3
-<img src="../assest/img/chapter-V/SprintBacklog3.png" 
-  alt="features"/>
 
-  - Sprint Avanzado
-
-<img src="../assest/img/chapter-V/sprint3_2.png" 
-  alt="features"/>
 
 ### 5.2.3.1. Sprint Planning 3.
 
@@ -816,6 +810,11 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 ### 5.2.3.3. Sprint Backlog 3.
 <img src="../assest/img/chapter-V/SprintBacklog3.png" 
+  alt="features"/>
+
+  - Sprint Avanzado
+
+<img src="../assest/img/chapter-V/sprint3_2.png" 
   alt="features"/>
 
   A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
