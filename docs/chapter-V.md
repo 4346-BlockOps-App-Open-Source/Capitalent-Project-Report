@@ -886,7 +886,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
-| **Nombre**               | Rodrigo Reyes Valenzuela|
+| **Nombre**               | Rodrigo Reyes Herrera|
 | **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz |
 | **Edad**                 | 21 años |
 | **Resumen**              | El entrevistado quedó satisfecho con la experiencia general de la plataforma. Destacó el enfoque profesional y la utilidad para operar con decisiones informadas. Sugirió incluir ejemplos de señales visibles desde el landing page, además de agregar más profundidad técnica para usuarios avanzados. Valoró el enfoque educativo, pero recomendó mayor transparencia sobre el funcionamiento del algoritmo. Calificó la experiencia con un 8.5/10. |
