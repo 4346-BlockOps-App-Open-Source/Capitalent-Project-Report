@@ -19,7 +19,7 @@
 | Mechan Chumpitaz, Rodrigo Nicolás|   u202114649    |
 | Villafuerte Tapia, Renzo Alonso  |   u202310670    |
 
-### **Abril, 2025**
+### **Junio, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
