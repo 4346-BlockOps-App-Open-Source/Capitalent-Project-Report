@@ -881,7 +881,18 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 |        |              |         |             
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
 
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Backend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Backend, lo que permitió trabajar en paralelo de manera organizada.
+
+<img src="../assest/img/chapter-V/despliegue.png" 
+  alt="features"/>
+
+- Tercero, se creó un proyecto en Intellij Idea Ultimate y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
