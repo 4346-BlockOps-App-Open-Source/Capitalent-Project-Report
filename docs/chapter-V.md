@@ -814,9 +814,10 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
 | Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
 |------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
-| Capitalent/back-end-application      | main                 | d0fc541   | first commit                     | 25/04/2025   | Renzo Llerena             |
-| Capitalent/back-end-application     | feature/registro-onboarding        | a55c8a5 | implementación del backend registro-onboarding   | 16/06/2025     | Renzo Llerena               |
-| Capitalent/back-end-application      | feature/dashboard-señales | ee99afa | implementación del backend dashboard-señales | 16/06/2025  |    Rodrigo Mechan |
+| Capitalent/back-end-application      | main                 | 4c153c0   | first commit                     | 25/04/2025   | Renzo Llerena             |
+| Capitalent/back-end-application      | develop                 | 4c153c0   | first commit                     | 25/04/2025   | Renzo Llerena             |
+| Capitalent/back-end-application     | feature/registro-onboarding        | 5f16a29 | implementación del backend registro-onboarding   | 16/06/2025     | Renzo Llerena               |
+| Capitalent/back-end-application      | feature/crypto-signal-feature   | ffff4a0 | implementación del backend crypto-signal-feature   | 16/06/2025  |    Rodrigo Mechan |
 | Capitalent/back-end-application      | feature/configuracion-notificaciones      | 4ebddc0 | implementación del backend configuracion-notificaciones | 16/06/2025      | Sebastián Gutarra           |
 | Capitalent/back-end-application      | feature/eduacacion-financiera      | ac6e7eb | implementación del backend educacion-financiera | 16/06/2025      | Renzo Villafuerte              |
 | Capitalent/back-end-application      | feature/comunidad-foro      | ac6e7eb | implementación del backend comunidad-foro | 16/06/2025      |              |
