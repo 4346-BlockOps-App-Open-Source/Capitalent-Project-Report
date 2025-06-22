@@ -828,7 +828,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | US-0       |    | 1  |  | 3 | Renzo Llerena | Done |
 | US-0       |   | 2  || 3 | Renzo Llerena | Done |
 | US-0       |      | 3  |  | 3 | Renzo Llerena | Done |
-|        |    |   |  | 3 | Rodrigo Mechan | Done |
+|  TS-002      |  Implementar alertas de señales en tiempo real  |  4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
 | US-019      |Métricas de efectividad de señales  | 5  | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
 | US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
 | US-0       | | 8  | | 3 | Renzo Villafuerte Tapia | Done |
