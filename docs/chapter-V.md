@@ -780,7 +780,7 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
 
 A continuación, se detalla, en la tabla siguiente, información sobre el planeameanto del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para los usuarios del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Capitalent.
 
-| Sprint #               | Sprint 2                                                                                      |
+| Sprint #               | Sprint 3                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------|
 | Sprint Planning Background | --                                                                                            |
 | Date                   | 2025/06/14                                                                                  |
@@ -801,10 +801,10 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 | Team Member                             | GitHub Username      | Configuración y Notificaciones | DashBoard y Señales | Registro-Onboarding | Educación Financiera | Comunidad-Foro |
 |----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
-| Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      | L              |
-| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    | L              |
-| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |  L              |
-| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |    L            |
+| Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      |             |
+| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    |               |
+| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |               |
+| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
 
 
 ### 5.2.3.3. Sprint Backlog 3.
