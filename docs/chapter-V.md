@@ -829,7 +829,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Entity | EndPoint URL | Swagger | 
 |--------|--------------|---------|
 | Registro-onboarding       |     	/api/v1/Registro Onboarding         |  ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png)       |       
-|        |              |         |             
+|   Signals     |        /api-docs      |         |             
 |        |              |         |             
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
