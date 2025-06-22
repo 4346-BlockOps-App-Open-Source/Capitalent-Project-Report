@@ -902,7 +902,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Registro-onboarding   | /api/v1/Registro Onboarding   | <img src="../assest/img/chapter-V/Registro-onboarding-endpoint.png" alt="features"/>  |
 | Signals               | /api/signals                  | <img src="../assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png" alt="features"/> |
 | Educacion Financiera  | /api/v1/educacionfinanciera   | <img src="../assest/img/chapter-V/educacion-financiera-swagger-1.png" alt="features"/> <img src="../assest/img/chapter-V/educacion-financiera-swagger-2.png" alt="features"/>|
-| Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/backendnotifs.png" alt="features"/> |
+| Notificaciones        | /api/notificaciones           |  |
 
 
 
