@@ -775,6 +775,13 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
   alt="Pulls y Merges"/>
 
 ## 5.2.3. Sprint 3
+<img src="../assest/img/chapter-V/SprintBacklog3.png" 
+  alt="features"/>
+
+  - Sprint Avanzado
+
+<img src="../assest/img/chapter-V/sprint3_2.png" 
+  alt="features"/>
 
 ### 5.2.3.1. Sprint Planning 3.
 
