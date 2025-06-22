@@ -834,7 +834,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | US-0         |       | 8              |             | 3                   | Renzo Villafuerte Tapia | Done |
 | US-0         |       | 9              |             | 5                   | Renzo Villafuerte Tapia | Done |
 | US-0         |       | 10             |             | 5                   | Renzo Villafuerte Tapia | Done |
-| US-0         |       | 11             |             | 5                   | Sebastián Gutarra | To Review |
+|US-018         |     Notificaciones push  | 11             |     Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas        | 5                   | Sebastián Gutarra | To Review |
 | US-0         |       | 12             |             | 3                   | Sebastián Gutarra | To Review |
 | US-0         |       | 13             |             | 1                   | Sebastián Gutarra | To Review |
 | US-0         |       | 14             |             | 3                   | Sebastián Gutarra | To Review |
