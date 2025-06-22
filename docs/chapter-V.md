@@ -997,6 +997,39 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
 
+CARRERA: Ingeniería de Software
+
+CURSO: Desarrollo de Aplicaciones Open Source
+
+SECCIÓN: 4346
+
+PROFESOR: Rafael Oswaldo Castro Veramendi
+
+AUDITOR: Corebyte
+
+CLIENTE: Corebyte
+
+SITE o APP A EVALUAR: Capitalent
+TAREAS A EVALUAR:
+Landing Page: Capitalent
+Evaluación de la propuesta de valor e información general presentada en la landing page.
+
+Visualización y comprensión de los planes de precios del servicio.
+
+Fluidez y conexión de la landing con las funcionalidades clave de la plataforma (registro, foro, alertas).
+
+Evaluación del uso de íconos, botones y mensajes para facilitar la interacción.
+
+Web Application: Capitalent
+Acceso y comprensión de las señales cripto en tiempo real.
+
+Implementación y usabilidad del componente de notificaciones y alertas.
+
+Evaluación de los elementos interactivos (como botones "Comenzar ahora", cambio de idioma EN/ES, etc).
+
+Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
 ## 5.4. Video About-the-Product.
 - En esta sección presentamos el video sobre nuestro producto, Capitalent. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
