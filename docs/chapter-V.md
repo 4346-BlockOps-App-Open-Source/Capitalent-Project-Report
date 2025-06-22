@@ -861,7 +861,8 @@ En esta sección se presentan los cambios de mejora para el frontend implementan
   alt="features"/>
 
 #### Notificaciones
-  ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/frontendnotifs.png)
+<img src="../assest/img/chapter-V/frontendnotifs.png" 
+  alt="features"/>
 
 En esta sección se presentan las partes del backend ejecutandose durante el sprint y se adjuntan capturas de Intellij Idea Ultimate. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente:
 
@@ -882,7 +883,8 @@ En esta sección se presentan las partes del backend ejecutandose durante el spr
   alt="features"/>
 
 #### Notification
- ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/backendnotifs.png) 
+<img src="../assest/img/chapter-V/backendnotifs.png" 
+  alt="features"/>
 
  
   
@@ -894,7 +896,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Registro-onboarding   | /api/v1/Registro Onboarding   | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/Registro-onboarding-endpoint.png) |
 | Signals               | /api/signals                  | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png) |
 | Educacion Financiera  | /api/v1/educacionfinanciera   | ![Image1](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-1.png)<br>![Image2](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/main/assest/img/chapter-V/educacion-financiera-swagger-2.png) |
-| Notificaciones        | /api/notificaciones           | ![Image](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/img/chapter-V/backendnotifs.png) |
+| Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/backendnotifs.png" alt="features"/> |
 
 
 
