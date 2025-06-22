@@ -42,7 +42,13 @@
 
   - **Link de la organización: https://github.com/4346-BlockOps-App-Open-Source** 
 
-  - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git** 
+  - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git**
+
+  - **Link del repositorio frontend: https://github.com/4346-BlockOps-App-Open-Source/blockops-front-end-aplication.git** 
+  
+  - **Link del repositorio backend: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application.git** 
+
+
 
 ---
 A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
