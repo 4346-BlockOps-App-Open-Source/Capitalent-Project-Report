@@ -1043,3 +1043,7 @@ La evaluación busca identificar oportunidades de mejora en accesibilidad, arqui
 Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
 ## 5.4. Video About-the-Product.
 - En esta sección presentamos el video sobre nuestro producto, Capitalent. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
+
+Video About-the-product:  https://drive.google.com/drive/folders/15cRY3Dr_BjnA29BYGUnNrnuDoOotFaXQ?usp=sharing
+
+Video About-the-team: https://drive.google.com/drive/folders/1doSzB8zM8n5WPWYdHo8m4QCJK-XZ97Wn?usp=sharing
