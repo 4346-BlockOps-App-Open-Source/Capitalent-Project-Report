@@ -825,9 +825,9 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 | User Stories | Title | Work Item/Task | Description | Estimation (Hours) | Assigned to | Status |
 |--------------|-------|----------------|-------------|---------------------|-------------|--------|
-| US-0         |       | 1              |             | 3                   | Renzo Llerena | Done |
-| US-0         |       | 2              |             | 3                   | Renzo Llerena | Done |
-| US-0         |       | 3              |             | 3                   | Renzo Llerena | Done |
+|    TS-001     |   Crear componente de formulario de registro    | 1              |    Desarrollar un formulario React con validación de campos y conexión a backend para sincronizar datos del usuario.         | 3                   | Renzo Llerena | Done |
+| US-037        |   Perfil público con actividad compartida    | 2              |     Como usuario quiero tener un perfil público opcional con mis estadísticas        | 3                   | Renzo Llerena | Done |
+| US-009      |      Inicio de sesión seguro | 3              |        Como usuario quiero iniciar sesión de forma segura para proteger mi cuenta     | 3                   | Renzo Llerena | Done |
 | TS-002       | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
 | US-019       | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
 |US-018         |     Notificaciones push  | 11             |     Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas        | 5                   | Sebastián Gutarra | To Review |
