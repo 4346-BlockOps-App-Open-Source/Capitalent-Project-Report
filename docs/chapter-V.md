@@ -644,7 +644,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
   <p align="center">
   <img src="../assest/img/chapter-V/sprint-backlog-2_2.png" 
   alt="Sprint Backlog 2 en desarrollo"/>
-A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este tercer sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 
 
 
