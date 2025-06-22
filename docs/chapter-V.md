@@ -810,6 +810,29 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 ### 5.2.3.3. Sprint Backlog 3.
 <img src="../assest/img/chapter-V/SprintBacklog3.png" 
   alt="features"/>
+
+  A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+
+
+
+| User Stories |               | Work Item/Task |             |                   |             |          |
+|--------------|---------------|----------------|-------------|-------------------|-------------|----------|
+| Id           | Title         | Id             | Description | Estimation (Hours)| Assigned to | Status   |
+| US-0       |    | 1  |  | 3 | Renzo Llerena | Done |
+| US-0       |   | 2  || 3 | Renzo Llerena | Done |
+| US-0       |      | 3  |  | 3 | Renzo Llerena | Done |
+| US-0        |    | 4  | | 3 | Rodrigo Mechan | To Review |
+| US-0       |  | 5  |  | 5 | Rodrigo Mechan | To Review |
+| US-0       |  | 6  |  | 5 | Rodrigo Mechan | To Review |
+| US-0       |   | 7  |  | 3 |Renzo Villafuerte Tapia | Done |
+| US-0       |  8  | | 3 | Renzo Villafuerte Tapia | Done |
+| US-0      | | 9  |  | 5 | Renzo Villafuerte Tapia | Done |
+| US-0       |  | 10 |  | 5 | Renzo Villafuerte Tapia | Done |
+| US-0      |  | 11 |  | 5 | Sebastián Gutarra | To Review |
+| US-0     | | 12 |  | 3 | Sebastián Gutarra | To Review |
+| US-0     |         | 13 |  | 1 | Sebastián Gutarra | To Review |
+| US-0     |   | 14 || 3 | Sebastián Gutarra | To Review |
 ### 5.2.3.4. Development Evidence for Sprint Review.
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
 | Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
