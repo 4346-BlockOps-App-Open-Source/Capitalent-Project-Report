@@ -644,7 +644,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
   <p align="center">
   <img src="../assest/img/chapter-V/sprint-backlog-2_2.png" 
   alt="Sprint Backlog 2 en desarrollo"/>
-A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este tercer sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 
 
 
@@ -756,7 +756,8 @@ Segundo, cada integrante del equipo creo una rama de cada funcion del frontend
     <img src="../assest/img/chapter-V/branches.png" 
   alt="branches"/>
 
-### 5.2.2.7. Team Collaboration Insights durint Sprint ###
+### 5.2.2.7. Team Collaboration Insights durint Sprint 2
+
 
 Comits de los integrantes en el frontend:
 
@@ -774,3 +775,278 @@ En esta sección se muestra cómo el equipo ha trabajado de manera colaborativa 
   <img src="../assest/img/chapter-V/pullmerge.png" 
   alt="Pulls y Merges"/>
 
+## 5.2.3. Sprint 3
+
+
+### 5.2.3.1. Sprint Planning 3.
+
+A continuación, se detalla, en la tabla siguiente, información sobre el planeameanto del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para los usuarios del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Capitalent.
+
+| Sprint #               | Sprint 3                                                                                      |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Sprint Planning Background | --                                                                                            |
+| Date                   | 2025/06/14                                                                                  |
+| Time                   | 17:45 PM                                                                                       |
+| Location               | Reunión virtual en google meet                                 |
+| Prepared By            | Llerena Delgado, Renzo Miguel                                                            
+| Attendees              | Llerena Delgado, Renzo Miguel / Villafuerte Tapia, Renzo Alonso / Mechan Chumpitaz, Rodrigo Nicolás / Sebastian Ernesto Gutarra Velapatiño |
+| Sprint 2 Review Summary | In the previous sprint, the team completed a first view of the front-end implementing the basic sections and styles it will need like the login and signup, the profiles, the notifications and the signals. |
+| Sprint 2 Retrospective Summary | The principal area the team has to improve is having more communication between the members to let each others know how the progress is going for each member. Now, the plan for next sprint is to work more organized so each member knows what to do. |
+| Sprint Goal & User Stories | --                                                                                          |
+| Sprint 3 Goals         | - Offer a more detailed visualization and greater adaptability of the Capitalent Landing Page.<br>- Offer a more detailed visualization and greater adaptability of the Capitalent Front-End with all the key features, and Set the first version of the Capitalent backend application  |
+| Sprint 3 Velocity      | 100                                                                                           |
+| Sum of Story Points    | 99                                                                                            |
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este tercer sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Back-End Web Application. Para esto, hemos definido las siguientes secciones: Configuracion y notificaciones, Dashboard y señales, Registro-onboarding, Educacion financiera y Comunidad-Foro.
+
+| Team Member                             | GitHub Username      | Configuración y Notificaciones | DashBoard y Señales | Registro-Onboarding | Educación Financiera | Comunidad-Foro |
+|----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
+| Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      |             |
+| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    |               |
+| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |               |
+| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
+
+
+### 5.2.3.3. Sprint Backlog 3.
+<img src="../assest/img/chapter-V/SprintBacklog3.png" 
+  alt="features"/>
+
+  - Sprint Avanzado
+
+<img src="../assest/img/chapter-V/sprint3_2.png" 
+  alt="features"/>
+
+  A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+
+
+
+
+| User Stories | Title | Work Item/Task | Description | Estimation (Hours) | Assigned to | Status |
+|--------------|-------|----------------|-------------|---------------------|-------------|--------|
+|    TS-001     |   Crear componente de formulario de registro    | 1              |    Desarrollar un formulario React con validación de campos y conexión a backend para sincronizar datos del usuario.         | 3                   | Renzo Llerena | Done |
+| US-037        |   Perfil público con actividad compartida    | 2              |     Como usuario quiero tener un perfil público opcional con mis estadísticas        | 3                   | Renzo Llerena | Done |
+| US-009      |      Inicio de sesión seguro | 3              |        Como usuario quiero iniciar sesión de forma segura para proteger mi cuenta     | 3                   | Renzo Llerena | Done |
+| TS-002       | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
+| US-019       | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
+|US-018         |     Notificaciones push  | 11             |     Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas        | 5                   | Sebastián Gutarra | To Review |
+| US-0         |       | 12             |             | 3                   | Sebastián Gutarra | To Review |
+| TS-006       | Crear módulo de microlecciones | 15 | Implementar sistema de contenido educativo con video y texto, y control de progreso del usuario. | 8 | Renzo Villafuerte Tapia | Done |
+| TS-007       | Sistema de quizzes con retroalimentación | 16 | Crear quizzes al final de cada microlección, evaluar respuestas y mostrar retroalimentación. | 6 | Renzo Villafuerte Tapia | Done |
+| US-025       | Sistema de reputación entre usuarios | 17 | Mostrar puntos y niveles visibles en perfiles de usuarios más activos o confiables. | 5 | Renzo Villafuerte Tapia | In Progress |
+| US-016       | Foro de usuarios o comunidad | 18 | Crear foro para que los usuarios compartan ideas y estrategias de forma anónima con moderación. | 8 | Renzo Villafuerte Tapia | In Progress |
+
+### 5.2.3.4. Development Evidence for Sprint Review.
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| Capitalent/back-end-application      | main                 | 4c153c0   | first commit                     | 16/06/2025   | Renzo Llerena             |
+| Capitalent/back-end-application      | develop                 | 4c153c0   | first commit                     | 16/06/2025   | Renzo Llerena             |
+| Capitalent/back-end-application     | feature/registro-onboarding        | 5f16a29 | implementación del backend registro-onboarding   | 16/06/2025     | Renzo Llerena               |
+| Capitalent/back-end-application      | feature/crypto-signal-feature   | ffff4a0 | implementación del backend crypto-signal-feature   | 16/06/2025  |    Rodrigo Mechan |
+| Capitalent/back-end-application      | feature/configuracion-notificaciones      | 4ebddc0 | implementación del backend configuracion-notificaciones | 16/06/2025      | Sebastián Gutarra           |
+| Capitalent/back-end-application      | feature/eduacacion-financiera      | ac6e7eb | implementación del backend educacion-financiera | 16/06/2025      | Renzo Villafuerte              |
+| Capitalent/back-end-application      | feature/comunidad-foro      | ac6e7eb | implementación del backend comunidad-foro | 16/06/2025      |              |
+### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección se presentan los cambios de mejora para el frontend implementando la comunidad-foro, la educacion financiera más interactiva y el inicio de sesion funcional
+### Frontend
+#### Inicio de sesión:
+<img src="../assest/img/chapter-V/iniciodesesion.png" 
+  alt="features"/>
+<img src="../assest/img/chapter-V/iniciodesesion_2.png" 
+  alt="features"/>
+
+#### Eduación Financiera
+<img src="../assest/img/chapter-V/educacionfinanciera.png" 
+  alt="features"/>
+
+#### Foro
+<img src="../assest/img/chapter-V/foro.png" 
+  alt="features"/>
+
+#### Notificaciones
+<img src="../assest/img/chapter-V/frontendnotifs.png" 
+  alt="features"/>
+
+En esta sección se presentan las partes del backend ejecutandose durante el sprint y se adjuntan capturas de Intellij Idea Ultimate. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente:
+
+### Backend
+
+#### Registro-Onboarding
+
+<img src="../assest/img/chapter-V/registroonboardinexecution.png" 
+  alt="features"/>
+
+#### Crypto Signals
+
+ ![Image]( https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/feature/chap5-sprint3/assest/imagen_2025-06-22_031225168.png)    
+
+ #### Educacion Financiera
+
+<img src="../assest/img/chapter-V/educacionfinancieraexecution.png" 
+  alt="features"/>
+
+#### Notification
+<img src="../assest/img/chapter-V/backendnotifs.png" 
+  alt="features"/>
+
+ 
+  
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application/tree/main Se adjunta el enlace del back end desplegado:
+
+| Entity                | EndPoint URL                  | Swagger |
+|-----------------------|-------------------------------|---------|
+| Registro-onboarding   | /api/v1/Registro Onboarding   | <img src="../assest/img/chapter-V/Registro-onboarding-endpoint.png" alt="features"/>  |
+| Signals               | /api/signals                  | <img src="../assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png" alt="features"/> |
+| Educacion Financiera  | /api/v1/educacionfinanciera   | <img src="../assest/img/chapter-V/educacion-financiera-swagger-1.png" alt="features"/> <img src="../assest/img/chapter-V/educacion-financiera-swagger-2.png" alt="features"/>|
+| Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/swaggernotifs.png" alt="features"/> |
+
+
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
+
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Backend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Backend, lo que permitió trabajar en paralelo de manera organizada.
+
+<img src="../assest/img/chapter-V/despliegue.png" 
+  alt="features"/>
+
+- Tercero, se creó un proyecto en Intellij Idea Ultimate y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
+### 5.2.3.8. Team Collaboration Insights during Sprint 3.
+<p align="center">
+    <img src="../assest/img/chapter-V/rendimiento.png" height="400"
+  alt="features"/>
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+### Guía de Evaluación de Landing Page
+
+#### Primera Impresión
+
+- ¿Cuál es tu primera impresión al ver esta landing page?
+- ¿Qué sientes que es el propósito de esta página/aplicación?
+- ¿Hay algo en la página que te llame especialmente la atención o te parezca fuera de lugar?
+
+#### Preguntas sobre Navegación y User Flow
+*(Cuando el usuario intenta realizar una acción específica)*
+
+- ¿Cómo fue tu experiencia al realizar esa tarea?
+- ¿Fue fácil o hubo algo que te complicó?
+- ¿Hubo algún momento en el que te sintieras perdido o no supieras qué hacer?
+
+#### Preguntas sobre Claridad y Comprensión
+
+- ¿La información en la página te parece clara y fácil de entender?
+- ¿Hay algo que no entendiste o que consideras que debería explicarse mejor?
+
+#### Interacción y Experiencia de Usuario
+*(Cuando el usuario intenta realizar una acción específica con algún elemento de la página)*
+
+- Cuando interactuaste con este elemento, ¿la respuesta de la aplicación fue la que esperabas?
+
+#### Evaluación General
+
+- Del 1 al 10, ¿cómo calificarías tu experiencia usando la landing page y la aplicación?
+- ¿Qué es lo que más te gustó y lo que menos te gustó de la aplicación?
+- ¿Hay algo que cambiarías o agregarías para que tu experiencia fuera mejor?
+
+### 5.3.2. Registro de Entrevistas.
+### Segmento Objetivo 1: Traders Independientes
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jean Piero Landa Cáceres |
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 19 años |
+| **Resumen**              | El entrevistado se encontró impresionado sobre cómo se esta llevando a cabo el desarrollo de la aplicación y que considera que sería elemental para su introducción en el trading, le fascino la parte de educación financiera la cual le aporta recursos para autoeducarse |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 11:00 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1Xs13k4QOnAjo1WB3Qm1vDmMZtXiXqbrd/view?usp=sharing) |
+
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Rodrigo Reyes Herrera|
+| **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz |
+| **Edad**                 | 21 años |
+| **Resumen**              | El entrevistado quedó satisfecho con la experiencia general de la plataforma. Destacó el enfoque profesional y la utilidad para operar con decisiones informadas. Sugirió incluir ejemplos de señales visibles desde el landing page, además de agregar más profundidad técnica para usuarios avanzados. Valoró el enfoque educativo, pero recomendó mayor transparencia sobre el funcionamiento del algoritmo. Calificó la experiencia con un 8.5/10. |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:00 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1JSBzOk62VnOVqIe4zxS3mE1IKpTE-Xxf/view?usp=sharing) |
+
+### Segmento Objetivo 2: Inversionistas Retail
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Renato Guillermo Calvo Yalan|
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 21 años |
+| **Resumen**              | El entrevistado se encontró satisfecho con su primera vista hacia nuestra app, recalcando que en la parte del landing page se muestren el nombre de las criptomonedas mostradas al inicio|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:51 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1H509TM0zwbekNc6q78kqgHZZowysTUwk/view?usp=sharing) |
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Jorge Jose Valenzuela Chavez|
+| **Entrevistador**        | Rodrigo Nicolas Mechan Chumpitaz |
+| **Edad**                 | 24 años |
+| **Resumen**              | El entrevistado valoró altamente la claridad, simplicidad y enfoque educativo de la landing page. Percibió confianza en la propuesta y dijo que sería ideal para iniciarse en el mundo cripto. Recomendó incluir una sección específica para principiantes, un tour introductorio o tutorial corto, y testimonios que generen más confianza. Calificó la experiencia con un 9/10.|
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 4:23 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1DnnLIyZT5ZuYHUyT9u6ZP-otFAEycVdu/view?usp=drive_link) |
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+## 🧪 Evaluaciones según heurísticas (UX Heuristics & Principles Evaluation)
+
+**Usability – Inclusive Design – Information Architecture**  
+**Curso:** Desarrollo de Aplicaciones Open Source  
+**Carrera:** Ingeniería de Software  
+**Sección:** 4346  
+**Profesor:** Rafael Oswaldo Castro Veramendi  
+**Auditor:** Corebyte  
+**Cliente:** Corebyte  
+
+
+
+---
+
+### 📝 Tareas Evaluadas
+
+#### 🔵 Landing Page: Capitalent
+
+1. Evaluación de la propuesta de valor e información general presentada en la landing page.
+2. Visualización y comprensión de los planes de precios del servicio.
+3. Fluidez y conexión de la landing con las funcionalidades clave de la plataforma (registro, foro, alertas).
+4. Evaluación del uso de íconos, botones y mensajes para facilitar la interacción.
+
+#### 🟣 Web Application: Capitalent
+
+1. Acceso y comprensión de las señales cripto en tiempo real.
+2. Implementación y usabilidad del componente de notificaciones y alertas.
+3. Evaluación de los elementos interactivos (como botones "Comenzar ahora", cambio de idioma EN/ES, etc.).
+4. Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
+
+---
+
+### ✅ Objetivo
+
+La evaluación busca identificar oportunidades de mejora en accesibilidad, arquitectura de información y experiencia del usuario, con base en principios de diseño inclusivo aplicados en entornos open source.
+
+
+Análisis de nuevas funcionalidades implementadas en el dashboard o módulo educativo (Educación Financiera, Foro).
+## 5.4. Video About-the-Product.
+- En esta sección presentamos el video sobre nuestro producto, Capitalent. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
+
+Video About-the-product:  https://drive.google.com/drive/folders/15cRY3Dr_BjnA29BYGUnNrnuDoOotFaXQ?usp=sharing
+
+Video About-the-team: https://drive.google.com/drive/folders/1doSzB8zM8n5WPWYdHo8m4QCJK-XZ97Wn?usp=sharing

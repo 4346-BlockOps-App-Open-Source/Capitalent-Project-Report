@@ -4,7 +4,7 @@
 # Carrera de Ingienería de Software - 2510
 ## Open Source - 1ASI0729
 ![Image](https://github.com/user-attachments/assets/ad49f3f8-ce77-48f3-a032-38e6311d31b2)
-# Informe de TP
+# Informe de TB2
 ### Profesor: Rafael Oswaldo Castro Veramendi
 ### Startup: BlockOps
 ### Producto: Capitalent
@@ -19,30 +19,39 @@
 | Mechan Chumpitaz, Rodrigo Nicolás|   u202114649    |
 | Villafuerte Tapia, Renzo Alonso  |   u202310670    |
 
-### **Abril, 2025**
+### **Junio, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
 
-| Version | Date       | Team Member (Last Name, First Name) | Changes/Updates                                         |
-|---------|------------|-------------------------------------|--------------------------------------------------------|
-| 1.0     | 13/04/2025 | Villafuerte Tapia, Renzo Alonso     | Creación del informe - Capítulo 1 (Introducción)       |
-| 1.1     | 14/04/2025 | Llerena Delgado, Renzo Miguel     | Redacción del Capítulo 2 (Análisis de Competencia)     |
-| 1.2     | 15/04/2025 | Chumpitaz, Rodrigo Nicolás         | Desarrollo del Capítulo 3 (Metodología)                |
-| 1.3     | 17/04/2025 | Gutarra Velapatiño, Sebastian      | Elaboración del Capítulo 4 (Desarrollo del Proyecto)   |
-| 1.4     | 18/04/2025 | Elescano Leon, Piero Hugo          | Redacción del Capítulo 5 (Conclusiones y Anexos)       |
-| 1.5     | 20/04/2025 | Villafuerte Tapia, Renzo Alonso     | Revisión final del informe, ajuste de formato y bibliografía |
-| 1.6     | 23/04/2025 | Llerena Delgado, Renzo Miguel      | Incorporación de métricas y detalles del desarrollo de la landing page |
-| 1.7     | 25/04/2025 | Chumpitaz, Rodrigo Nicolás         | Revisión del Capítulo 3 con datos adicionales sobre la metodología |
-| 1.8     | 26/04/2025 | Gutarra Velapatiño, Sebastian      | Actualización del Capítulo 4 con detalles adicionales del desarrollo |
-| 1.9     | 27/04/2025 | Elescano Leon, Piero Hugo          | Revisión final de todos los capítulos, anexos y bibliografía |
+| Version | Date       | Team Member (Last Name, First Name) | Changes/Updates                                                                 |
+|---------|------------|-------------------------------------|----------------------------------------------------------------------------------|
+| 1.0     | 13/04/2025 | Villafuerte Tapia, Renzo Alonso     | Creación del informe - Capítulo 1 (Introducción)                                 |
+| 1.1     | 14/04/2025 | Llerena Delgado, Renzo Miguel       | Redacción del Capítulo 2 (Análisis de Competencia)                              |
+| 1.2     | 15/04/2025 | Chumpitaz, Rodrigo Nicolás          | Desarrollo del Capítulo 3 (Metodología)                                          |
+| 1.3     | 17/04/2025 | Gutarra Velapatiño, Sebastian       | Elaboración del Capítulo 4 (Desarrollo del Proyecto)                             |
+| 1.4     | 18/04/2025 | Elescano Leon, Piero Hugo           | Redacción del Capítulo 5 (Conclusiones y Anexos)                                 |
+| 1.5     | 20/04/2025 | Villafuerte Tapia, Renzo Alonso     | Revisión final del informe, ajuste de formato y bibliografía                     |
+| 1.6     | 23/04/2025 | Llerena Delgado, Renzo Miguel       | Incorporación de métricas y detalles del desarrollo de la landing page           |
+| 1.7     | 25/04/2025 | Chumpitaz, Rodrigo Nicolás          | Revisión del Capítulo 3 con datos adicionales sobre la metodología               |
+| 1.8     | 26/04/2025 | Gutarra Velapatiño, Sebastian       | Actualización del Capítulo 4 con detalles adicionales del desarrollo             |
+| 1.9     | 27/04/2025 | Elescano Leon, Piero Hugo           | Revisión final de todos los capítulos, anexos y bibliografía                     |
+| 2.0     | 26/05/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 2 (TB2) en colaboración con Chumpitaz, Rodrigo    |
+| 2.1     | 21/06/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 3 (TB3)                                           |
+
 
 
 # Project Report Collaboration Insights 
 
   - **Link de la organización: https://github.com/4346-BlockOps-App-Open-Source** 
 
-  - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git** 
+  - **Link del repositorio: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git**
+
+  - **Link del repositorio frontend: https://github.com/4346-BlockOps-App-Open-Source/blockops-front-end-aplication.git** 
+  
+  - **Link del repositorio backend: https://github.com/4346-BlockOps-App-Open-Source/blockops-back-end-application.git** 
+
+
 
 ---
 A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
@@ -52,47 +61,17 @@ A continuación se mostraran la cantidad de contribuciones, hechas en el reposit
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el grupo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
 
-<table>
-  <tr>
-    <th>Criterio Específico</th>
-    <th>Acciones Realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td rowspan="5">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: Expuso de manera clara las propuestas de solución durante las reuniones del equipo, asegurándose de que todos los integrantes comprendieran sus aportes y fortaleciendo la toma de decisiones colectivas.</td>
-    <td rowspan="5">La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo del proyecto, adaptándose al nivel de conocimiento de cada miembro.</td>
-  </tr>
-  <tr>
-    <td>Gutarra Velapatiño, Sebastian: <br>TB1: Participó activamente en las presentaciones internas, explicando aspectos técnicos del proyecto de manera accesible para todo el equipo y ajustando su lenguaje según el público.</td>
-  </tr>
-  <tr>
-    <td>Llerena Delgado, Renzo Miguel: <br>TB1: Lideró sesiones de retroalimentación donde presentó informes de avance, utilizando un lenguaje claro y estructurado para asegurar que el mensaje fuera comprendido por todos los miembros.</td>
-  </tr>
-  <tr>
-    <td>Mechan Chumpitaz, Rodrigo Nicolás: <br>TB1: Realizó presentaciones breves para proponer mejoras en el flujo de trabajo, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión del objetivo de las mejoras.</td>
-  </tr>
-  <tr>
-    <td>Villafuerte Tapia, Renzo Alonso: <br>TB1: Moderó discusiones de equipo, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro para todos los integrantes.</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: Redactó reportes de avance claros y concisos, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del proyecto.</td>
-    <td rowspan="5">La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo del proyecto, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.</td>
-  </tr>
-  <tr>
-    <td>Gutarra Velapatiño, Sebastian: <br>TB1: Elaboró documentos técnicos que describían las decisiones tomadas y las justificaciones de diseño, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.</td>
-  </tr>
-  <tr>
-    <td>Llerena Delgado, Renzo Miguel: <br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.</td>
-  </tr>
-  <tr>
-    <td>Mechan Chumpitaz, Rodrigo Nicolás: <br>TB1: Colaboró en la elaboración de manuales de usuario y documentación técnica, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores.</td>
-  </tr>
-  <tr>
-    <td>Villafuerte Tapia, Renzo Alonso: <br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.</td>
-  </tr>
-</table>
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Gutarra Velapatiño, Sebastian:**<br>**TB1:** Participó activamente en las presentaciones internas, explicando aspectos técnicos del proyecto de manera accesible para todo el equipo y ajustando su lenguaje según el público.<br>**TB2:** Explicó el diseño de módulos funcionales ante docentes, empleando recursos visuales para facilitar la comprensión.<br>**TB3:** Se encargó de presentar el impacto social del proyecto en la feria académica, utilizando un lenguaje inclusivo y claro para público general. | **La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo del proyecto, adaptándose al nivel de conocimiento de cada miembro.** |
+| | **Llerena Delgado, Renzo Miguel:**<br>**TB1:** Lideró sesiones de retroalimentación donde presentó informes de avance, utilizando un lenguaje claro y estructurado para asegurar que el mensaje fuera comprendido por todos los miembros.<br>**TB2:** Explicó los resultados del análisis de requerimientos en una reunión con asesores externos, asegurando que la información fuera entendida por todos.<br>**TB3:** Actuó como vocero principal durante la sustentación final, comunicando el proceso completo del proyecto a una audiencia técnica. | |
+| | **Mechan Chumpitaz, Rodrigo Nicolás:**<br>**TB1:** Realizó presentaciones breves para proponer mejoras en el flujo de trabajo, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión del objetivo de las mejoras.<br>**TB2:** Presentó sugerencias técnicas en una reunión de revisión, empleando lenguaje especializado con explicaciones simples según el perfil de los asistentes.<br>**TB3:** Explicó el funcionamiento del sistema en la feria, respondiendo preguntas de asistentes con distintos niveles de conocimiento. | |
+| | **Villafuerte Tapia, Renzo Alonso:**<br>**TB1:** Moderó discusiones de equipo, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro para todos los integrantes.<br>**TB2:** Expuso avances y cronogramas ante los docentes, aclarando dudas relacionadas con tiempos y recursos.<br>**TB3:** Coordinó la exposición del equipo en la feria, asegurando que cada integrante comunicara su parte de forma ordenada y adecuada al público. | |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Gutarra Velapatiño, Sebastian:**<br>**TB1:** Elaboró documentos técnicos que describían las decisiones tomadas y las justificaciones de diseño, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.<br>**TB2:** Redactó entregables intermedios con estructura técnica, adaptando el contenido al criterio de evaluación docente.<br>**TB3:** Elaboró contenido gráfico e informativo para el stand de exposición, simplificando conceptos técnicos para un público general. | **La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo del proyecto, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.** |
+| | **Llerena Delgado, Renzo Miguel:**<br>**TB1:** Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.<br>**TB2:** Redactó el análisis de riesgos y sus recomendaciones, con un enfoque técnico claro y accesible.<br>**TB3:** Integró y depuró el informe final del proyecto, asegurando coherencia, claridad y adecuación al perfil del lector. | |
+| | **Mechan Chumpitaz, Rodrigo Nicolás:**<br>**TB1:** Colaboró en la elaboración de manuales de usuario y documentación técnica, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores.<br>**TB2:** Elaboró guías de prueba para validar funcionalidades clave, usando lenguaje técnico simplificado.<br>**TB3:** Diseñó infografías y fichas técnicas para el evento final, enfocadas en una comprensión visual e inmediata del sistema. | |
+| | **Villafuerte Tapia, Renzo Alonso:**<br>**TB1:** Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.<br>**TB2:** Consolidó los avances escritos del equipo, uniformando el estilo y nivel técnico para la entrega intermedia.<br>**TB3:** Redactó el resumen ejecutivo y coordinó la edición final del informe, cuidando la adaptación del lenguaje para lectores no técnicos. | |
+
 
 
 # Capitalent-Project-Report
@@ -178,6 +157,27 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
 ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
 ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5217-software-deployment-evidence-for-sprint-review)
 ##### [5.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+#### [5.2.2. Sprint 2](/docs/chapter-V.md/#522-sprint-2)
+##### [5.2.2.1. Sprint Planning 2](/docs/chapter-V.md/#5221-sprint-planning-2)
+##### [5.2.2.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5222-aspect-leaders-and-collaborators)
+##### [5.2.2.3. Sprint Backlog 2](/docs/chapter-V.md/#5223-sprint-backlog-2)
+##### [5.2.2.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5224-development-evidence-for-sprint-review)
+##### [5.2.2.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5225-execution-evidence-for-sprint-review)
+##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
+##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5227-software-deployment-evidence-for-sprint-review)
+##### [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
+
+#### [5.2.3. Sprint 3](/docs/chapter-V.md/#523-sprint-3)
+##### [5.2.3.1. Sprint Planning 3](/docs/chapter-V.md/#5231-sprint-planning-3)
+##### [5.2.3.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5232-aspect-leaders-and-collaborators)
+##### [5.2.3.3. Sprint Backlog 3](/docs/chapter-V.md/#5233-sprint-backlog-3)
+##### [5.2.3.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5234-development-evidence-for-sprint-review)
+##### [5.2.3.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5235-execution-evidence-for-sprint-review)
+##### [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
+##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
+##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+
+
 
 ## [Conclusiones](/docs/conclusions.md)
 
