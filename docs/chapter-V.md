@@ -655,9 +655,9 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 | US-007       | Registro inicial de usuario     | 1  | Como usuario nuevo quiero registrarme fácilmente para comenzar a usar la plataforma | 3 | Renzo Llerena | Done |
 | US-008       | Selección de perfil de riesgo   | 2  | Como usuario quiero definir mi perfil de riesgo al registrarme para recibir señales adecuadas | 3 | Renzo Llerena | Done |
 | US-005       | Personalización de señales      | 3  | Como usuario quiero personalizar qué tipo de señales recibo para que se ajusten a mis intereses | 3 | Renzo Llerena | Done |
-| US-006       | Dashboard con resumen diario    | 4  | Como usuario quiero ver un resumen diario de los movimientos clave del mercado al abrir la plataforma | 3 | Rodrigo Mechan | To Review |
-| US-003       | Recepción de señales de compra y venta | 5  | Como usuario quiero recibir notificaciones cuando se detecten oportunidades para comprar o vender | 5 | Rodrigo Mechan | To Review |
-| US-004       | Explicación visual de las señales | 6  | Como usuario quiero ver por qué se generó una señal para entender mejor la recomendación | 5 | Rodrigo Mechan | To Review |
+| US-006       | Dashboard con resumen diario    | 4  | Como usuario quiero ver un resumen diario de los movimientos clave del mercado al abrir la plataforma | 3 | Rodrigo Mechan | Done |
+| US-003       | Recepción de señales de compra y venta | 5  | Como usuario quiero recibir notificaciones cuando se detecten oportunidades para comprar o vender | 5 | Rodrigo Mechan | Done |
+| US-004       | Explicación visual de las señales | 6  | Como usuario quiero ver por qué se generó una señal para entender mejor la recomendación | 5 | Rodrigo Mechan | Done |
 | US-032       | Quiz al final de cada lección   | 7  | Como usuario quiero hacer un pequeño test tras cada lección para evaluar lo aprendido | 3 |Renzo Villafuerte Tapia | Done |
 | US-031       | Microlecciones de análisis técnico | 8  | Como usuario quiero acceder a lecciones cortas sobre análisis técnico para entender las señales | 3 | Renzo Villafuerte Tapia | Done |
 | US-014       | Biblioteca de recursos financieros | 9  | Como usuario quiero tener acceso a una biblioteca de contenido educativo para profundizar en temas clave | 5 | Renzo Villafuerte Tapia | Done |
@@ -682,7 +682,7 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 | BlockOps/Capitalent-Front-End-App         |    feature/Educación Financiera                  | 7dedbdec76aad06191a9285ac6a7fe971c258b5c          |      Add DEPENDENCIES.md to version control         |    14/05/2025         |
 | BlockOps/Capitalent-Front-End-App         |   feature/Registro-Onboarding         |  7e3b3820dc7e3a3277f8f7c63058c55e45d3214c       |   Login, prefenreces, risk profile     |    14/05/2025         |
         
-### 5.2.1.5. Execution Evidence for Sprint Review ###
+### 5.2.2.5. Execution Evidence for Sprint Review ###
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del frontend.
 <p align="center">
     <img src="../assest/img/chapter-V/header.png" 
@@ -738,7 +738,7 @@ El codigo funciona cuando presionas el boton educacion financiera
 
   ## Notificaciones
 
-  ![notificaciones](https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/blob/develop/assest/img/chapter-V/notifs.png)
+  ![notificacion](https://raw.githubusercontent.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report/develop/assest/img/chapter-V/notifs.png)
 
 El código funciona pese a no ser implementado hacia la landing page por diversos errores.
 
