@@ -14,7 +14,7 @@
 
 -Repositorio del Informe: https://github.com/4346-BlockOps-App-Open-Source/Capitalent-Project-Report.git
 
--Landing Page Desplegado Capitalent: https://github.com/4346-BlockOps-App-Open-Source/Landing-Page-Capitalent.git
+-Landing Page Desplegado Capitalent: https://github.com/4346-BlockOps-App-Open-Source/Landing-Page-Capitalent.git](https://4346-blockops-app-open-source.github.io/Landing-Page-Capitalent
 
 -Frontend Desplegado Capitalent: https://4346-blockops-app-open-source.github.io/blockops-front-end-aplication/
 
