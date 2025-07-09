@@ -926,7 +926,31 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 
 ## 5.2.4. Sprint 4
 ### 5.2.4.1.Sprint Planning 4.
+
+| Sprint #               | Sprint 4                                                                                      |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Sprint Planning Background | --                                                                                            |
+| Date                   | 2025/26/06                                                                                  |
+| Time                   | 15:05 PM                                                                                       |
+| Location               | Reunión virtual en google meet                                 |
+| Prepared By            | Llerena Delgado, Renzo Miguel                                                            
+| Attendees              | Llerena Delgado, Renzo Miguel / Villafuerte Tapia, Renzo Alonso / Mechan Chumpitaz, Rodrigo Nicolás / Sebastian Ernesto Gutarra Velapatiño |
+| Sprint 3 Review Summary | En el sprint anterior, completamos la implementación de todas las funcionalidades del frontend y desarrollamos la primera versión de nuestro backend. En este nuevo sprint, nos enfocaremos en integrar las funciones del backend con el frontend, asegurándonos previamente de mejorar la interfaz del frontend a nivel estético.|
+| Sprint Goal & User Stories | --                                                                                          |
+| Sprint 4 Goals         | Nuestras metas son desplegar la aplicacion web de forma exitosa con el backend y el frontend terminados |
+| Sprint 4 Velocity      | 100                                                                                           |
+| Sum of Story Points    | 99                                                                                            |
+
 ### 5.2.4.2. Aspect Leaders and Collaborators.
+
+| Team Member                             | GitHub Username      | Configuración y Notificaciones | DashBoard y Señales | Registro-Onboarding | Educación Financiera | Comunidad-Foro |
+|----------------------------------------|-----------------------|-------------------------------|---------------------|---------------------|----------------------|----------------|
+| Llerena Delgado, Renzo Miguel          | Renxoll               |                               |                     | L                   |                      |             |
+| Villafuerte Tapia, Renzo Alonso        | RenzoVi21             |                               |                     |                     | L                    |               |
+| Mechan Chumpitaz, Rodrigo Nicolás      | Rodrigo270304         | L                             |                     |                     |                      |               |
+| Sebastian Ernesto Gutarra Velapatiño   | SebastianGutarra      |                               | L                   |                     |                      |                |
+|  Jhon Danny Guerrero Vasquez           | Feli386               |                                |                    |                     |                      |         L       |        
+
 ### 5.2.4.3.Sprint Backlog 4.
 ### 5.2.4.4.Development Evidence for Sprint Review.
 ### 5.2.4.5.Execution Evidence for Sprint Review.
