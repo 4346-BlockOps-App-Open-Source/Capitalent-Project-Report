@@ -832,7 +832,6 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | TS-002       | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
 | US-019       | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
 |US-018         |     Notificaciones push  | 11             |     Como usuario quiero recibir notificaciones en mi celular para estar al tanto de nuevas señales o alertas        | 5                   | Sebastián Gutarra | To Review |
-| US-0         |       | 12             |             | 3                   | Sebastián Gutarra | To Review |
 | TS-006       | Crear módulo de microlecciones | 15 | Implementar sistema de contenido educativo con video y texto, y control de progreso del usuario. | 8 | Renzo Villafuerte Tapia | Done |
 | TS-007       | Sistema de quizzes con retroalimentación | 16 | Crear quizzes al final de cada microlección, evaluar respuestas y mostrar retroalimentación. | 6 | Renzo Villafuerte Tapia | Done |
 | US-025       | Sistema de reputación entre usuarios | 17 | Mostrar puntos y niveles visibles en perfiles de usuarios más activos o confiables. | 5 | Renzo Villafuerte Tapia | In Progress |
@@ -952,6 +951,24 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 |  Jhon Danny Guerrero Vasquez           | Feli386               |                                |                    |                     |                      |         L       |        
 
 ### 5.2.4.3.Sprint Backlog 4.
+
+  A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este cuarto sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+
+| User Stories | Title | Work Item/Task | Description | Estimation (Hours) | Assigned to | Status |
+|--------------|-------|----------------|-------------|---------------------|-------------|--------|
+|          |   Crear componente de formulario de registro    | 1              |    Desarrollar un formulario React con validación de campos y conexión a backend para sincronizar datos del usuario.         | 3                   | Renzo Llerena | Done |
+|          |   Perfil público con actividad compartida    | 2              |     Como usuario quiero tener un perfil público opcional con mis estadísticas        | 3                   | Renzo Llerena | Done |
+|        |      Inicio de sesión seguro | 3              |        Como usuario quiero iniciar sesión de forma segura para proteger mi cuenta     | 3                   | Renzo Llerena | Done |
+|         | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
+|        | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
+|US-028         |     Frecuencia de notificaciones  | 10             |     Como usuario quiero ajustar la frecuencia de notificaciones para mantenerme al tanto a mi ritmo        | 3                   | Sebastián Gutarra | Done |
+|US-029         |     Notificaciones dentro de la app y por correo  | 11             |     Como usuario quiero recibir notificaciones tanto en la app como por correo según mi elección        | 2                   | Sebastián Gutarra | Done |
+|     | Crear módulo de microlecciones | 15 | Implementar sistema de contenido educativo con video y texto, y control de progreso del usuario. | 8 | Renzo Villafuerte Tapia | Done |
+|      | Sistema de quizzes con retroalimentación | 16 | Crear quizzes al final de cada microlección, evaluar respuestas y mostrar retroalimentación. | 6 | Renzo Villafuerte Tapia | Done |
+|        | Sistema de reputación entre usuarios | 17 | Mostrar puntos y niveles visibles en perfiles de usuarios más activos o confiables. | 5 | Renzo Villafuerte Tapia | In Progress |
+|       | Foro de usuarios o comunidad | 18 | Crear foro para que los usuarios compartan ideas y estrategias de forma anónima con moderación. | 8 | Renzo Villafuerte Tapia | In Progress |
+
 ### 5.2.4.4.Development Evidence for Sprint Review.
 ### 5.2.4.5.Execution Evidence for Sprint Review.
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
