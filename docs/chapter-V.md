@@ -997,7 +997,7 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 Este fue el despliegue de nuestro backend.
-<img src="../assest/img/chapter-V/desplegado.png" alt="features"/>
+<img src="../assest/img/chapter-V/desplegado.jpg" alt="features"/>
 
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 Frontend Repo:
