@@ -4,7 +4,7 @@
 # Carrera de Ingienería de Software - 2510
 ## Open Source - 1ASI0729
 ![Image](https://github.com/user-attachments/assets/ad49f3f8-ce77-48f3-a032-38e6311d31b2)
-# Informe de TB2
+# Informe de TF
 ### Profesor: Rafael Oswaldo Castro Veramendi
 ### Startup: BlockOps
 ### Producto: Capitalent
@@ -13,7 +13,7 @@
 
 |           Estudiante             |     Código      |
 |----------------------------------|-----------------|
-| Elescano Leon, Piero Hugo        |   u202313354    |
+| Guerrero Vazquez, Jhon Danny        |  u202116246   |
 | Gutarra Velapatiño, Sebastian    |   u20241A314    |
 | Llerena Delgado, Renzo Miguel    |   u202312399    |
 | Mechan Chumpitaz, Rodrigo Nicolás|   u202114649    |
@@ -36,8 +36,9 @@
 | 1.7     | 25/04/2025 | Chumpitaz, Rodrigo Nicolás          | Revisión del Capítulo 3 con datos adicionales sobre la metodología               |
 | 1.8     | 26/04/2025 | Gutarra Velapatiño, Sebastian       | Actualización del Capítulo 4 con detalles adicionales del desarrollo             |
 | 1.9     | 27/04/2025 | Elescano Leon, Piero Hugo           | Revisión final de todos los capítulos, anexos y bibliografía                     |
-| 2.0     | 26/05/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 2 (TB2) en colaboración con Chumpitaz, Rodrigo    |
-| 2.1     | 21/06/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 3 (TB3)                                           |
+| 2.0     | 26/05/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 2 (TP) en colaboración con Chumpitaz, Rodrigo    |
+| 2.1     | 21/06/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 3 (TB2)                                           |
+| 2.2     | 10/07/2025 | Llerena Delgado, Renzo Miguel       | Desarrollo completo del Sprint 3 (TF)                                           |
 
 
 
@@ -176,6 +177,17 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
 ##### [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
 ##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
 ##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+
+#### [5.2.4. Sprint 4](/docs/chapter-V.md/#523-sprint-4)
+##### [5.2.4.1. Sprint Planning 3](/docs/chapter-V.md/#5231-sprint-planning-4)
+##### [5.2.4.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5232-aspect-leaders-and-collaborators)
+##### [5.2.4.3. Sprint Backlog 3](/docs/chapter-V.md/#5233-sprint-backlog-3)
+##### [5.2.4.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5234-development-evidence-for-sprint-review)
+##### [5.2.4.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5235-execution-evidence-for-sprint-review)
+##### [5.2.4.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
+##### [5.2.4.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
+##### [5.2.4.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+
 
 
 
