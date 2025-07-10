@@ -973,6 +973,17 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 |       | Foro de usuarios o comunidad | 18 | Crear foro para que los usuarios compartan ideas y estrategias de forma anónima con moderación. | 8 | Renzo Villafuerte Tapia | In Progress |
 
 ### 5.2.4.4.Development Evidence for Sprint Review.
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
+| Repository                  | Branch               | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-------------------------------------|--------------|-----------------------------|
+| Capitalent/frontend      | develop                   | implementacion del frontend unificado                     | 26/06/2025   | Renzo Llerena          |
+| Capitalent/frontend      | main           | Despliegue del frontend unificado    | 27/06/2025      | Renzo Llerena              |
+| Capitalent/backend      | main         | implementación del backend unificado   | 29/06/2025     | Renzo Llerena               |
+| Capitalent/backend      | feature/crypto  | implementación de los endpoits crypto | 27/05/2025  | Rodrigo Mechan           |
+| Capitalent/backend      | feature/notifications       | implementación de los endpoints de notification | 30/06/2025      | Sebastián Gutarra           |
+| Capitalent/backend      | feature/foro      | implementación de los endpoints foro | 01/07/2025      | Jhon Guerrero              |
+| Capitalent/backend      | feature/foro      | implementación de endpoints educacion financiera  | 02/07/2025      | Renzo Villafuerte             |
+
 ### 5.2.4.5.Execution Evidence for Sprint Review.
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
@@ -1063,15 +1074,7 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 ## 🧪 Evaluaciones según heurísticas (UX Heuristics & Principles Evaluation)
 
 **Usability – Inclusive Design – Information Architecture**  
-**Curso:** Desarrollo de Aplicaciones Open Source  
-**Carrera:** Ingeniería de Software  
-**Sección:** 4346  
-**Profesor:** Rafael Oswaldo Castro Veramendi  
-**Auditor:** Corebyte  
-**Cliente:** Corebyte  
-
-
-
+ 
 ---
 
 ### 📝 Tareas Evaluadas
