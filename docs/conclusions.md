@@ -18,3 +18,4 @@
 
 -Frontend Desplegado Capitalent: https://4346-blockops-app-open-source.github.io/blockops-front-end-aplication/
 
+-Backend Desplegado Capitalent: https://blockops-back-end-application-production.up.railway.app/swagger-ui/index.html#/
