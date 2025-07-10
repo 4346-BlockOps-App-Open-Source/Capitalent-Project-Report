@@ -992,7 +992,8 @@ Frontend Repo:
 <img src="../assest/img/chapter-V/frontendcontri.png" 
   alt="features"/>
 Backend Repo:
-
+<img src="../assest/img/chapter-V/backendcontri.png" 
+  alt="features"/>
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
