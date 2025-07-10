@@ -986,6 +986,15 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 
 ### 5.2.4.5.Execution Evidence for Sprint Review.
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. Hemos seleccionado los endpoints más necesarios entre los presentados en el sprint anterior. En el alcance de este sprint se han desarrollado los bounded context.
+
+| Entity                | EndPoint URL                  | Swagger |
+|-----------------------|-------------------------------|---------|
+| Registro-onboarding   | /api/v1/Registro Onboarding   | <img src="../assest/img/chapter-V/Registro-onboarding-endpoint.png" alt="features"/>  |
+| Signals               | /api/signals                  | <img src="../assest/img/chapter-V/Opera%20Captura%20de%20pantalla_2025-06-22_000317_localhost.png" alt="features"/> |
+| Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/nuevosendpoints.png" alt="features"/> |
+
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 Frontend Repo:
