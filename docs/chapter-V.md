@@ -996,6 +996,9 @@ En esta sección se presentan los endpoints desarrollados durante el sprint y se
 | Notificaciones        | /api/notificaciones           | <img src="../assest/img/chapter-V/nuevosendpoints.png" alt="features"/> |
 
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+Este fue el despliegue de nuestro backend.
+<img src="../assest/img/chapter-V/desplegado.png" alt="features"/>
+
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 Frontend Repo:
 <img src="../assest/img/chapter-V/frontendcontri.png" 
