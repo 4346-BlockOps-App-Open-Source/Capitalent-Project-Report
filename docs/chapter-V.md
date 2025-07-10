@@ -985,6 +985,10 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 | Capitalent/backend      | feature/foro      | implementación de endpoints educacion financiera  | 02/07/2025      | Renzo Villafuerte             |
 
 ### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Este es nuestro frontend desplegado funcionando.
+<img src="../assest/img/chapter-V/abc.jpg" alt="features"/>
+
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. Hemos seleccionado los endpoints más necesarios entre los presentados en el sprint anterior. En el alcance de este sprint se han desarrollado los bounded context.
