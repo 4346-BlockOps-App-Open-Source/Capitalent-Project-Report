@@ -963,8 +963,8 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 |          |   Crear componente de formulario de registro    | 1              |    Desarrollar un formulario React con validación de campos y conexión a backend para sincronizar datos del usuario.         | 3                   | Renzo Llerena | Done |
 |          |   Perfil público con actividad compartida    | 2              |     Como usuario quiero tener un perfil público opcional con mis estadísticas        | 3                   | Renzo Llerena | Done |
 |        |      Inicio de sesión seguro | 3              |        Como usuario quiero iniciar sesión de forma segura para proteger mi cuenta     | 3                   | Renzo Llerena | Done |
-|         | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
-|        | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
+|     US-019    | Implementar alertas de señales en tiempo real | 4 | Configurar WebSockets o polling para recibir notificaciones push cuando se detecte una nueva señal. | 3 | Rodrigo Mechan | Done |
+|  US-038      | Métricas de efectividad de señales | 5 | Como usuario quiero ver métricas de efectividad para entender el rendimiento del algoritmo | 5 | Rodrigo Mechan | Done |
 |US-028         |     Frecuencia de notificaciones  | 10             |     Como usuario quiero ajustar la frecuencia de notificaciones para mantenerme al tanto a mi ritmo        | 3                   | Sebastián Gutarra | Done |
 |US-029         |     Notificaciones dentro de la app y por correo  | 11             |     Como usuario quiero recibir notificaciones tanto en la app como por correo según mi elección        | 2                   | Sebastián Gutarra | Done |
 |     | Crear módulo de microlecciones | 15 | Implementar sistema de contenido educativo con video y texto, y control de progreso del usuario. | 8 | Renzo Villafuerte Tapia | Done |
