@@ -952,8 +952,11 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 
 ### 5.2.4.3.Sprint Backlog 4.
 
-  A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este cuarto sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+Hemos estado trabajando con un Trello para asignarnos las user stories
+<img src="../assest/img/chapter-V/sprinttrello4.png" 
+  alt="features"/>
 
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este cuarto sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 
 | User Stories | Title | Work Item/Task | Description | Estimation (Hours) | Assigned to | Status |
 |--------------|-------|----------------|-------------|---------------------|-------------|--------|
